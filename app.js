@@ -1,5 +1,42 @@
 (() => {
 "use strict";
+const scrollProgress = document.createElement("div");
+scrollProgress.className = "scroll-progress";
+document.body.appendChild(scrollProgress);
+let scrollTicking = false;
+function updateScrollProgress() {
+  const maxScroll = document.documentElement.scrollHeight - window.innerHeight;
+  const progress = maxScroll > 0 ? window.scrollY / maxScroll : 0;
+  scrollProgress.style.transform = "scaleX(" + progress + ")";
+  scrollTicking = false;
+}
+window.addEventListener("scroll", () => {
+  if (!scrollTicking) {
+    window.requestAnimationFrame(updateScrollProgress);
+    scrollTicking = true;
+  }
+}, { passive: true });
+const revealObserver = "IntersectionObserver" in window
+  ? new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-in-view");
+          revealObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12, rootMargin: "0px 0px -55px 0px" })
+  : null;
+function setupScrollReveal() {
+  const targets = document.querySelectorAll(".hero-copy, .hero-visual, .stats-strip, .section-heading, .catalog-tools, .filter-row, .about-section, .footer-content");
+  targets.forEach((el, index) => {
+    el.classList.add("scroll-reveal");
+    if (index % 3 === 1) el.classList.add("from-left");
+    if (index % 3 === 2) el.classList.add("from-right");
+    if (revealObserver) revealObserver.observe(el);
+    else el.classList.add("is-in-view");
+  });
+}
+setupScrollReveal();
 const API="https://robloxscripts.com/api/v1/scripts";
 const SCRIPTBLOX="https://scriptblox.com/api/script/search";
 const container=document.getElementById("scriptsContainer"),searchInput=document.getElementById("searchInput"),filterButtons=document.getElementById("filterButtons"),sortSelect=document.getElementById("sortSelect"),resultCount=document.getElementById("resultCount"),totalCount=document.getElementById("totalCount"),emptyState=document.getElementById("emptyState"),clearFilters=document.getElementById("clearFilters"),toast=document.getElementById("toast");
