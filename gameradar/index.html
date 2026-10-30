@@ -72,7 +72,7 @@
 <script>
 const $=s=>document.querySelector(s);
 const API='https://www.cheapshark.com/api/1.0';
-const youtubeTracks=['DfUryIY1ACo','0Q6Qz4ty8AA','egnzxU4pGF0','txfTLZa5GCk','JW-OU3aqhoc','3qfZhr4Q5fo','SMunb33gkvU','3Zpa_f01rP8'];
+const youtubeTracks=['DfUryIY1ACo','0Q6Qz4ty8AA','egnzxU4pGF0','txfTLZa5GCk','JW-OU3aqhoc','3qfZhr4Q5fo','SMunb33gkvU','3Zpa_f01rP8','6Nbnj9mP-Lk'];
 let musicIndex=0,musicPlayer=null,musicApiLoading=false,musicReady=false,isMusicPlaying=false;
 function setMusicStatus(title,status){const titleEl=document.getElementById('music-title-now'),statusEl=document.getElementById('music-status');if(titleEl)titleEl.textContent=title||'Música do YouTube';if(statusEl)statusEl.textContent=status||'GameRadar soundtrack'}
 function setMusicPlaying(playing){isMusicPlaying=playing;const disc=document.getElementById('vinyl-disc'),button=document.getElementById('music-play');if(disc)disc.classList.toggle('playing',playing);if(button){button.textContent=playing?'Ⅱ':'▶';button.setAttribute('aria-label',playing?'Pausar':'Reproduzir')}if(playing&&musicPlayer){const data=musicPlayer.getVideoData?.();if(data?.title)setMusicStatus(data.title,'Tocando agora')}}
