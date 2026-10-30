@@ -209,3 +209,16 @@ html { scroll-behavior: smooth; scroll-padding-top: 104px; }
  .scroll-reveal,.scroll-reveal.from-left,.scroll-reveal.from-right { opacity:1; transform:none; filter:none; transition:none; }
  .scroll-progress { display:none; }
 }
+
+
+/* Correção: o reveal no scroll deve controlar a entrada, sem competir
+   com as animações antigas de carregamento da página. */
+.scroll-reveal {
+  animation: none !important;
+}
+.scroll-reveal.is-in-view.hero-visual {
+  transform: rotate(1deg);
+}
+.scroll-reveal.is-in-view.hero-visual:hover {
+  transform: translateY(-5px) rotate(0deg);
+}
