@@ -136,3 +136,44 @@ kbd { border: 1px solid #303647; color: #70788b; background: #171b25; border-rad
 .love-note{display:flex;flex-direction:column;align-items:flex-end;gap:0;color:#f1d9ff;font-size:11px;line-height:1.35;text-align:right;margin-left:auto;margin-right:16px}.love-note b{color:#ff9fc9;font-size:12px}.mobile-hint{color:#8f96a8;font-size:11px;margin-top:12px}@media(max-width:640px){.topbar{gap:8px}.love-note{font-size:9px;margin-right:4px}.love-note b{font-size:10px}.top-nav{gap:0}.top-nav .github-link{font-size:10px;padding:6px 7px}.mobile-hint{font-size:10px}}
 \n\n/* Status de compatibilidade por executor */\n.compatibility{margin:0 0 12px;border:1px solid #303747;border-radius:8px;background:#11151e;padding:9px 10px}.compatibility summary{cursor:pointer;color:#c4a3ff;font-size:10px;font-weight:700;list-style:none;display:flex;justify-content:space-between;gap:8px}.compatibility summary::-webkit-details-marker{display:none}.compatibility summary span{color:#9299ad;font-weight:500}.compatibility-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;margin-top:10px}.compatibility-item{display:flex;justify-content:space-between;gap:5px;align-items:center;padding:5px 6px;background:#191e2a;border-radius:5px;font-size:9px;color:#d7dbe5}.compat-unknown{color:#e5c27a;font-size:8px;text-align:right}.compatibility>p{font-size:9px;color:#9299ad;margin:8px 0 0;line-height:1.5}\n
 .key-status{display:flex;align-items:center;gap:6px;margin:0 0 10px;padding:7px 9px;border:1px solid #343a4a;border-radius:7px;background:#171b25;color:#e5c27a;font-size:10px}.key-status strong{color:#9299ad}
+
+
+/* Movimento suave: entrada, profundidade e microinterações */
+@keyframes riseIn {
+  from { opacity: 0; transform: translateY(18px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes floatSoft {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+.topbar { animation: fadeIn .55s ease-out both; }
+.hero-copy { animation: riseIn .7s cubic-bezier(.2,.7,.2,1) both; }
+.hero-visual { animation: riseIn .8s .12s cubic-bezier(.2,.7,.2,1) both; }
+.floating-chip { animation: floatSoft 4s 1s ease-in-out infinite; }
+.stats-strip { animation: riseIn .65s .16s ease-out both; }
+.section-heading { animation: fadeIn .65s ease-out both; }
+.filter-chip, .button, .copy-btn, .details-btn, .github-link, .about-link, .top-nav a {
+  transition: color .22s ease, background-color .22s ease, border-color .22s ease, box-shadow .22s ease, transform .22s ease;
+}
+.filter-chip:hover, .top-nav a:hover, .about-link:hover { transform: translateY(-2px); }
+.script-card {
+  animation: riseIn .55s both;
+  will-change: transform;
+}
+.script-card:nth-child(3n + 2) { animation-delay: .06s; }
+.script-card:nth-child(3n + 3) { animation-delay: .12s; }
+.script-card:hover { transform: translateY(-5px) scale(1.008); }
+.about-section { animation: riseIn .7s ease-out both; transition: border-color .25s ease, box-shadow .25s ease; }
+.about-section:hover { border-color: #5c4385; box-shadow: 0 16px 42px #0002; }
+.brand-mark { transition: transform .25s ease, box-shadow .25s ease; }
+.brand:hover .brand-mark { transform: rotate(-7deg) scale(1.06); box-shadow: 0 0 24px #c4a3ff30; }
+.hero-visual { transition: box-shadow .3s ease, border-color .3s ease; }
+.hero-visual:hover { border-color: #5c4385; box-shadow: 0 30px 90px #0007; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: .01ms !important; }
+}
