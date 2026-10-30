@@ -99,6 +99,7 @@ async function loadSteamDeals(){
   const response=await fetch('./deals.json?updated='+Date.now(),{cache:'no-store'});
   if(!response.ok)throw new Error('Não foi possível carregar o catálogo regional.');
   const data=await response.json();
+  window.gameRadarUpdatedAt=data.updated_at||null;
   if(!Array.isArray(data.deals))throw new Error('Arquivo de ofertas inválido.');
   return data.deals.filter(d=>d&&d.currency==='BRL'&&Number(d.salePrice)>0&&Number(d.normalPrice)>Number(d.salePrice));
 }
