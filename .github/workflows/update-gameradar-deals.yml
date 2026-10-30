@@ -1,6 +1,10 @@
 name: Atualizar ofertas do GameRadar BR
 
 on:
+  push:
+    paths:
+      - "gameradar/update_deals.py"
+      - ".github/workflows/update-gameradar-deals.yml"
   schedule:
     - cron: "17 */3 * * *"
   workflow_dispatch:
