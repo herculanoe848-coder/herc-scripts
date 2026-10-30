@@ -31,9 +31,9 @@
     <button class="music-skip" id="enter-silent" type="button">Entrar sem música</button>
   </div>
 </div>
-<div class="music-player" id="music-player" hidden aria-label="Player do Spotify">
-  <iframe id="spotify-frame" title="Player de música do Spotify" src="about:blank" style="width:100%;height:152px;border:0;border-radius:12px" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="eager"></iframe>
-  <p class="music-volume-note">🎧 Se não começar sozinho, aperte ▶ no player. Ajuste o volume por lá.</p>
+<div class="music-player" id="music-player" hidden aria-label="Player do YouTube">
+  <div id="youtube-player" style="width:100%;min-height:180px"></div>
+  <p class="music-volume-note">🎧 Música pelo YouTube. Se não começar, aperte ▶ no player e ajuste o volume.</p>
 </div>
 <header class="wrap top"><a class="brand" href="#"><span class="logo">↗</span>GameRadar <span>BR</span></a><div class="creator">Criado por <strong>Eduardo Herculano</strong></div><nav class="nav"><a href="#ofertas">Ofertas</a><a href="#gratis">Jogos grátis</a><a href="#launchers">Launchers oficiais</a></nav><a class="btn" href="#ofertas">Ver ofertas ↓</a></header>
 <main class="wrap">
@@ -58,13 +58,41 @@
 <footer class="wrap foot"><div><strong style="color:var(--text)">GameRadar BR</strong><br>Projeto independente de descoberta de ofertas. Não somos afiliados às lojas listadas.</div><div>Dados de ofertas: <a href="https://www.cheapshark.com/" target="_blank" rel="noopener noreferrer">CheapShark</a> · Links de compra e resgate apontam para lojas externas.</div></footer>
 <script>
 const API='https://www.cheapshark.com/api/1.0';
-const spotifyTracks=['1kQOdkqppd6WutiwNEpTg8','22Iq5VFebuytraxL3rWSYu'];
+const youtubeTracks=['DfUryIY1ACo','0Q6Qz4ty8AA'];
+let youtubePlayer=null,youtubeApiReady=false,youtubeStarted=false;
+window.onYouTubeIframeAPIReady=()=>{
+  youtubeApiReady=true;
+  if(youtubeStarted)startYouTubePlayer();
+};
+function startYouTubePlayer(){
+  if(!youtubeApiReady||youtubePlayer)return;
+  youtubePlayer=new YT.Player('youtube-player',{
+    width:'320',height:'180',
+    videoId:youtubeTracks[0],
+    playerVars:{autoplay:1,controls:1,rel:0,playsinline:1},
+    events:{
+      onReady:event=>event.target.playVideo(),
+      onStateChange:event=>{
+        if(event.data===YT.PlayerState.ENDED){
+          event.target.loadVideoById(youtubeTracks[1]);
+        }
+      }
+    }
+  });
+}
 function enterGameRadar(withMusic){
   $('#music-gate').hidden=true;
   if(withMusic){
     $('#music-player').hidden=false;
-    const frame=$('#spotify-frame');
-    frame.src='https://open.spotify.com/embed/track/'+spotifyTracks[0]+'?utm_source=generator&theme=0';
+    youtubeStarted=true;
+    if(youtubeApiReady)startYouTubePlayer();
+    if(!document.getElementById('youtube-iframe-api')){
+      const api=document.createElement('script');
+      api.id='youtube-iframe-api';
+      api.src='https://www.youtube.com/iframe_api';
+      api.async=true;
+      document.head.appendChild(api);
+    }
   }
 }
 $('#enter-with-music').addEventListener('click',()=>enterGameRadar(true));
