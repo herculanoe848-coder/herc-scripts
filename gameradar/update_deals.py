@@ -53,12 +53,6 @@ def main():
                 "discountExpiration": item.get("discount_expiration")
             })
 
-    # Não publica preços vazios como se fossem uma atualização bem-sucedida:
-    # mantém o catálogo anterior se a Steam responder sem promoções.
-    if not deals:
-        print("A Steam não retornou ofertas BRL válidas. Catálogo anterior preservado.")
-        return
-
     output = {
         "source": URL,
         "updated_at": datetime.now(timezone.utc).isoformat(),
