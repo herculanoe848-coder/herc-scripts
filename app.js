@@ -30,7 +30,24 @@ function notify(s){toast.textContent=s;toast.classList.add("show");clearTimeout(
 async function copy(s){try{if(navigator.clipboard&&window.isSecureContext)await navigator.clipboard.writeText(s.code);else{const t=document.createElement("textarea");t.value=s.code;t.style.position="fixed";t.style.opacity="0";document.body.appendChild(t);t.select();if(!document.execCommand("copy"))throw Error();t.remove();}notify("Código copiado!");}catch{notify("Não foi possível copiar automaticamente.");}}
 async function request(page,sort){const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),12000);try{const r=await fetch(API+"?sort="+sort+"&limit=50&page="+page,{headers:{Accept:"application/json"},signal:controller.signal});if(!r.ok)throw Error("HTTP "+r.status);const j=await r.json();if(!Array.isArray(j.data))throw Error("Formato de resposta inesperado");return j.data;}finally{clearTimeout(timer);}}
 let shown=24;
-function render(){const a=visible();const shownItems=a.slice(0,shown);container.innerHTML=shownItems.map(card).join("")+(a.length>shown?'<div class="load-more-wrap"><button class="button button-ghost" id="loadMore" type="button">Carregar mais ('+(a.length-shown)+')</button></div>':"");totalCount.textContent=String(scripts.length);resultCount.textContent=a.length+" scripts encontrados";emptyState.classList.toggle("hidden",a.length!==0);container.classList.toggle("hidden",a.length===0);filterButtons.querySelectorAll("[data-filter]").forEach(b=>{const on=b.dataset.filter===activeFilter;b.classList.toggle("active",on);b.setAttribute("aria-pressed",String(on));});}
+const cardObserver = "IntersectionObserver" in window
+  ? new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-visible");
+          cardObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.08, rootMargin: "0px 0px -36px 0px" })
+  : null;
+function revealCards() {
+  container.querySelectorAll(".script-card").forEach((item, index) => {
+    item.style.transitionDelay = (Math.min(index % 6, 5) * 65) + "ms";
+    if (cardObserver) cardObserver.observe(item);
+    else item.classList.add("is-visible");
+  });
+}
+function render(){const a=visible();const shownItems=a.slice(0,shown);container.innerHTML=shownItems.map(card).join("")+(a.length>shown?'<div class="load-more-wrap"><button class="button button-ghost" id="loadMore" type="button">Carregar mais ('+(a.length-shown)+')</button></div>':"");revealCards();totalCount.textContent=String(scripts.length);resultCount.textContent=a.length+" scripts encontrados";emptyState.classList.toggle("hidden",a.length!==0);container.classList.toggle("hidden",a.length===0);filterButtons.querySelectorAll("[data-filter]").forEach(b=>{const on=b.dataset.filter===activeFilter;b.classList.toggle("active",on);b.setAttribute("aria-pressed",String(on));});}
 async function load(){resultCount.textContent="Carregando os scripts mais relevantes…";container.innerHTML='<p class="card-description">Buscando os resultados iniciais…</p>';try{
 const jobs=[{page:1,sort:"trending"},{page:2,sort:"trending"},{page:1,sort:"newest"},{page:2,sort:"newest"}];
 const extraQueries=["Twisted [BETA]","Helicity","Twisted tornado","Blox Fruits","Blox Fruits Auto Bounty","Blox Fruits Hub","Blox Fruits farm"];
