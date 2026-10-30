@@ -96,40 +96,11 @@ async function detectRegion(){try{const r=await fetch('https://ipapi.co/json/');
 async function loadStores(){try{const r=await fetch(API+'/stores');if(!r.ok)throw 0;const stores=await r.json();const select=$('#store');stores.filter(s=>s.isActive).forEach(s=>{const o=document.createElement('option');o.value=s.storeID;o.textContent=s.storeName;select.append(o)})}catch(e){}}
 // Steam Storefront: preços regionais brasileiros vêm em centavos de BRL. Não requer chave.
 async function loadSteamDeals(){
-  const endpoints=[
-    'https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian',
-    'https://store.steampowered.com/api/featuredcategories/?cc=br&l=portuguese'
-  ];
-  for(const endpoint of endpoints){
-    try{
-      const response=await fetch('https://proxy.cors.dev/'+endpoint,{cache:'no-store',credentials:'omit'});
-      if(!response.ok)continue;
-      const data=await response.json();
-      const groups=['specials','top_sellers','new_releases','genres'];
-      const items=groups.flatMap(key=>Array.isArray(data?.[key]?.items)?data[key].items:[]);
-      const seen=new Set();
-      const deals=[];
-      for(const item of items){
-        const id=String(item.id||item.appid||'');
-        if(!id||seen.has(id))continue;
-        seen.add(id);
-        const original=Number(item.original_price)/100;
-        const sale=Number(item.final_price)/100;
-        const discount=Number(item.discount_percent)||((original>sale&&original>0)?Math.round((1-sale/original)*100):0);
-        if(!(sale>0&&original>sale&&discount>0))continue;
-        deals.push({
-          dealID:'steam-'+id,storeID:'steam',storeName:'Steam (Brasil)',
-          title:item.name||'Jogo Steam',salePrice:sale,normalPrice:original,
-          savings:discount,dealRating:0,
-          thumb:item.large_capsule_image||item.header_image||item.tiny_image||'',
-          dealURL:'https://store.steampowered.com/app/'+id+'/?l=brazilian&cc=br',
-          currency:'BRL'
-        });
-      }
-      if(deals.length)return deals;
-    }catch(error){console.warn('GameRadar Steam endpoint falhou:',error)}
-  }
-  return [];
+  const response=await fetch('./deals.json?updated='+Date.now(),{cache:'no-store'});
+  if(!response.ok)throw new Error('Não foi possível carregar o catálogo regional.');
+  const data=await response.json();
+  if(!Array.isArray(data.deals))throw new Error('Arquivo de ofertas inválido.');
+  return data.deals.filter(d=>d&&d.currency==='BRL'&&Number(d.salePrice)>0&&Number(d.normalPrice)>Number(d.salePrice));
 }
 async function loadDeals(reset=true){
   if(loadingMore||(!hasMore&&!reset))return;
@@ -144,7 +115,7 @@ async function loadDeals(reset=true){
     allDeals=await loadSteamDeals();
     allDeals.sort((a,b)=>popularityRank(a.title)-popularityRank(b.title));
     hasMore=false;
-    $('#status').textContent=allDeals.length+' ofertas com preço regional brasileiro confirmado · Steam.';
+    const updated=window.gameRadarUpdatedAt?new Date(window.gameRadarUpdatedAt):null;$('#status').textContent=allDeals.length+' ofertas brasileiras confirmadas · Steam'+(updated&&!Number.isNaN(updated.getTime())?' · Atualizado '+updated.toLocaleString('pt-BR'):'')+'.';
     render();
   }catch(error){
     box.innerHTML='<div class="message">Não foi possível consultar a loja agora. Tente novamente mais tarde.</div>';
