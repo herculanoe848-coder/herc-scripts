@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://herculanoe848-coder.github.io/herc-scripts/sitemap.xml
