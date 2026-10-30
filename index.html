@@ -1,128 +1,40 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#0b0d12">
-  <meta name="description" content="Central de exemplos Luau para Roblox Studio, com códigos educativos, pesquisa e filtros.">
-  <title>herc_scripts — Central Luau</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
-  <script src="scripts.js" defer></script>
-  <script src="app.js" defer></script>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#100b1c"><meta name="description" content="herc_scripts: catálogo roxo de recursos Luau, exemplos e mecânicas para criar seus próprios jogos no Roblox Studio.">
+<title>herc_scripts — Roblox Script Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css"><script src="scripts.js" defer></script><script src="app.js" defer></script>
 </head>
 <body>
-  <div class="ambient ambient-one" aria-hidden="true"></div>
-  <div class="ambient ambient-two" aria-hidden="true"></div>
-  <header class="topbar">
-    <a class="brand" href="#" aria-label="herc_scripts início">
-      <span class="brand-mark">h<span>_</span></span>
-      <span class="brand-name">herc<span>_scripts</span></span>
-    </a>
-    <nav class="top-nav" aria-label="Navegação principal">
-      <a href="#catalogo">Catálogo</a>
-      <a href="#sobre">Sobre</a>
-      <a class="github-link" href="https://create.roblox.com/docs" target="_blank" rel="noreferrer">Docs Roblox <span aria-hidden="true">↗</span></a>
-    </nav>
-  </header>
-
-  <main>
-    <section class="hero container">
-      <div class="hero-copy">
-        <div class="eyebrow"><span class="status-dot"></span> LUAU RESOURCE HUB</div>
-        <h1>Construa ideias.<br><span>Escreva código.</span></h1>
-        <p class="hero-description">Uma coleção prática de exemplos Luau para aprender, experimentar e criar seus próprios jogos no Roblox Studio.</p>
-        <div class="hero-actions">
-          <a class="button button-primary" href="#catalogo">Explorar catálogo <span aria-hidden="true">↓</span></a>
-          <a class="button button-ghost" href="https://create.roblox.com/docs" target="_blank" rel="noreferrer">Documentação oficial <span aria-hidden="true">↗</span></a>
-        </div>
-        <div class="hero-note"><span class="note-icon">⌘</span> Exemplos para Roblox Studio — não são scripts de exploit.</div>
-      </div>
-      <div class="hero-visual" aria-label="Prévia decorativa de código Luau">
-        <div class="window-bar"><div class="window-dots"><i></i><i></i><i></i></div><span>ServerScriptService / Main.server.lua</span><span class="window-language">LUAU</span></div>
-        <div class="code-preview">
-          <div><span class="line-number">01</span><span class="syntax-purple">local</span> Players = <span class="syntax-blue">game</span>:GetService(<span class="syntax-green">"Players"</span>)</div>
-          <div><span class="line-number">02</span></div>
-          <div><span class="line-number">03</span>Players.PlayerAdded:Connect(<span class="syntax-purple">function</span>(player)</div>
-          <div><span class="line-number">04</span>  <span class="syntax-purple">local</span> stats = <span class="syntax-blue">Instance</span>.new(<span class="syntax-green">"Folder"</span>)</div>
-          <div><span class="line-number">05</span>  stats.Name = <span class="syntax-green">"leaderstats"</span></div>
-          <div><span class="line-number">06</span>  stats.Parent = player</div>
-          <div><span class="line-number">07</span><span class="syntax-purple">end</span>)<span class="cursor"></span></div>
-        </div>
-        <div class="floating-chip"><span class="chip-check">✓</span> Feito para aprender</div>
-      </div>
-    </section>
-
-    <section class="stats-strip container" aria-label="Resumo do catálogo">
-      <div class="stat"><strong id="totalCount">0</strong><span>exemplos no catálogo</span></div>
-      <div class="stat"><strong>Luau</strong><span>linguagem de scripting</span></div>
-      <div class="stat"><strong>100%</strong><span>foco em Roblox Studio</span></div>
-    </section>
-
-    <section class="catalog-section container" id="catalogo">
-      <div class="section-heading">
-        <div>
-          <div class="eyebrow">BIBLIOTECA</div>
-          <h2>Encontre seu próximo <span>projeto.</span></h2>
-          <p>Pesquise por nome, função ou categoria. Copie e adapte os exemplos ao seu jogo.</p>
-        </div>
-        <div class="result-count" id="resultCount" aria-live="polite">Carregando exemplos…</div>
-      </div>
-
-      <div class="catalog-tools">
-        <label class="search-field">
-          <span class="search-icon" aria-hidden="true">⌕</span>
-          <input id="searchInput" type="search" placeholder="Buscar código, função ou palavra-chave..." autocomplete="off">
-          <kbd>Ctrl K</kbd>
-        </label>
-        <label class="sort-field">
-          <span class="sr-only">Ordenar exemplos</span>
-          <select id="sortSelect">
-            <option value="featured">Em destaque</option>
-            <option value="az">Nome: A–Z</option>
-            <option value="category">Categoria</option>
-          </select>
-        </label>
-      </div>
-
-      <div class="filter-row" id="filterButtons" aria-label="Filtrar por categoria">
-        <button class="filter-chip active" type="button" data-filter="Todos">Todos <span class="filter-number" id="allCount">0</span></button>
-        <button class="filter-chip" type="button" data-filter="Jogadores">Jogadores</button>
-        <button class="filter-chip" type="button" data-filter="Interface">Interface</button>
-        <button class="filter-chip" type="button" data-filter="Mecânicas">Mecânicas</button>
-        <button class="filter-chip" type="button" data-filter="Mundo">Mundo</button>
-        <button class="filter-chip" type="button" data-filter="Utilitários">Utilitários</button>
-      </div>
-
-      <div class="scripts-grid" id="scriptsContainer" aria-live="polite"></div>
-      <div class="empty-state hidden" id="emptyState">
-        <div class="empty-icon">⌕</div>
-        <h3>Nenhum exemplo encontrado</h3>
-        <p>Tente outro termo ou limpe os filtros.</p>
-        <button class="button button-ghost" id="clearFilters" type="button">Limpar pesquisa</button>
-      </div>
-    </section>
-
-    <section class="about-section container" id="sobre">
-      <div class="about-icon">{ }</div>
-      <div>
-        <div class="eyebrow">SOBRE O PROJETO</div>
-        <h2>Aprender fazendo, <span>sem atalhos.</span></h2>
-        <p>O herc_scripts reúne trechos didáticos para usar no Roblox Studio. Leia os comentários, teste em um projeto próprio e confira a documentação oficial antes de publicar.</p>
-      </div>
-      <a href="https://create.roblox.com/docs" target="_blank" rel="noreferrer" class="about-link">Abrir documentação <span>↗</span></a>
-    </section>
-  </main>
-
-  <footer class="footer">
-    <div class="container footer-content">
-      <a class="brand footer-brand" href="#"><span class="brand-mark">h<span>_</span></span><span class="brand-name">herc<span>_scripts</span></span></a>
-      <p>Feito para aprender Luau. <span>© <span id="currentYear">2026</span> herc_scripts</span></p>
-      <a href="https://create.roblox.com/docs" target="_blank" rel="noreferrer">Roblox Creator Docs ↗</a>
-    </div>
-  </footer>
-  <div class="toast" id="toast" role="status" aria-live="polite"></div>
-</body>
-</html>
+<div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+<header class="topbar"><a class="brand" href="#"><span class="brand-mark">h<span>_</span></span><span class="brand-name">herc<span>_scripts</span></span></a>
+<nav class="top-nav"><a href="#catalogo">Jogos</a><a href="#sobre">Sobre</a><a class="github-link" href="https://github.com/herculanoe848-coder/herc-scripts" target="_blank" rel="noreferrer">GitHub ↗</a></nav></header>
+<main>
+<section class="hero container"><div class="hero-copy"><div class="eyebrow"><span class="status-dot"></span> ROBLOX RESOURCE LIBRARY</div>
+<h1>Seu próximo jogo.<br><span>Seu próximo script.</span></h1>
+<p class="hero-description">Explore recursos Luau organizados pelos jogos mais conhecidos do Roblox. Pesquise, confira o exemplo e copie para adaptar em sua própria experiência.</p>
+<div class="hero-actions"><a class="button button-primary" href="#catalogo">Explorar jogos ↓</a><a class="button button-ghost" href="https://create.roblox.com/docs" target="_blank" rel="noreferrer">Docs oficiais ↗</a></div>
+<div class="hero-note"><span class="note-icon">✦</span> Códigos didáticos para Roblox Studio • fontes oficiais • cópia rápida</div></div>
+<div class="hero-visual"><div class="window-bar"><div class="window-dots"><i></i><i></i><i></i></div><span>herc_scripts / library.lua</span><span class="window-language">LUAU</span></div>
+<div class="code-preview"><div><span class="line-number">01</span><span class="syntax-purple">local</span> Players = game:GetService(<span class="syntax-green">"Players"</span>)</div><div><span class="line-number">02</span></div><div><span class="line-number">03</span>Players.PlayerAdded:Connect(<span class="syntax-purple">function</span>(player)</div><div><span class="line-number">04</span>  print(<span class="syntax-green">"Bem-vindo, "</span> .. player.Name)</div><div><span class="line-number">05</span><span class="syntax-purple">end</span>)</div><div><span class="line-number">06</span><span class="syntax-blue">-- build something awesome</span><span class="cursor"></span></div></div><div class="floating-chip"><span class="chip-check">✓</span> Recursos organizados</div></div></section>
+<section class="stats-strip container"><div class="stat"><strong id="totalCount">00</strong><span>recursos disponíveis</span></div><div class="stat"><strong>10</strong><span>jogos em destaque</span></div><div class="stat"><strong>Luau</strong><span>Roblox Studio</span></div></section>
+<section class="catalog-section container" id="catalogo"><div class="section-heading"><div><div class="eyebrow">CATÁLOGO POR JOGO</div><h2>Escolha seu <span>universo.</span></h2><p>Exemplos de mecânicas para projetos próprios, com pesquisa e botão de copiar.</p></div><div class="result-count" id="resultCount" aria-live="polite">Carregando…</div></div>
+<div class="catalog-tools"><label class="search-field"><span class="search-icon">⌕</span><input id="searchInput" type="search" placeholder="Buscar jogo, script ou função..." autocomplete="off"><kbd>Ctrl K</kbd></label><label class="sort-field"><span class="sr-only">Ordenar</span><select id="sortSelect"><option value="featured">Em destaque</option><option value="az">Nome: A–Z</option><option value="category">Jogo</option></select></label></div>
+<div class="filter-row" id="filterButtons" aria-label="Filtrar jogos"><button class="filter-chip active" type="button" data-filter="Todos">Todos <span class="filter-number" id="allCount">0</span></button>
+<button class="filter-chip" type="button" data-filter="Steal a Brainrot">Steal a Brainrot</button>
+<button class="filter-chip" type="button" data-filter="Brookhaven RP">Brookhaven RP</button>
+<button class="filter-chip" type="button" data-filter="Murder Mystery 2">Murder Mystery 2</button>
+<button class="filter-chip" type="button" data-filter="Blox Fruits">Blox Fruits</button>
+<button class="filter-chip" type="button" data-filter="RIVALS">RIVALS</button>
+<button class="filter-chip" type="button" data-filter="99 Nights in the Forest">99 Nights in the Forest</button>
+<button class="filter-chip" type="button" data-filter="Adopt Me!">Adopt Me!</button>
+<button class="filter-chip" type="button" data-filter="The Strongest Battlegrounds">The Strongest Battlegrounds</button>
+<button class="filter-chip" type="button" data-filter="Fisch">Fisch</button>
+<button class="filter-chip" type="button" data-filter="Pet Simulator 99">Pet Simulator 99</button>
+</div><div class="scripts-grid" id="scriptsContainer" aria-live="polite"></div><div class="empty-state hidden" id="emptyState"><div class="empty-icon">⌕</div><h3>Nenhum recurso encontrado</h3><p>Tente outro termo ou limpe os filtros.</p><button class="button button-ghost" id="clearFilters" type="button">Limpar pesquisa</button></div></section>
+<section class="about-section container" id="sobre"><div class="about-icon">{ }</div><div><div class="eyebrow">SOBRE O HERC_SCRIPTS</div><h2>Compartilhe conhecimento. <span>Crie com responsabilidade.</span></h2><p>Este catálogo oferece exemplos educacionais para desenvolver experiências próprias. Não são hubs de exploit, executores nem códigos para obter vantagens em jogos de terceiros. Consulte a documentação antes de publicar.</p></div><a href="https://create.roblox.com/docs" target="_blank" rel="noreferrer" class="about-link">Documentação Roblox ↗</a></section>
+</main><footer class="footer"><div class="container footer-content"><a class="brand footer-brand" href="#"><span class="brand-mark">h<span>_</span></span><span class="brand-name">herc<span>_scripts</span></span></a><p>Feito para criadores. <span>© <span id="currentYear">2026</span> herc_scripts</span></p><a href="https://github.com/herculanoe848-coder/herc-scripts" target="_blank" rel="noreferrer">Código-fonte ↗</a></div></footer><div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body></html>
