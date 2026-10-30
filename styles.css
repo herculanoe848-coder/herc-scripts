@@ -132,3 +132,5 @@ kbd { border: 1px solid #303647; color: #70788b; background: #171b25; border-rad
   .footer-content { padding: 18px 0; flex-wrap: wrap; }.footer p { order: 3; width: 100%; }.footer p span { margin-left: 4px; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; transition-duration: .01ms !important; } }
+
+.love-note{display:flex;flex-direction:column;align-items:flex-end;gap:0;color:#f1d9ff;font-size:11px;line-height:1.35;text-align:right;margin-left:auto;margin-right:16px}.love-note b{color:#ff9fc9;font-size:12px}.mobile-hint{color:#8f96a8;font-size:11px;margin-top:12px}@media(max-width:640px){.topbar{gap:8px}.love-note{font-size:9px;margin-right:4px}.love-note b{font-size:10px}.top-nav{gap:0}.top-nav .github-link{font-size:10px;padding:6px 7px}.mobile-hint{font-size:10px}}
