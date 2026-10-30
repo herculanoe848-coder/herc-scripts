@@ -1,133 +1,154 @@
 (() => {
+  "use strict";
+
   const scripts = Array.isArray(window.HERC_SCRIPTS) ? window.HERC_SCRIPTS : [];
+  const container = document.getElementById("scriptsContainer");
   const searchInput = document.getElementById("searchInput");
-  const categoryFilter = document.getElementById("categoryFilter");
-  const sortFilter = document.getElementById("sortFilter");
-  const grid = document.getElementById("scriptGrid");
+  const filterButtons = document.getElementById("filterButtons");
+  const sortSelect = document.getElementById("sortSelect");
+  const resultCount = document.getElementById("resultCount");
+  const totalCount = document.getElementById("totalCount");
+  const allCount = document.getElementById("allCount");
   const emptyState = document.getElementById("emptyState");
-  const categoryGrid = document.getElementById("categoryGrid");
-  const modal = document.getElementById("scriptModal");
+  const clearFilters = document.getElementById("clearFilters");
   const toast = document.getElementById("toast");
-  let currentScript = null;
-  let toastTimer;
+  let activeFilter = "Todos";
+  let toastTimeout;
 
-  const categoryMeta = {
-    "Fundamentos": { icon: "⌘", description: "Conceitos básicos e estrutura" },
-    "Mecânicas": { icon: "⚙", description: "Sistemas de jogo e objetos" },
-    "Interação": { icon: "↗", description: "Interações com o mundo" },
-    "Personagem": { icon: "♟", description: "Movimento e personagens" },
-    "Interface": { icon: "▤", description: "UI, botões e menus" }
-  };
-
-  const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({
+  const escapeHTML = (value) => String(value).replace(/[&<>"']/g, (char) => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
-  }[char]));
+  })[char]);
+
+  function getVisibleScripts() {
+    const query = searchInput.value.trim().toLocaleLowerCase("pt-BR");
+    let visible = scripts.filter((item) => {
+      const matchesFilter = activeFilter === "Todos" || item.category === activeFilter;
+      const searchable = [
+        item.title, item.category, item.description, item.level, item.place,
+        ...(item.tags || []), item.code
+      ].join(" ").toLocaleLowerCase("pt-BR");
+      return matchesFilter && (!query || searchable.includes(query));
+    });
+
+    const sort = sortSelect.value;
+    if (sort === "az") visible.sort((a, b) => a.title.localeCompare(b.title, "pt-BR"));
+    if (sort === "category") visible.sort((a, b) =>
+      a.category.localeCompare(b.category, "pt-BR") || a.title.localeCompare(b.title, "pt-BR"));
+    if (sort === "featured") visible.sort((a, b) =>
+      Number(Boolean(b.featured)) - Number(Boolean(a.featured)) || a.title.localeCompare(b.title, "pt-BR"));
+    return visible;
+  }
+
+  function cardTemplate(item) {
+    return `
+      <article class="script-card">
+        <div class="card-topline">
+          <div class="card-icon" aria-hidden="true">${escapeHTML(item.icon)}</div>
+          <span class="category-label">${escapeHTML(item.category)}</span>
+        </div>
+        <h3 class="card-title">${escapeHTML(item.title)}</h3>
+        <p class="card-description">${escapeHTML(item.description)}</p>
+        <div class="card-meta"><span>${escapeHTML(item.level)}</span><span class="meta-dot"></span><span>${escapeHTML(item.place)}</span></div>
+        <div class="code-block">
+          <div class="code-block-head"><span>EXEMPLO LUAU</span><span>.lua</span></div>
+          <pre><code>${escapeHTML(item.code)}</code></pre>
+        </div>
+        <div class="card-actions">
+          <button class="copy-btn" type="button" data-copy="${escapeHTML(item.id)}">▣ &nbsp; Copiar código</button>
+          <button class="details-btn" type="button" data-details="${escapeHTML(item.id)}" aria-label="Ver detalhes de ${escapeHTML(item.title)}">Detalhes</button>
+        </div>
+      </article>`;
+  }
+
+  function render() {
+    const visible = getVisibleScripts();
+    container.innerHTML = visible.map(cardTemplate).join("");
+    totalCount.textContent = String(scripts.length).padStart(2, "0");
+    allCount.textContent = String(scripts.length);
+    resultCount.textContent = `${visible.length} ${visible.length === 1 ? "exemplo encontrado" : "exemplos encontrados"}`;
+    emptyState.classList.toggle("hidden", visible.length !== 0);
+    container.classList.toggle("hidden", visible.length === 0);
+
+    filterButtons.querySelectorAll("[data-filter]").forEach((button) => {
+      const isActive = button.dataset.filter === activeFilter;
+      button.classList.toggle("active", isActive);
+      button.setAttribute("aria-pressed", String(isActive));
+    });
+  }
 
   function showToast(message) {
     toast.textContent = message;
     toast.classList.add("show");
-    clearTimeout(toastTimer);
-    toastTimer = setTimeout(() => toast.classList.remove("show"), 2200);
+    clearTimeout(toastTimeout);
+    toastTimeout = setTimeout(() => toast.classList.remove("show"), 2200);
   }
 
-  function renderCategories() {
-    const categories = [...new Set(scripts.map(item => item.category))].sort();
-    categories.forEach(category => {
-      const option = document.createElement("option");
-      option.value = category;
-      option.textContent = category;
-      categoryFilter.appendChild(option);
-    });
-    categoryGrid.innerHTML = categories.map(category => {
-      const meta = categoryMeta[category] || { icon: "✦", description: "Explore esta categoria" };
-      const count = scripts.filter(item => item.category === category).length;
-      return `<button class="category-card" type="button" data-category="${escapeHtml(category)}">
-        <span class="category-emoji">${meta.icon}</span><span><strong>${escapeHtml(category)}</strong><small>${count} ${count === 1 ? "exemplo" : "exemplos"} · ${escapeHtml(meta.description)}</small></span>
-      </button>`;
-    }).join("");
-    categoryGrid.querySelectorAll("[data-category]").forEach(button => {
-      button.addEventListener("click", () => {
-        categoryFilter.value = button.dataset.category;
-        document.getElementById("scripts").scrollIntoView({ behavior: "smooth" });
-        renderScripts();
-      });
-    });
-    document.getElementById("scriptCount").textContent = scripts.length;
-    document.getElementById("gameCount").textContent = categories.length;
-  }
-
-  function renderScripts() {
-    const term = searchInput.value.trim().toLocaleLowerCase("pt-BR");
-    const category = categoryFilter.value;
-    let filtered = scripts.filter(item => {
-      const text = `${item.title} ${item.category} ${item.game} ${item.description}`.toLocaleLowerCase("pt-BR");
-      return text.includes(term) && (category === "all" || item.category === category);
-    });
-    if (sortFilter.value === "az") filtered.sort((a, b) => a.title.localeCompare(b.title, "pt-BR"));
-    else filtered.sort((a, b) => Number(Boolean(b.featured)) - Number(Boolean(a.featured)));
-
-    grid.innerHTML = filtered.map(item => `<article class="script-card">
-      <div class="card-top"><span class="card-icon">&lt;/&gt;</span><span class="pill">${escapeHtml(item.category)}</span></div>
-      <h3 class="card-title">${escapeHtml(item.title)}</h3>
-      <p class="card-description">${escapeHtml(item.description)}</p>
-      <div class="card-meta"><span>Luau · Roblox Studio</span><span>${escapeHtml(item.game)}</span></div>
-      <button class="card-open" type="button" data-script-id="${escapeHtml(item.id)}"><span>VER SCRIPT E CÓDIGO</span><span>↗</span></button>
-    </article>`).join("");
-    emptyState.hidden = filtered.length > 0;
-    grid.querySelectorAll("[data-script-id]").forEach(button => {
-      button.addEventListener("click", () => openScript(button.dataset.scriptId));
-    });
-  }
-
-  function openScript(id) {
-    currentScript = scripts.find(item => item.id === id);
-    if (!currentScript) return;
-    document.getElementById("modalTitle").textContent = currentScript.title;
-    document.getElementById("modalCategory").textContent = currentScript.category.toUpperCase();
-    document.getElementById("modalDescription").textContent = `${currentScript.description} Compatibilidade: ${currentScript.game}.`;
-    document.getElementById("modalCode").textContent = currentScript.code;
-    modal.classList.add("open");
-    modal.setAttribute("aria-hidden", "false");
-    document.body.style.overflow = "hidden";
-  }
-
-  function closeModal() {
-    modal.classList.remove("open");
-    modal.setAttribute("aria-hidden", "true");
-    document.body.style.overflow = "";
-  }
-
-  async function copyCode() {
-    if (!currentScript) return;
+  async function copyCode(item) {
     try {
-      await navigator.clipboard.writeText(currentScript.code);
-      showToast("Código copiado!");
-    } catch {
-      const area = document.createElement("textarea");
-      area.value = currentScript.code;
-      area.style.position = "fixed";
-      area.style.opacity = "0";
-      document.body.appendChild(area);
-      area.select();
-      const ok = document.execCommand("copy");
-      area.remove();
-      showToast(ok ? "Código copiado!" : "Não foi possível copiar. Selecione o código manualmente.");
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(item.code);
+      } else {
+        const textarea = document.createElement("textarea");
+        textarea.value = item.code;
+        textarea.style.position = "fixed";
+        textarea.style.opacity = "0";
+        document.body.appendChild(textarea);
+        textarea.select();
+        const successful = document.execCommand("copy");
+        textarea.remove();
+        if (!successful) throw new Error("Cópia não disponível");
+      }
+      showToast(`Código de "${item.title}" copiado!`);
+    } catch (error) {
+      showToast("Não foi possível copiar automaticamente. Selecione o código e copie.");
     }
   }
 
-  searchInput.addEventListener("input", renderScripts);
-  categoryFilter.addEventListener("change", renderScripts);
-  sortFilter.addEventListener("change", renderScripts);
-  document.getElementById("copyButton").addEventListener("click", copyCode);
-  modal.querySelectorAll("[data-close-modal]").forEach(el => el.addEventListener("click", closeModal));
-  document.addEventListener("keydown", event => {
-    if (event.key === "Escape") closeModal();
-    if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") {
-      event.preventDefault();
-      searchInput.focus();
+  filterButtons.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-filter]");
+    if (!button) return;
+    activeFilter = button.dataset.filter;
+    render();
+  });
+
+  searchInput.addEventListener("input", render);
+  sortSelect.addEventListener("change", render);
+  clearFilters.addEventListener("click", () => {
+    searchInput.value = "";
+    activeFilter = "Todos";
+    sortSelect.value = "featured";
+    render();
+    searchInput.focus();
+  });
+
+  container.addEventListener("click", (event) => {
+    const copyButton = event.target.closest("[data-copy]");
+    if (copyButton) {
+      const item = scripts.find((script) => script.id === copyButton.dataset.copy);
+      if (item) copyCode(item);
+      return;
+    }
+
+    const detailsButton = event.target.closest("[data-details]");
+    if (detailsButton) {
+      const item = scripts.find((script) => script.id === detailsButton.dataset.details);
+      if (!item) return;
+      showToast(`Onde usar: ${item.place}`);
     }
   });
 
-  renderCategories();
-  renderScripts();
+  document.addEventListener("keydown", (event) => {
+    if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "k") {
+      event.preventDefault();
+      searchInput.focus();
+    }
+    if (event.key === "Escape" && document.activeElement === searchInput) {
+      searchInput.value = "";
+      render();
+      searchInput.blur();
+    }
+  });
+
+  document.getElementById("currentYear").textContent = String(new Date().getFullYear());
+  render();
 })();

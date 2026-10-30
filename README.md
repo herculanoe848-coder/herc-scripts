@@ -1,45 +1,58 @@
-# herc_scripts — versão inicial
+# herc_scripts
 
-Um catálogo responsivo em português para exemplos de scripts **Luau destinados ao Roblox Studio**. Inclui pesquisa, filtro por categoria, cards, modal de código e botão de copiar.
+Site estático de exemplos educativos de Luau para Roblox Studio. Inclui tema escuro, pesquisa, filtros por categoria, ordenação e botões para copiar código.
 
-## Abrir localmente
+## Arquivos
 
-1. Extraia o ZIP.
+- `index.html` — estrutura da página.
+- `styles.css` — visual responsivo.
+- `scripts.js` — dados e exemplos de código do catálogo.
+- `app.js` — pesquisa, filtros, ordenação e cópia.
+- `README.md` — estas instruções.
+
+## Como testar localmente
+
+1. Baixe e extraia o ZIP.
 2. Abra `index.html` no navegador.
-3. Para melhor compatibilidade com a área de transferência, execute com um servidor local (por exemplo, a extensão Live Server no VS Code).
+3. Pesquise por termos como `moedas`, `interface`, `obby` ou `porta`.
+4. Use os filtros para ver categorias diferentes.
+5. Clique em **Copiar código** para copiar um exemplo.
 
-## Como adicionar ou editar scripts
+A fonte do Google Fonts é opcional; se estiver offline, o site usa fontes alternativas. A cópia usa a Clipboard API quando disponível e tenta um método alternativo em contextos locais.
 
-Edite `scripts.js`. Cada objeto em `window.HERC_SCRIPTS` tem estes campos:
+## Publicar no GitHub Pages
 
-- `id`: identificador único, sem espaços.
-- `title`: nome exibido.
-- `category`: categoria do catálogo.
-- `game`: experiência/cenário onde o exemplo pode ser usado.
-- `description`: resumo.
-- `featured`: `true` para aparecer primeiro.
-- `code`: código exibido no modal.
+1. Abra seu repositório GitHub.
+2. Envie os cinco arquivos para a raiz do repositório, substituindo os antigos.
+3. Faça commit das alterações.
+4. Em **Settings → Pages**, confirme que o Pages está publicado a partir da branch/pasta correta.
+5. Aguarde a atualização e recarregue o site. Pode ser necessário limpar o cache do navegador.
 
-Depois de editar, recarregue a página e publique novamente os arquivos.
+## Adicionar um exemplo
 
-## Publicação gratuita
+Abra `scripts.js` e adicione um objeto ao array `window.HERC_SCRIPTS`. Exemplo:
 
-### GitHub Pages
-1. Crie uma conta em https://github.com/ e um repositório público chamado `herc-scripts`.
-2. Envie `index.html`, `styles.css`, `scripts.js` e `app.js` para a raiz do repositório.
-3. Em **Settings → Pages**, selecione a branch principal e a pasta `/ (root)`.
-4. Salve e aguarde o endereço de publicação aparecer na seção Pages.
+```js
+{
+  id: "meu-exemplo",
+  title: "Meu exemplo",
+  category: "Utilitários",
+  icon: "EX",
+  level: "Iniciante",
+  place: "ServerScriptService",
+  featured: false,
+  description: "Explique o que o exemplo faz.",
+  tags: ["exemplo", "teste"],
+  code: `print("Olá, Roblox!")`
+}
+```
 
-Também é possível usar outra hospedagem estática gratuita, como Cloudflare Pages ou Netlify.
+Use um `id` único. Categorias disponíveis nos filtros: `Jogadores`, `Interface`, `Mecânicas`, `Mundo` e `Utilitários`. Para criar uma nova categoria, adicione também um botão com `data-filter` correspondente no `index.html`.
 
-## Limitações importantes desta versão
+## Importante
 
-- É um site estático: não existe login administrativo real. O controle de publicação é feito por você editando os arquivos e republicando. Não coloque senhas ou chaves secretas em arquivos do site.
-- Não há banco de dados, envio de scripts por visitantes ou painel de administração.
-- O catálogo inicial contém exemplos demonstrativos para experiências próprias no Roblox Studio; não é um catálogo completo de todos os jogos.
-- Links e downloads de ferramentas de terceiros não foram incluídos. Use fontes oficiais e revise os arquivos antes de distribuí-los.
-- Este projeto é independente e não é afiliado à Roblox Corporation.
+Os códigos são exemplos didáticos e podem precisar de ajustes conforme a estrutura do seu jogo. Confira o local indicado no card, teste em uma experiência própria e revise permissões e validação no servidor antes de publicar. Exemplos que usam `LocalScript` devem ficar em um local compatível com execução no cliente.
 
-## Segurança e uso responsável
+Este projeto não fornece exploits, cheats, bypasses ou scripts para interferir em experiências de terceiros.
 
-Use scripts apenas em experiências que você controla ou tem autorização para desenvolver. Revise e teste os códigos no Roblox Studio antes de publicar.
+Documentação oficial: https://create.roblox.com/docs
