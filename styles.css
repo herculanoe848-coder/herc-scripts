@@ -177,3 +177,18 @@ kbd { border: 1px solid #303647; color: #70788b; background: #171b25; border-rad
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: .01ms !important; }
 }
+
+
+/* Refinamento visual: movimento leve, fluido e sem engasgos */
+html { scroll-behavior: smooth; scroll-padding-top: 104px; }
+.hero-visual { animation: heroFloatIn 1.15s cubic-bezier(.18,.72,.22,1) both; }
+@keyframes heroFloatIn { from { opacity: 0; transform: translate3d(0,30px,0) rotate(1deg); } to { opacity: 1; transform: translate3d(0,0,0) rotate(1deg); } }
+.hero-copy { animation-duration: 1.05s; }
+.stats-strip, .section-heading, .about-section { animation-duration: 1s; }
+.script-card { opacity: 0; transform: translate3d(0,24px,0); animation: none !important; transition: opacity .85s ease, transform .85s cubic-bezier(.2,.7,.2,1), border-color .35s ease, box-shadow .35s ease; will-change: auto; }
+.script-card.is-visible { opacity: 1; transform: translate3d(0,0,0); }
+.script-card:hover { transform: translate3d(0,-5px,0) scale(1.008); }
+.catalog-section, .stats-strip, .about-section { scroll-margin-top: 100px; }
+.filter-chip, .button, .copy-btn, .details-btn { transition-duration: .32s; }
+.script-card .compatibility[open] .compatibility-list { animation: fadeIn .35s ease both; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .script-card { opacity: 1; transform: none; transition: none; } .hero-copy, .hero-visual, .stats-strip, .section-heading, .about-section { animation: none !important; } }
