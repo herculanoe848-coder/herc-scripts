@@ -33,6 +33,8 @@ def main():
             original = int(original_raw) / 100
             sale = int(sale_raw) / 100
             discount = int(item.get("discount_percent") or 0)
+            if item.get("discounted") is False:
+                continue
             if not (sale > 0 and original > sale and discount > 0):
                 continue
             seen.add(app_id)
@@ -47,8 +49,15 @@ def main():
                 "dealRating": 0,
                 "thumb": item.get("header_image") or "",
                 "dealURL": "https://store.steampowered.com/app/" + app_id + "/?l=brazilian&cc=br",
-                "currency": "BRL"
+                "currency": "BRL",
+                "discountExpiration": item.get("discount_expiration")
             })
+
+    # Não publica preços vazios como se fossem uma atualização bem-sucedida:
+    # mantém o catálogo anterior se a Steam responder sem promoções.
+    if not deals:
+        print("A Steam não retornou ofertas BRL válidas. Catálogo anterior preservado.")
+        return
 
     output = {
         "source": URL,
