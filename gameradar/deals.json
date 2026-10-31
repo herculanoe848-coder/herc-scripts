@@ -1,22 +1,8 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-10-31T01:16:55.155089+00:00",
-  "count": 29,
+  "updated_at": "2026-10-31T03:58:03.759029+00:00",
+  "count": 31,
   "deals": [
-    {
-      "dealID": "steam-3240220",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Grand Theft Auto V Enhanced",
-      "salePrice": 74.95,
-      "normalPrice": 149.9,
-      "savings": 50,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-      "dealURL": "https://store.steampowered.com/app/3240220/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793901600
-    },
     {
       "dealID": "steam-1326470",
       "storeID": "steam",
@@ -32,6 +18,20 @@
       "discountExpiration": 1793642400
     },
     {
+      "dealID": "steam-3240220",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Grand Theft Auto V Enhanced",
+      "salePrice": 74.95,
+      "normalPrice": 149.9,
+      "savings": 50,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "dealURL": "https://store.steampowered.com/app/3240220/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793901600
+    },
+    {
       "dealID": "steam-3241660",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -44,20 +44,6 @@
       "dealURL": "https://store.steampowered.com/app/3241660/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794243600
-    },
-    {
-      "dealID": "steam-1799840",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Queen's Domain",
-      "salePrice": 54.39,
-      "normalPrice": 63.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793379393",
-      "dealURL": "https://store.steampowered.com/app/1799840/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793984443
     },
     {
       "dealID": "steam-381210",
@@ -116,6 +102,34 @@
       "discountExpiration": 1793642400
     },
     {
+      "dealID": "steam-1799840",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Queen's Domain",
+      "salePrice": 54.39,
+      "normalPrice": 63.99,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793379393",
+      "dealURL": "https://store.steampowered.com/app/1799840/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793984443
+    },
+    {
+      "dealID": "steam-2827200",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "MIMESIS",
+      "salePrice": 13.19,
+      "normalPrice": 32.99,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/9108c2901a1d8ddc96bc68c6c5996fcb2b777ec0/header_alt_assets_2.jpg?t=1793079449",
+      "dealURL": "https://store.steampowered.com/app/2827200/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793642400
+    },
+    {
       "dealID": "steam-275850",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -130,18 +144,60 @@
       "discountExpiration": 1794247200
     },
     {
-      "dealID": "steam-1345940",
+      "dealID": "steam-3919400",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Dying Light Essentials Edition",
-      "salePrice": 9.9,
-      "normalPrice": 99.0,
-      "savings": 90,
+      "title": "黄莓C HuangmeiC",
+      "salePrice": 30.59,
+      "normalPrice": 33.99,
+      "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
-      "dealURL": "https://store.steampowered.com/app/1345940/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919400/4b4769edf258b586bd84d3d0111eea708aa0a4ab/header.jpg?t=1793415013",
+      "dealURL": "https://store.steampowered.com/app/3919400/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794243600
+      "discountExpiration": 1794589211
+    },
+    {
+      "dealID": "steam-4603280",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Triad of Victory",
+      "salePrice": 7.19,
+      "normalPrice": 11.99,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603280/e2edf7147c94503a13f0531493b9f9f9dc9fee47/header.jpg?t=1793414541",
+      "dealURL": "https://store.steampowered.com/app/4603280/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793984420
+    },
+    {
+      "dealID": "steam-5396420",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "NAME ME IF YOU CAN",
+      "salePrice": 16.11,
+      "normalPrice": 21.49,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5396420/84c56c1929d01f4a96a5162ff05493f8cb2f185d/header.jpg?t=1793413157",
+      "dealURL": "https://store.steampowered.com/app/5396420/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794157232
+    },
+    {
+      "dealID": "steam-5335830",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Vagina Sancta",
+      "salePrice": 8.3,
+      "normalPrice": 12.03,
+      "savings": 31,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335830/fba911d640dccbb6a4fcffd9585ad13fee5fd5fb/header.jpg?t=1793409673",
+      "dealURL": "https://store.steampowered.com/app/5335830/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794589212
     },
     {
       "dealID": "steam-4162890",
@@ -156,6 +212,20 @@
       "dealURL": "https://store.steampowered.com/app/4162890/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794589207
+    },
+    {
+      "dealID": "steam-3778650",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Wall Brawl",
+      "salePrice": 14.69,
+      "normalPrice": 24.49,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778650/a501a4ee757e487ddbd876232291e79c895c6a1e/header.jpg?t=1793401440",
+      "dealURL": "https://store.steampowered.com/app/3778650/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793984457
     },
     {
       "dealID": "steam-5285600",
@@ -320,7 +390,7 @@
       "normalPrice": 27.49,
       "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5431200/31d2f790f8dad529c396580d886965f91cd3b97a/header.jpg?t=1793391951",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5431200/31d2f790f8dad529c396580d886965f91cd3b97a/header.jpg?t=1793417042",
       "dealURL": "https://store.steampowered.com/app/5431200/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794589250
@@ -354,20 +424,6 @@
       "discountExpiration": 1794589233
     },
     {
-      "dealID": "steam-5349910",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Cozy Necromancy",
-      "salePrice": 24.74,
-      "normalPrice": 27.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5349910/2de52ff9be31d2bb90b6e80b2d4565b4a51043a5/header.jpg?t=1793389978",
-      "dealURL": "https://store.steampowered.com/app/5349910/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793984456
-    },
-    {
       "dealID": "steam-4799680",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -380,34 +436,6 @@
       "dealURL": "https://store.steampowered.com/app/4799680/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1793984431
-    },
-    {
-      "dealID": "steam-5328430",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "cat.exe",
-      "salePrice": 6.36,
-      "normalPrice": 7.49,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328430/bd80c539deb23e0363fb4b71d3a044d2de9e2949/header.jpg?t=1793405977",
-      "dealURL": "https://store.steampowered.com/app/5328430/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793984403
-    },
-    {
-      "dealID": "steam-3036840",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Apocalyptica",
-      "salePrice": 57.79,
-      "normalPrice": 67.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3036840/d5f8ddb051c2f06ae608f19f1e6157b02858bb63/header.jpg?t=1793387631",
-      "dealURL": "https://store.steampowered.com/app/3036840/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793984450
     }
   ]
 }
