@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-01T18:58:53.305146+00:00",
-  "count": 31,
+  "updated_at": "2026-11-01T21:49:21.519140+00:00",
+  "count": 29,
   "deals": [
     {
       "dealID": "steam-1326470",
@@ -88,6 +88,20 @@
       "discountExpiration": 1794736800
     },
     {
+      "dealID": "steam-275850",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "No Man's Sky",
+      "salePrice": 64.8,
+      "normalPrice": 162.0,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794247200
+    },
+    {
       "dealID": "steam-242760",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -100,6 +114,20 @@
       "dealURL": "https://store.steampowered.com/app/242760/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1793642400
+    },
+    {
+      "dealID": "steam-648800",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Raft",
+      "salePrice": 45.55,
+      "normalPrice": 67.99,
+      "savings": 33,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "dealURL": "https://store.steampowered.com/app/648800/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793901600
     },
     {
       "dealID": "steam-1304930",
@@ -116,32 +144,60 @@
       "discountExpiration": 1793642400
     },
     {
-      "dealID": "steam-221100",
+      "dealID": "steam-5115790",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "DayZ",
-      "salePrice": 84.5,
-      "normalPrice": 169.0,
-      "savings": 50,
+      "title": "JETGRAVE",
+      "salePrice": 14.39,
+      "normalPrice": 17.99,
+      "savings": 20,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
-      "dealURL": "https://store.steampowered.com/app/221100/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115790/582e2b748cf6e0f3e5a2bc656706362a09cc06ce/header.jpg?t=1793568165",
+      "dealURL": "https://store.steampowered.com/app/5115790/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1793642400
+      "discountExpiration": 1794160844
     },
     {
-      "dealID": "steam-275850",
+      "dealID": "steam-5284390",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "No Man's Sky",
-      "salePrice": 64.8,
-      "normalPrice": 162.0,
-      "savings": 60,
+      "title": "Wildfire Command '98",
+      "salePrice": 42.79,
+      "normalPrice": 53.49,
+      "savings": 20,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5284390/8a6d584eff51febf62ac5010e92837258c95e5cb/header.jpg?t=1793559763",
+      "dealURL": "https://store.steampowered.com/app/5284390/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794247200
+      "discountExpiration": 1794765642
+    },
+    {
+      "dealID": "steam-4213320",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Wheel Make It",
+      "salePrice": 11.69,
+      "normalPrice": 12.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213320/f91565e24e6c39b9d76ee4cbeb4f5d5661820c0c/header.jpg?t=1793565624",
+      "dealURL": "https://store.steampowered.com/app/4213320/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794765606
+    },
+    {
+      "dealID": "steam-4530170",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Run, Ronald, Run",
+      "salePrice": 7.69,
+      "normalPrice": 10.99,
+      "savings": 30,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530170/a706ecf13b7f9993b53aba557f23dc8d46cce290/header.jpg?t=1793556496",
+      "dealURL": "https://store.steampowered.com/app/4530170/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794765614
     },
     {
       "dealID": "steam-2754480",
@@ -228,6 +284,20 @@
       "discountExpiration": 1794160826
     },
     {
+      "dealID": "steam-5306640",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "DOOD",
+      "salePrice": 6.59,
+      "normalPrice": 10.99,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306640/dcd9994eec9aa2170950d127d6a7cbfd018594d4/header.jpg?t=1793545288",
+      "dealURL": "https://store.steampowered.com/app/5306640/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794160826
+    },
+    {
       "dealID": "steam-5370330",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -250,7 +320,7 @@
       "normalPrice": 33.99,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501140/7508af0bd4e507c4340a4b6e6e7724556f7b5cfe/header.jpg?t=1793553162",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501140/7508af0bd4e507c4340a4b6e6e7724556f7b5cfe/header.jpg?t=1793566155",
       "dealURL": "https://store.steampowered.com/app/4501140/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794765616
@@ -338,104 +408,6 @@
       "dealURL": "https://store.steampowered.com/app/4009170/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794765616
-    },
-    {
-      "dealID": "steam-5050520",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Moving Company Simulator",
-      "salePrice": 16.05,
-      "normalPrice": 26.75,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050520/6b15909dd4b2870a7402ea47b73cef8c64200a5b/header.jpg?t=1793528437",
-      "dealURL": "https://store.steampowered.com/app/5050520/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765632
-    },
-    {
-      "dealID": "steam-5180260",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Corner TCG",
-      "salePrice": 8.39,
-      "normalPrice": 11.99,
-      "savings": 30,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5180260/0f367655a87ad1ccff57c7a724c0abd7eb27451a/header.jpg?t=1793527470",
-      "dealURL": "https://store.steampowered.com/app/5180260/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794160828
-    },
-    {
-      "dealID": "steam-3808500",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Undertaker",
-      "salePrice": 17.99,
-      "normalPrice": 29.99,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808500/b35656a9b06647d6a9885043074a72d49f0d4036/header.jpg?t=1793541898",
-      "dealURL": "https://store.steampowered.com/app/3808500/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765631
-    },
-    {
-      "dealID": "steam-4799130",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Phantom Grind",
-      "salePrice": 3.22,
-      "normalPrice": 3.79,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799130/4f60bd13f0d5b734b13c5960cff129d77457015c/header.jpg?t=1793527241",
-      "dealURL": "https://store.steampowered.com/app/4799130/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765639
-    },
-    {
-      "dealID": "steam-4703560",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Soviet Backrooms",
-      "salePrice": 3.22,
-      "normalPrice": 3.79,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703560/43ba208fec4903abcf962d1f96384bcc36f5fdd0/header.jpg?t=1793527219",
-      "dealURL": "https://store.steampowered.com/app/4703560/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765618
-    },
-    {
-      "dealID": "steam-5370520",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Anubis Temple: La Perla de Egipto",
-      "salePrice": 33.74,
-      "normalPrice": 37.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370520/8cb0fcd4762178778386b4c1304db8f476585148/header.jpg?t=1793531040",
-      "dealURL": "https://store.steampowered.com/app/5370520/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794160817
-    },
-    {
-      "dealID": "steam-4980490",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "TDM : Task Drill Maniac",
-      "salePrice": 17.54,
-      "normalPrice": 19.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980490/879010c92c9d45869e7fb68c64ed56d5a0e9bb5e/header.jpg?t=1793525839",
-      "dealURL": "https://store.steampowered.com/app/4980490/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765617
     }
   ]
 }
