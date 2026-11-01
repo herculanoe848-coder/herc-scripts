@@ -1,6 +1,6 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-01T09:57:23.909647+00:00",
+  "updated_at": "2026-11-01T13:06:34.802610+00:00",
   "count": 31,
   "deals": [
     {
@@ -74,6 +74,34 @@
       "discountExpiration": 1794243600
     },
     {
+      "dealID": "steam-275850",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "No Man's Sky",
+      "salePrice": 64.8,
+      "normalPrice": 162.0,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794247200
+    },
+    {
+      "dealID": "steam-1304930",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "The Outlast Trials",
+      "salePrice": 32.39,
+      "normalPrice": 107.99,
+      "savings": 70,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
+      "dealURL": "https://store.steampowered.com/app/1304930/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793642400
+    },
+    {
       "dealID": "steam-242760",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -86,20 +114,6 @@
       "dealURL": "https://store.steampowered.com/app/242760/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1793642400
-    },
-    {
-      "dealID": "steam-3764200",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Resident Evil Requiem",
-      "salePrice": 209.3,
-      "normalPrice": 299.0,
-      "savings": 30,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
-      "dealURL": "https://store.steampowered.com/app/3764200/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793728800
     },
     {
       "dealID": "steam-1345940",
@@ -116,32 +130,74 @@
       "discountExpiration": 1794243600
     },
     {
-      "dealID": "steam-275850",
+      "dealID": "steam-648800",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "No Man's Sky",
-      "salePrice": 64.8,
-      "normalPrice": 162.0,
-      "savings": 60,
+      "title": "Raft",
+      "salePrice": 45.55,
+      "normalPrice": 67.99,
+      "savings": 33,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "dealURL": "https://store.steampowered.com/app/648800/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794247200
+      "discountExpiration": 1793901600
     },
     {
-      "dealID": "steam-391220",
+      "dealID": "steam-3808500",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Rise of the Tomb Raider™",
-      "salePrice": 12.49,
-      "normalPrice": 124.99,
-      "savings": 90,
+      "title": "Undertaker",
+      "salePrice": 17.99,
+      "normalPrice": 29.99,
+      "savings": 40,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
-      "dealURL": "https://store.steampowered.com/app/391220/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808500/b35656a9b06647d6a9885043074a72d49f0d4036/header.jpg?t=1793527412",
+      "dealURL": "https://store.steampowered.com/app/3808500/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1793984400
+      "discountExpiration": 1794765631
+    },
+    {
+      "dealID": "steam-5370520",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Anubis Temple: La Perla de Egipto",
+      "salePrice": 33.74,
+      "normalPrice": 37.49,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370520/8cb0fcd4762178778386b4c1304db8f476585148/header.jpg?t=1793531040",
+      "dealURL": "https://store.steampowered.com/app/5370520/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794160817
+    },
+    {
+      "dealID": "steam-4980490",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "TDM : Task Drill Maniac",
+      "salePrice": 17.54,
+      "normalPrice": 19.49,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980490/879010c92c9d45869e7fb68c64ed56d5a0e9bb5e/header.jpg?t=1793525839",
+      "dealURL": "https://store.steampowered.com/app/4980490/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794765617
+    },
+    {
+      "dealID": "steam-5236180",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "City Contractor",
+      "salePrice": 45.89,
+      "normalPrice": 50.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5236180/94f5176466b86a092264ae3cb17a9139a24960a2/header.jpg?t=1793524224",
+      "dealURL": "https://store.steampowered.com/app/5236180/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794420018
     },
     {
       "dealID": "steam-824530",
@@ -170,6 +226,20 @@
       "dealURL": "https://store.steampowered.com/app/5282040/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794160845
+    },
+    {
+      "dealID": "steam-5420170",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "N in One 益智小游戏合集：2048、连连看、泡泡龙、消灭星星",
+      "salePrice": 15.19,
+      "normalPrice": 18.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5420170/bff2bf64ba54b8ddc916235a6679e6da66ce700f/header.jpg?t=1793516496",
+      "dealURL": "https://store.steampowered.com/app/5420170/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794765635
     },
     {
       "dealID": "steam-5409790",
@@ -284,6 +354,20 @@
       "discountExpiration": 1794675652
     },
     {
+      "dealID": "steam-4553450",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Infinite Einstein Tiles3",
+      "salePrice": 22.49,
+      "normalPrice": 37.49,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553450/096002a0678197e312266c637c9bd2aa770602dd/header.jpg?t=1793500637",
+      "dealURL": "https://store.steampowered.com/app/4553450/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794675616
+    },
+    {
       "dealID": "steam-4812400",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -352,90 +436,6 @@
       "dealURL": "https://store.steampowered.com/app/4512150/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794070835
-    },
-    {
-      "dealID": "steam-3459340",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Lacey's Flash Games",
-      "salePrice": 34.42,
-      "normalPrice": 40.5,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/c9f4ab56d50788d9ee18a73e09d8ad8f60bba958/header.jpg?t=1793481904",
-      "dealURL": "https://store.steampowered.com/app/3459340/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794070802
-    },
-    {
-      "dealID": "steam-4819580",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Case Analyst",
-      "salePrice": 31.86,
-      "normalPrice": 37.49,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819580/d1cdbb85b60f67724d4812f0e6f6ecdce51af7dd/header.jpg?t=1793480979",
-      "dealURL": "https://store.steampowered.com/app/4819580/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794675638
-    },
-    {
-      "dealID": "steam-5417330",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Sort Sort Yokai",
-      "salePrice": 19.34,
-      "normalPrice": 21.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417330/789bc170c154e56f33dbcb15a47c13b1b5938bdb/header.jpg?t=1793509507",
-      "dealURL": "https://store.steampowered.com/app/5417330/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794070824
-    },
-    {
-      "dealID": "steam-5392290",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Too Many Orbs!",
-      "salePrice": 14.39,
-      "normalPrice": 17.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5392290/6cf93a2b38e04972207b51fc81deae9809187960/header.jpg?t=1793481341",
-      "dealURL": "https://store.steampowered.com/app/5392290/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794070837
-    },
-    {
-      "dealID": "steam-5246020",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Sex Shop Chaos",
-      "salePrice": 13.38,
-      "normalPrice": 15.75,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246020/00a2ad487d7a15e6fcf78fb2c74e64f2a07a3138/header.jpg?t=1793478951",
-      "dealURL": "https://store.steampowered.com/app/5246020/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794675650
-    },
-    {
-      "dealID": "steam-1838980",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Polyion",
-      "salePrice": 8.39,
-      "normalPrice": 10.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838980/b809afbe919cf1af902b3dd1e0c7e1aab460c8e1/header.jpg?t=1793478852",
-      "dealURL": "https://store.steampowered.com/app/1838980/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794070810
     }
   ]
 }
