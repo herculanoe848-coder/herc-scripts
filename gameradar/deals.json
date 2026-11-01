@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-10-31T21:49:14.178021+00:00",
-  "count": 29,
+  "updated_at": "2026-11-01T01:25:28.860738+00:00",
+  "count": 28,
   "deals": [
     {
       "dealID": "steam-1326470",
@@ -46,20 +46,6 @@
       "discountExpiration": 1794243600
     },
     {
-      "dealID": "steam-381210",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Dead by Daylight",
-      "salePrice": 27.99,
-      "normalPrice": 69.99,
-      "savings": 60,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
-      "dealURL": "https://store.steampowered.com/app/381210/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793642400
-    },
-    {
       "dealID": "steam-2050650",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -74,6 +60,34 @@
       "discountExpiration": 1793728800
     },
     {
+      "dealID": "steam-381210",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Dead by Daylight",
+      "salePrice": 27.99,
+      "normalPrice": 69.99,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
+      "dealURL": "https://store.steampowered.com/app/381210/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793642400
+    },
+    {
+      "dealID": "steam-3459340",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Lacey's Flash Games",
+      "salePrice": 34.42,
+      "normalPrice": 40.5,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/c9f4ab56d50788d9ee18a73e09d8ad8f60bba958/header.jpg?t=1793481904",
+      "dealURL": "https://store.steampowered.com/app/3459340/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794070802
+    },
+    {
       "dealID": "steam-1304930",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -84,6 +98,20 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
       "dealURL": "https://store.steampowered.com/app/1304930/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793642400
+    },
+    {
+      "dealID": "steam-739630",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Phasmophobia",
+      "salePrice": 41.99,
+      "normalPrice": 59.99,
+      "savings": 30,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791632508",
+      "dealURL": "https://store.steampowered.com/app/739630/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1793642400
     },
@@ -102,60 +130,46 @@
       "discountExpiration": 1793642400
     },
     {
-      "dealID": "steam-275850",
+      "dealID": "steam-3764200",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "No Man's Sky",
-      "salePrice": 64.8,
-      "normalPrice": 162.0,
-      "savings": 60,
+      "title": "Resident Evil Requiem",
+      "salePrice": 209.3,
+      "normalPrice": 299.0,
+      "savings": 30,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "dealURL": "https://store.steampowered.com/app/3764200/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794247200
+      "discountExpiration": 1793728800
     },
     {
-      "dealID": "steam-221100",
+      "dealID": "steam-4512150",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "DayZ",
-      "salePrice": 84.5,
-      "normalPrice": 169.0,
-      "savings": 50,
+      "title": "SICRUN",
+      "salePrice": 11.99,
+      "normalPrice": 15.99,
+      "savings": 25,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
-      "dealURL": "https://store.steampowered.com/app/221100/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512150/45f2c232ba6b1d8f1f1d73ab9937bbe19b597b43/header.jpg?t=1793485177",
+      "dealURL": "https://store.steampowered.com/app/4512150/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1793642400
+      "discountExpiration": 1794070835
     },
     {
-      "dealID": "steam-648800",
+      "dealID": "steam-4819580",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Raft",
-      "salePrice": 45.55,
-      "normalPrice": 67.99,
-      "savings": 33,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
-      "dealURL": "https://store.steampowered.com/app/648800/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793901600
-    },
-    {
-      "dealID": "steam-3459340",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Lacey's Flash Games",
-      "salePrice": 34.42,
-      "normalPrice": 40.5,
+      "title": "Case Analyst",
+      "salePrice": 31.86,
+      "normalPrice": 37.49,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/c9f4ab56d50788d9ee18a73e09d8ad8f60bba958/header.jpg?t=1793481904",
-      "dealURL": "https://store.steampowered.com/app/3459340/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819580/d1cdbb85b60f67724d4812f0e6f6ecdce51af7dd/header.jpg?t=1793480979",
+      "dealURL": "https://store.steampowered.com/app/4819580/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794070802
+      "discountExpiration": 1794675638
     },
     {
       "dealID": "steam-5417330",
@@ -184,6 +198,20 @@
       "dealURL": "https://store.steampowered.com/app/5392290/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794070837
+    },
+    {
+      "dealID": "steam-5246020",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Sex Shop Chaos",
+      "salePrice": 13.38,
+      "normalPrice": 15.75,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246020/00a2ad487d7a15e6fcf78fb2c74e64f2a07a3138/header.jpg?t=1793478951",
+      "dealURL": "https://store.steampowered.com/app/5246020/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794675650
     },
     {
       "dealID": "steam-1838980",
@@ -292,7 +320,7 @@
       "normalPrice": 17.99,
       "savings": 20,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5399880/b50c5efeecd7599d1a092d80dd2edbc1007a5098/header.jpg?t=1793477064",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5399880/1909213f1bad57ff7c4cb3217abfbbd871133a52/header.jpg?t=1793487191",
       "dealURL": "https://store.steampowered.com/app/5399880/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794675609
@@ -366,48 +394,6 @@
       "dealURL": "https://store.steampowered.com/app/5065400/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794070847
-    },
-    {
-      "dealID": "steam-5381770",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Chaos Soccer",
-      "salePrice": 7.99,
-      "normalPrice": 9.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5381770/1625a590189a81e22368b4d311a649e6eaef39f9/header.jpg?t=1793459198",
-      "dealURL": "https://store.steampowered.com/app/5381770/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794675628
-    },
-    {
-      "dealID": "steam-4545030",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Beyond The Mist",
-      "salePrice": 12.89,
-      "normalPrice": 21.49,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545030/e07846142f13f45879ccceb294e0fcf91abf3993/header.jpg?t=1793459064",
-      "dealURL": "https://store.steampowered.com/app/4545030/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794070823
-    },
-    {
-      "dealID": "steam-5140550",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Extravalence",
-      "salePrice": 22.04,
-      "normalPrice": 24.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140550/7b60fcac782ff822b83997a0af554a2fdb2ef3e9/header.jpg?t=1793457586",
-      "dealURL": "https://store.steampowered.com/app/5140550/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794675641
     }
   ]
 }
