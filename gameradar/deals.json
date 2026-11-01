@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-01T01:25:28.860738+00:00",
-  "count": 28,
+  "updated_at": "2026-11-01T04:05:07.574505+00:00",
+  "count": 26,
   "deals": [
     {
       "dealID": "steam-1326470",
@@ -46,20 +46,6 @@
       "discountExpiration": 1794243600
     },
     {
-      "dealID": "steam-2050650",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Resident Evil 4",
-      "salePrice": 42.25,
-      "normalPrice": 169.0,
-      "savings": 75,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "dealURL": "https://store.steampowered.com/app/2050650/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793728800
-    },
-    {
       "dealID": "steam-381210",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -74,18 +60,18 @@
       "discountExpiration": 1793642400
     },
     {
-      "dealID": "steam-3459340",
+      "dealID": "steam-2050650",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Lacey's Flash Games",
-      "salePrice": 34.42,
-      "normalPrice": 40.5,
-      "savings": 15,
+      "title": "Resident Evil 4",
+      "salePrice": 42.25,
+      "normalPrice": 169.0,
+      "savings": 75,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/c9f4ab56d50788d9ee18a73e09d8ad8f60bba958/header.jpg?t=1793481904",
-      "dealURL": "https://store.steampowered.com/app/3459340/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "dealURL": "https://store.steampowered.com/app/2050650/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794070802
+      "discountExpiration": 1793728800
     },
     {
       "dealID": "steam-1304930",
@@ -98,20 +84,6 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
       "dealURL": "https://store.steampowered.com/app/1304930/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793642400
-    },
-    {
-      "dealID": "steam-739630",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Phasmophobia",
-      "salePrice": 41.99,
-      "normalPrice": 59.99,
-      "savings": 30,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791632508",
-      "dealURL": "https://store.steampowered.com/app/739630/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1793642400
     },
@@ -130,18 +102,60 @@
       "discountExpiration": 1793642400
     },
     {
-      "dealID": "steam-3764200",
+      "dealID": "steam-275850",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Resident Evil Requiem",
-      "salePrice": 209.3,
-      "normalPrice": 299.0,
+      "title": "No Man's Sky",
+      "salePrice": 64.8,
+      "normalPrice": 162.0,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794247200
+    },
+    {
+      "dealID": "steam-739630",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Phasmophobia",
+      "salePrice": 41.99,
+      "normalPrice": 59.99,
       "savings": 30,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
-      "dealURL": "https://store.steampowered.com/app/3764200/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791632508",
+      "dealURL": "https://store.steampowered.com/app/739630/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1793728800
+      "discountExpiration": 1793642400
+    },
+    {
+      "dealID": "steam-3459340",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Lacey's Flash Games",
+      "salePrice": 34.42,
+      "normalPrice": 40.5,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/c9f4ab56d50788d9ee18a73e09d8ad8f60bba958/header.jpg?t=1793481904",
+      "dealURL": "https://store.steampowered.com/app/3459340/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794070802
+    },
+    {
+      "dealID": "steam-3814510",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "白线",
+      "salePrice": 26.85,
+      "normalPrice": 33.99,
+      "savings": 21,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3814510/5133db4a1307c0506faf20f4c6387cbfa52586bd/header.jpg?t=1793498354",
+      "dealURL": "https://store.steampowered.com/app/3814510/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794675613
     },
     {
       "dealID": "steam-4512150",
@@ -352,48 +366,6 @@
       "dealURL": "https://store.steampowered.com/app/5002040/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794675627
-    },
-    {
-      "dealID": "steam-4790400",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Operative Division",
-      "salePrice": 82.16,
-      "normalPrice": 98.99,
-      "savings": 17,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790400/44cb34de97b5bdfbe928dcac8ef33122c2c3c7bb/header.jpg?t=1793461914",
-      "dealURL": "https://store.steampowered.com/app/4790400/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794070810
-    },
-    {
-      "dealID": "steam-3058550",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "REWOLBOROUGH VOL.1",
-      "salePrice": 6.29,
-      "normalPrice": 10.49,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058550/1d94977c9fd28693c4f4fd804940c1c6ee896dfc/header.jpg?t=1793460345",
-      "dealURL": "https://store.steampowered.com/app/3058550/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794675603
-    },
-    {
-      "dealID": "steam-5065400",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "DABANGGU",
-      "salePrice": 19.96,
-      "normalPrice": 23.49,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5065400/2b9cef73a14342ada53c64d961b51bc415dd3a75/header.jpg?t=1793459216",
-      "dealURL": "https://store.steampowered.com/app/5065400/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794070847
     }
   ]
 }
