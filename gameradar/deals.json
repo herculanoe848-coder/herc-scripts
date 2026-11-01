@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-01T07:17:03.548824+00:00",
-  "count": 29,
+  "updated_at": "2026-11-01T09:57:23.909647+00:00",
+  "count": 31,
   "deals": [
     {
       "dealID": "steam-1326470",
@@ -32,20 +32,6 @@
       "discountExpiration": 1793901600
     },
     {
-      "dealID": "steam-3241660",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "R.E.P.O.",
-      "salePrice": 19.49,
-      "normalPrice": 29.99,
-      "savings": 35,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
-      "dealURL": "https://store.steampowered.com/app/3241660/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794243600
-    },
-    {
       "dealID": "steam-2050650",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -74,18 +60,18 @@
       "discountExpiration": 1793642400
     },
     {
-      "dealID": "steam-1304930",
+      "dealID": "steam-3241660",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "The Outlast Trials",
-      "salePrice": 32.39,
-      "normalPrice": 107.99,
-      "savings": 70,
+      "title": "R.E.P.O.",
+      "salePrice": 19.49,
+      "normalPrice": 29.99,
+      "savings": 35,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
-      "dealURL": "https://store.steampowered.com/app/1304930/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
+      "dealURL": "https://store.steampowered.com/app/3241660/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1793642400
+      "discountExpiration": 1794243600
     },
     {
       "dealID": "steam-242760",
@@ -102,18 +88,18 @@
       "discountExpiration": 1793642400
     },
     {
-      "dealID": "steam-648800",
+      "dealID": "steam-3764200",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Raft",
-      "salePrice": 45.55,
-      "normalPrice": 67.99,
-      "savings": 33,
+      "title": "Resident Evil Requiem",
+      "salePrice": 209.3,
+      "normalPrice": 299.0,
+      "savings": 30,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
-      "dealURL": "https://store.steampowered.com/app/648800/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "dealURL": "https://store.steampowered.com/app/3764200/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1793901600
+      "discountExpiration": 1793728800
     },
     {
       "dealID": "steam-1345940",
@@ -130,18 +116,74 @@
       "discountExpiration": 1794243600
     },
     {
-      "dealID": "steam-3764200",
+      "dealID": "steam-275850",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Resident Evil Requiem",
-      "salePrice": 209.3,
-      "normalPrice": 299.0,
-      "savings": 30,
+      "title": "No Man's Sky",
+      "salePrice": 64.8,
+      "normalPrice": 162.0,
+      "savings": 60,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
-      "dealURL": "https://store.steampowered.com/app/3764200/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1793728800
+      "discountExpiration": 1794247200
+    },
+    {
+      "dealID": "steam-391220",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Rise of the Tomb Raider™",
+      "salePrice": 12.49,
+      "normalPrice": 124.99,
+      "savings": 90,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
+      "dealURL": "https://store.steampowered.com/app/391220/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793984400
+    },
+    {
+      "dealID": "steam-824530",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Duck Casino: Simulador de Apostas",
+      "salePrice": 13.04,
+      "normalPrice": 14.49,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/824530/98adbf646e4f33e2a9c7b870d76e5447a2840036/header_brazilian.jpg?t=1793520713",
+      "dealURL": "https://store.steampowered.com/app/824530/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794679245
+    },
+    {
+      "dealID": "steam-5282040",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Myriad Auction",
+      "salePrice": 21.99,
+      "normalPrice": 27.49,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5282040/966ffdc2513ef8b203f6b9d0be0b538c5586c37d/header.jpg?t=1793518726",
+      "dealURL": "https://store.steampowered.com/app/5282040/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794160845
+    },
+    {
+      "dealID": "steam-5409790",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Slime Splitter",
+      "salePrice": 22.49,
+      "normalPrice": 24.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5409790/48b8500e1f8d0d52d6aaac1db22c45233f5fda93/header.jpg?t=1793515912",
+      "dealURL": "https://store.steampowered.com/app/5409790/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794070851
     },
     {
       "dealID": "steam-5380410",
@@ -170,6 +212,34 @@
       "dealURL": "https://store.steampowered.com/app/5320830/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794070804
+    },
+    {
+      "dealID": "steam-5398190",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Fish with Friends",
+      "salePrice": 25.49,
+      "normalPrice": 29.99,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5398190/df3c13c95ac7798f71447e8b79e917644f46105f/header.jpg?t=1793509700",
+      "dealURL": "https://store.steampowered.com/app/5398190/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794070819
+    },
+    {
+      "dealID": "steam-5417030",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Find The Gold",
+      "salePrice": 14.39,
+      "normalPrice": 17.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417030/95f7dd226de08cea4d623cf52f1a05a3dd6c1e0e/header.jpg?t=1793509290",
+      "dealURL": "https://store.steampowered.com/app/5417030/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794675629
     },
     {
       "dealID": "steam-4066570",
@@ -212,6 +282,20 @@
       "dealURL": "https://store.steampowered.com/app/5403010/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794675652
+    },
+    {
+      "dealID": "steam-4812400",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Infinite Einstein Tiles Together",
+      "salePrice": 22.49,
+      "normalPrice": 37.49,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812400/04f354ce656696d2c42d8a821b0479e81cc75cee/header.jpg?t=1793500582",
+      "dealURL": "https://store.steampowered.com/app/4812400/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794675620
     },
     {
       "dealID": "steam-3814510",
@@ -352,62 +436,6 @@
       "dealURL": "https://store.steampowered.com/app/1838980/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794070810
-    },
-    {
-      "dealID": "steam-5343280",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "X-Ninja",
-      "salePrice": 9.89,
-      "normalPrice": 10.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5343280/0bf79ab2211778c0d0611fe02161c36732989c47/header.jpg?t=1793477050",
-      "dealURL": "https://store.steampowered.com/app/5343280/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794070808
-    },
-    {
-      "dealID": "steam-3680760",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Yazuke: Destroy The Halloween",
-      "salePrice": 16.19,
-      "normalPrice": 17.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3680760/dd3104efa92fff2a869678ef0305b7d548a48912/header.jpg?t=1793477256",
-      "dealURL": "https://store.steampowered.com/app/3680760/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794675646
-    },
-    {
-      "dealID": "steam-4699020",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "INTUS",
-      "salePrice": 14.39,
-      "normalPrice": 17.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699020/97a1158f5e08d69a4ba3e5ceb973dfd46d81bc62/header.jpg?t=1793482319",
-      "dealURL": "https://store.steampowered.com/app/4699020/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794675655
-    },
-    {
-      "dealID": "steam-4848220",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Jolly Junction: Chapter 1",
-      "salePrice": 10.79,
-      "normalPrice": 11.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848220/0f0e510637737acaa433a73c3cd372244a598951/header.jpg?t=1793469640",
-      "dealURL": "https://store.steampowered.com/app/4848220/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794070838
     }
   ]
 }
