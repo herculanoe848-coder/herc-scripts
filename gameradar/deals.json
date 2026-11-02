@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-01T21:49:21.519140+00:00",
-  "count": 29,
+  "updated_at": "2026-11-02T01:25:26.879505+00:00",
+  "count": 30,
   "deals": [
     {
       "dealID": "steam-1326470",
@@ -32,20 +32,6 @@
       "discountExpiration": 1793901600
     },
     {
-      "dealID": "steam-2050650",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Resident Evil 4",
-      "salePrice": 42.25,
-      "normalPrice": 169.0,
-      "savings": 75,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "dealURL": "https://store.steampowered.com/app/2050650/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1793728800
-    },
-    {
       "dealID": "steam-3241660",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -58,6 +44,20 @@
       "dealURL": "https://store.steampowered.com/app/3241660/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794243600
+    },
+    {
+      "dealID": "steam-2050650",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Resident Evil 4",
+      "salePrice": 42.25,
+      "normalPrice": 169.0,
+      "savings": 75,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "dealURL": "https://store.steampowered.com/app/2050650/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1793728800
     },
     {
       "dealID": "steam-381210",
@@ -88,18 +88,18 @@
       "discountExpiration": 1794736800
     },
     {
-      "dealID": "steam-275850",
+      "dealID": "steam-1304930",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "No Man's Sky",
-      "salePrice": 64.8,
-      "normalPrice": 162.0,
-      "savings": 60,
+      "title": "The Outlast Trials",
+      "salePrice": 32.39,
+      "normalPrice": 107.99,
+      "savings": 70,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
+      "dealURL": "https://store.steampowered.com/app/1304930/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794247200
+      "discountExpiration": 1793642400
     },
     {
       "dealID": "steam-242760",
@@ -116,32 +116,60 @@
       "discountExpiration": 1793642400
     },
     {
-      "dealID": "steam-648800",
+      "dealID": "steam-3751950",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Raft",
-      "salePrice": 45.55,
-      "normalPrice": 67.99,
-      "savings": 33,
+      "title": "Assassin's Creed Black Flag Resynced",
+      "salePrice": 224.99,
+      "normalPrice": 299.99,
+      "savings": 25,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
-      "dealURL": "https://store.steampowered.com/app/648800/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
+      "dealURL": "https://store.steampowered.com/app/3751950/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1793901600
+      "discountExpiration": 1794330000
     },
     {
-      "dealID": "steam-1304930",
+      "dealID": "steam-275850",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "The Outlast Trials",
-      "salePrice": 32.39,
-      "normalPrice": 107.99,
-      "savings": 70,
+      "title": "No Man's Sky",
+      "salePrice": 64.8,
+      "normalPrice": 162.0,
+      "savings": 60,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
-      "dealURL": "https://store.steampowered.com/app/1304930/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1793642400
+      "discountExpiration": 1794247200
+    },
+    {
+      "dealID": "steam-5081940",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Das Hexencafé am Zürichsee: Der letzte Eintrag",
+      "salePrice": 29.99,
+      "normalPrice": 37.49,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5081940/125f55f4790372a7d68d4667fa20afd882551e9f/header.jpg?t=1793574371",
+      "dealURL": "https://store.steampowered.com/app/5081940/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794420004
+    },
+    {
+      "dealID": "steam-4923370",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Studs Up!",
+      "salePrice": 11.19,
+      "normalPrice": 13.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4923370/d3371429d22e43a21a3b40b90e5a37e47c69f00f/header.jpg?t=1793570506",
+      "dealURL": "https://store.steampowered.com/app/4923370/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794160845
     },
     {
       "dealID": "steam-5115790",
@@ -198,6 +226,20 @@
       "dealURL": "https://store.steampowered.com/app/4530170/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794765614
+    },
+    {
+      "dealID": "steam-5181410",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Lucky Debt",
+      "salePrice": 22.35,
+      "normalPrice": 24.84,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5181410/318d7894264fbebe58f92ba6181409aa0b6c97a2/header.jpg?t=1793553266",
+      "dealURL": "https://store.steampowered.com/app/5181410/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794160825
     },
     {
       "dealID": "steam-2754480",
@@ -380,34 +422,6 @@
       "dealURL": "https://store.steampowered.com/app/4914980/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794420037
-    },
-    {
-      "dealID": "steam-5201830",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Investors Paradise",
-      "salePrice": 50.99,
-      "normalPrice": 67.99,
-      "savings": 25,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201830/b0227aa875861436ed4144bd3e7ad0d7609ed577/header.jpg?t=1793529502",
-      "dealURL": "https://store.steampowered.com/app/5201830/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765621
-    },
-    {
-      "dealID": "steam-4009170",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Obrum",
-      "salePrice": 12.74,
-      "normalPrice": 16.99,
-      "savings": 25,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009170/79155eb6d1717c9ee908c1993a2ba0d6fe44e9d2/header.jpg?t=1793529317",
-      "dealURL": "https://store.steampowered.com/app/4009170/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765616
     }
   ]
 }
