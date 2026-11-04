@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-04T01:23:05.350367+00:00",
-  "count": 33,
+  "updated_at": "2026-11-04T04:10:32.946120+00:00",
+  "count": 32,
   "deals": [
     {
       "dealID": "steam-3240220",
@@ -60,20 +60,6 @@
       "discountExpiration": 1794243600
     },
     {
-      "dealID": "steam-275850",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "No Man's Sky",
-      "salePrice": 64.8,
-      "normalPrice": 162.0,
-      "savings": 60,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794247200
-    },
-    {
       "dealID": "steam-3527290",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -102,20 +88,6 @@
       "discountExpiration": 1793984443
     },
     {
-      "dealID": "steam-5266240",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Potato Please",
-      "salePrice": 30.59,
-      "normalPrice": 33.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1793717995",
-      "dealURL": "https://store.steampowered.com/app/5266240/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765636
-    },
-    {
       "dealID": "steam-4348910",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -130,6 +102,20 @@
       "discountExpiration": 1794416439
     },
     {
+      "dealID": "steam-5266240",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Potato Please",
+      "salePrice": 30.59,
+      "normalPrice": 33.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1793717995",
+      "dealURL": "https://store.steampowered.com/app/5266240/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794765636
+    },
+    {
       "dealID": "steam-2060160",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -142,6 +128,34 @@
       "dealURL": "https://store.steampowered.com/app/2060160/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794839400
+    },
+    {
+      "dealID": "steam-275850",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "No Man's Sky",
+      "salePrice": 64.8,
+      "normalPrice": 162.0,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794247200
+    },
+    {
+      "dealID": "steam-4286110",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "妹调教日记",
+      "salePrice": 45.89,
+      "normalPrice": 50.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286110/184ffaf12702434e31c6fc78e74138796b6e6c2e/header.jpg?t=1793757503",
+      "dealURL": "https://store.steampowered.com/app/4286110/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794333622
     },
     {
       "dealID": "steam-3700350",
@@ -348,7 +362,7 @@
       "normalPrice": 29.99,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757720/8908b599a451a27badad0ac57cd3c7039a6aee11/header.jpg?t=1793731207",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757720/8908b599a451a27badad0ac57cd3c7039a6aee11/header.jpg?t=1793759423",
       "dealURL": "https://store.steampowered.com/app/4757720/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794333606
@@ -396,6 +410,20 @@
       "discountExpiration": 1794938400
     },
     {
+      "dealID": "steam-4625320",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Quadium 4004 Workbench",
+      "salePrice": 75.59,
+      "normalPrice": 83.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4625320/ef8ea7f3b23359f3da2f9631e72390a6e7a2e9c0/header.jpg?t=1793728947",
+      "dealURL": "https://store.steampowered.com/app/4625320/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794938425
+    },
+    {
       "dealID": "steam-4635950",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -422,48 +450,6 @@
       "dealURL": "https://store.steampowered.com/app/877900/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794333607
-    },
-    {
-      "dealID": "steam-5423570",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Maze 1211",
-      "salePrice": 11.99,
-      "normalPrice": 14.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423570/4a83f4bae0fdb24ae1257099a0c291fadd818ea0/header.jpg?t=1793728831",
-      "dealURL": "https://store.steampowered.com/app/5423570/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794333630
-    },
-    {
-      "dealID": "steam-3760370",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Kick",
-      "salePrice": 14.39,
-      "normalPrice": 17.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760370/d5e0d563d85638e59c3f1c58b135782a1b43be20/header.jpg?t=1793728828",
-      "dealURL": "https://store.steampowered.com/app/3760370/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794938426
-    },
-    {
-      "dealID": "steam-2794590",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Scam Line",
-      "salePrice": 19.2,
-      "normalPrice": 24.0,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794590/86d84c71aadc3000e8719d3df387a0f11007ebcc/header_alt_assets_0.jpg?t=1793728821",
-      "dealURL": "https://store.steampowered.com/app/2794590/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794333600
     }
   ]
 }
