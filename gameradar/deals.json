@@ -1,8 +1,22 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-07T09:59:27.438338+00:00",
-  "count": 32,
+  "updated_at": "2026-11-07T13:09:37.274467+00:00",
+  "count": 33,
   "deals": [
+    {
+      "dealID": "steam-2492040",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "FATAL FURY: City of the Wolves",
+      "salePrice": 14.99,
+      "normalPrice": 59.99,
+      "savings": 75,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
+      "dealURL": "https://store.steampowered.com/app/2492040/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795248000
+    },
     {
       "dealID": "steam-817628",
       "storeID": "steam",
@@ -14,6 +28,20 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
       "dealURL": "https://store.steampowered.com/app/817628/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795111200
+    },
+    {
+      "dealID": "steam-12210",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Grand Theft Auto IV: The Complete Edition",
+      "salePrice": 23.7,
+      "normalPrice": 79.0,
+      "savings": 70,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+      "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795111200
     },
@@ -60,18 +88,32 @@
       "discountExpiration": 1794333600
     },
     {
-      "dealID": "steam-12210",
+      "dealID": "steam-3768760",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Grand Theft Auto IV: The Complete Edition",
-      "salePrice": 23.7,
-      "normalPrice": 79.0,
-      "savings": 70,
+      "title": "007 First Light",
+      "salePrice": 203.94,
+      "normalPrice": 339.9,
+      "savings": 40,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
-      "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
+      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1795111200
+      "discountExpiration": 1794247200
+    },
+    {
+      "dealID": "steam-3159330",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Assassin’s Creed Shadows",
+      "salePrice": 139.99,
+      "normalPrice": 349.99,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1792778493",
+      "dealURL": "https://store.steampowered.com/app/3159330/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794330000
     },
     {
       "dealID": "steam-3527290",
@@ -88,60 +130,46 @@
       "discountExpiration": 1794736800
     },
     {
-      "dealID": "steam-1345940",
+      "dealID": "steam-275850",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Dying Light Essentials Edition",
-      "salePrice": 9.9,
-      "normalPrice": 99.0,
-      "savings": 90,
+      "title": "No Man's Sky",
+      "salePrice": 64.8,
+      "normalPrice": 162.0,
+      "savings": 60,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
-      "dealURL": "https://store.steampowered.com/app/1345940/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794243600
-    },
-    {
-      "dealID": "steam-2448570",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Road Rash™: Edição de 30º Aniversário",
-      "salePrice": 24.5,
-      "normalPrice": 49.0,
-      "savings": 50,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448570/a12ed683c51938590f28400c89cd8c8204e1e8db/header.jpg?t=1793986604",
-      "dealURL": "https://store.steampowered.com/app/2448570/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795111200
-    },
-    {
-      "dealID": "steam-4715160",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Finals Week: Descolado",
-      "salePrice": 17.04,
-      "normalPrice": 27.49,
-      "savings": 38,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
-      "dealURL": "https://store.steampowered.com/app/4715160/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794502819
-    },
-    {
-      "dealID": "steam-3768760",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "007 First Light",
-      "salePrice": 203.94,
-      "normalPrice": 339.9,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
-      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794247200
+    },
+    {
+      "dealID": "steam-5150150",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Arcade Lacrosse",
+      "salePrice": 11.69,
+      "normalPrice": 19.49,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5150150/4c45a76b9a65ffa8eb1356a38c56a02e28d96906/header.jpg?t=1794054588",
+      "dealURL": "https://store.steampowered.com/app/5150150/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284047
+    },
+    {
+      "dealID": "steam-5423940",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Rubber Messiah: Simulador de Bunker da Luxúria 18+",
+      "salePrice": 74.99,
+      "normalPrice": 99.99,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423940/e48702473696740ac7958c8ea786432ddb101d8b/header_brazilian.jpg?t=1794045564",
+      "dealURL": "https://store.steampowered.com/app/5423940/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284058
     },
     {
       "dealID": "steam-5250630",
@@ -170,6 +198,20 @@
       "dealURL": "https://store.steampowered.com/app/5230360/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794679219
+    },
+    {
+      "dealID": "steam-5451370",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Legend of Cina 2",
+      "salePrice": 2.27,
+      "normalPrice": 3.79,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5451370/2f11476fb2f7c54776cf9dd95b4ee712f9474e25/header.jpg?t=1794038555",
+      "dealURL": "https://store.steampowered.com/app/5451370/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284033
     },
     {
       "dealID": "steam-4911350",
@@ -212,6 +254,20 @@
       "dealURL": "https://store.steampowered.com/app/5013580/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795197648
+    },
+    {
+      "dealID": "steam-5184450",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Just Kill",
+      "salePrice": 24.07,
+      "normalPrice": 26.75,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184450/db68a669f0079ff2c7cb402974ca33e1f762046d/header.jpg?t=1794030074",
+      "dealURL": "https://store.steampowered.com/app/5184450/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794592812
     },
     {
       "dealID": "steam-5339950",
@@ -408,48 +464,6 @@
       "dealURL": "https://store.steampowered.com/app/5221200/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794592853
-    },
-    {
-      "dealID": "steam-4995060",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "The Tally",
-      "salePrice": 11.24,
-      "normalPrice": 12.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995060/df4a694614e410f199fbc1166dba11c2224764a4/header.jpg?t=1794006804",
-      "dealURL": "https://store.steampowered.com/app/4995060/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794592822
-    },
-    {
-      "dealID": "steam-5114030",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Retro TV Tycoon",
-      "salePrice": 35.19,
-      "normalPrice": 43.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114030/b0aae65447f9cb481a51cfcd156e5f75bcae0e38/header.jpg?t=1794004224",
-      "dealURL": "https://store.steampowered.com/app/5114030/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795197615
-    },
-    {
-      "dealID": "steam-5365100",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "LetterZ: The paths of letters",
-      "salePrice": 8.49,
-      "normalPrice": 9.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365100/d1d778cb3d283c84ea5f04815dd466e43e3b264f/header.jpg?t=1794004034",
-      "dealURL": "https://store.steampowered.com/app/5365100/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794592812
     }
   ]
 }
