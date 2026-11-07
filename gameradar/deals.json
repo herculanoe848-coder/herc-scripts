@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-07T18:59:53.839208+00:00",
-  "count": 28,
+  "updated_at": "2026-11-07T21:50:54.404346+00:00",
+  "count": 30,
   "deals": [
     {
       "dealID": "steam-817628",
@@ -32,20 +32,6 @@
       "discountExpiration": 1794243600
     },
     {
-      "dealID": "steam-12210",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Grand Theft Auto IV: The Complete Edition",
-      "salePrice": 23.7,
-      "normalPrice": 79.0,
-      "savings": 70,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
-      "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795111200
-    },
-    {
       "dealID": "steam-3527290",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -58,6 +44,48 @@
       "dealURL": "https://store.steampowered.com/app/3527290/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794736800
+    },
+    {
+      "dealID": "steam-4715160",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Finals Week: Descolado",
+      "salePrice": 17.04,
+      "normalPrice": 27.49,
+      "savings": 38,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
+      "dealURL": "https://store.steampowered.com/app/4715160/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794502819
+    },
+    {
+      "dealID": "steam-275850",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "No Man's Sky",
+      "salePrice": 64.8,
+      "normalPrice": 162.0,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794247200
+    },
+    {
+      "dealID": "steam-12210",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Grand Theft Auto IV: The Complete Edition",
+      "salePrice": 23.7,
+      "normalPrice": 79.0,
+      "savings": 70,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+      "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795111200
     },
     {
       "dealID": "steam-1790600",
@@ -88,48 +116,6 @@
       "discountExpiration": 1794247200
     },
     {
-      "dealID": "steam-4348910",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "salePrice": 40.49,
-      "normalPrice": 44.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793942460",
-      "dealURL": "https://store.steampowered.com/app/4348910/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794416439
-    },
-    {
-      "dealID": "steam-275850",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "No Man's Sky",
-      "salePrice": 64.8,
-      "normalPrice": 162.0,
-      "savings": 60,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-      "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794247200
-    },
-    {
-      "dealID": "steam-4715160",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Finals Week: Descolado",
-      "salePrice": 17.04,
-      "normalPrice": 27.49,
-      "savings": 38,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
-      "dealURL": "https://store.steampowered.com/app/4715160/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794502819
-    },
-    {
       "dealID": "steam-1345940",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -144,6 +130,20 @@
       "discountExpiration": 1794243600
     },
     {
+      "dealID": "steam-4348910",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "salePrice": 40.49,
+      "normalPrice": 44.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793942460",
+      "dealURL": "https://store.steampowered.com/app/4348910/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794416439
+    },
+    {
       "dealID": "steam-2399830",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -156,6 +156,76 @@
       "dealURL": "https://store.steampowered.com/app/2399830/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794157200
+    },
+    {
+      "dealID": "steam-5444410",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Dungeon Survivor",
+      "salePrice": 2.27,
+      "normalPrice": 3.79,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5444410/4b2ba010ae3d455ee9894481fbeef38a82538b0b/header.jpg?t=1794080956",
+      "dealURL": "https://store.steampowered.com/app/5444410/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794679215
+    },
+    {
+      "dealID": "steam-4873800",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Mosaique Neko Waifus 6",
+      "salePrice": 14.61,
+      "normalPrice": 19.49,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873800/be4448c0bcaaa5979231eff0db9fd6de4b03cd22/header.jpg?t=1794080863",
+      "dealURL": "https://store.steampowered.com/app/4873800/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284003
+    },
+    {
+      "dealID": "steam-2540670",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Terralysia",
+      "salePrice": 17.74,
+      "normalPrice": 35.49,
+      "savings": 50,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540670/header.jpg?t=1794077983",
+      "dealURL": "https://store.steampowered.com/app/2540670/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795276800
+    },
+    {
+      "dealID": "steam-4453700",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "The Beckoning",
+      "salePrice": 15.59,
+      "normalPrice": 19.49,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453700/84a0d7dda26192360691f9818059539d1c5bb47c/header.jpg?t=1794077796",
+      "dealURL": "https://store.steampowered.com/app/4453700/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794679234
+    },
+    {
+      "dealID": "steam-4626180",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "INTERNS",
+      "salePrice": 44.99,
+      "normalPrice": 49.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626180/e010f622e0c28a7bffd9236ce0b17a0728b3baa9/header.jpg?t=1794083804",
+      "dealURL": "https://store.steampowered.com/app/4626180/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284014
     },
     {
       "dealID": "steam-4640760",
@@ -184,6 +254,20 @@
       "dealURL": "https://store.steampowered.com/app/5477320/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795284003
+    },
+    {
+      "dealID": "steam-4541310",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Flirt Simulator",
+      "salePrice": 24.79,
+      "normalPrice": 30.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541310/afd18a32c6ba46176c4f3724c241016f506134f2/header.jpg?t=1794069489",
+      "dealURL": "https://store.steampowered.com/app/4541310/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284008
     },
     {
       "dealID": "steam-5273050",
@@ -236,7 +320,7 @@
       "normalPrice": 74.5,
       "savings": 37,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900110/c2196ad8efee5dfa537eecc4f6b6c61214d45e08/header.jpg?t=1794075195",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900110/c2196ad8efee5dfa537eecc4f6b6c61214d45e08/header.jpg?t=1794079524",
       "dealURL": "https://store.steampowered.com/app/4900110/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795284051
@@ -326,74 +410,18 @@
       "discountExpiration": 1795284017
     },
     {
-      "dealID": "steam-5423940",
+      "dealID": "steam-3435580",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Rubber Messiah: Simulador de Bunker da Luxúria 18+",
-      "salePrice": 74.99,
-      "normalPrice": 99.99,
-      "savings": 25,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423940/e48702473696740ac7958c8ea786432ddb101d8b/header_brazilian.jpg?t=1794045564",
-      "dealURL": "https://store.steampowered.com/app/5423940/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284058
-    },
-    {
-      "dealID": "steam-5250630",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Punch to Defend",
-      "salePrice": 8.79,
-      "normalPrice": 10.99,
+      "title": "Noir Total : Deadly Party",
+      "salePrice": 23.99,
+      "normalPrice": 29.99,
       "savings": 20,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5250630/fcf21f1c525422b75839625ef3fb5d71ab9627dc/header.jpg?t=1794043382",
-      "dealURL": "https://store.steampowered.com/app/5250630/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435580/2edc8b8626cca712545e001fd4b2e2945f28427d/header_alt_assets_1.jpg?t=1794051823",
+      "dealURL": "https://store.steampowered.com/app/3435580/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794679201
-    },
-    {
-      "dealID": "steam-5230360",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "One Night at Kevin's VR",
-      "salePrice": 11.69,
-      "normalPrice": 19.49,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230360/a00c28d6fc8e7eb10943270a006e0527dabd1414/header.jpg?t=1794042200",
-      "dealURL": "https://store.steampowered.com/app/5230360/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794679219
-    },
-    {
-      "dealID": "steam-5272550",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Sow the Stars",
-      "salePrice": 4.81,
-      "normalPrice": 5.35,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5272550/304b280bc769761743c6b58674ff5a9bba88773b/header.jpg?t=1794042159",
-      "dealURL": "https://store.steampowered.com/app/5272550/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284037
-    },
-    {
-      "dealID": "steam-5451370",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Legend of Cina 2",
-      "salePrice": 2.27,
-      "normalPrice": 3.79,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5451370/2f11476fb2f7c54776cf9dd95b4ee712f9474e25/header.jpg?t=1794038555",
-      "dealURL": "https://store.steampowered.com/app/5451370/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284033
+      "discountExpiration": 1794938442
     }
   ]
 }
