@@ -1,8 +1,22 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-08T18:59:33.280917+00:00",
-  "count": 32,
+  "updated_at": "2026-11-08T21:51:03.514028+00:00",
+  "count": 33,
   "deals": [
+    {
+      "dealID": "steam-3241660",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "R.E.P.O.",
+      "salePrice": 19.49,
+      "normalPrice": 29.99,
+      "savings": 35,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
+      "dealURL": "https://store.steampowered.com/app/3241660/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794243600
+    },
     {
       "dealID": "steam-817628",
       "storeID": "steam",
@@ -14,6 +28,34 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
       "dealURL": "https://store.steampowered.com/app/817628/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795111200
+    },
+    {
+      "dealID": "steam-3527290",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "PEAK",
+      "salePrice": 14.87,
+      "normalPrice": 23.99,
+      "savings": 38,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
+      "dealURL": "https://store.steampowered.com/app/3527290/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794736800
+    },
+    {
+      "dealID": "steam-12210",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Grand Theft Auto IV: The Complete Edition",
+      "salePrice": 23.7,
+      "normalPrice": 79.0,
+      "savings": 70,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+      "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795111200
     },
@@ -32,34 +74,6 @@
       "discountExpiration": 1794247200
     },
     {
-      "dealID": "steam-3241660",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "R.E.P.O.",
-      "salePrice": 19.49,
-      "normalPrice": 29.99,
-      "savings": 35,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
-      "dealURL": "https://store.steampowered.com/app/3241660/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794243600
-    },
-    {
-      "dealID": "steam-12210",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Grand Theft Auto IV: The Complete Edition",
-      "salePrice": 23.7,
-      "normalPrice": 79.0,
-      "savings": 70,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
-      "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795111200
-    },
-    {
       "dealID": "steam-275850",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -72,6 +86,20 @@
       "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794247200
+    },
+    {
+      "dealID": "steam-4715160",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Finals Week: Descolado",
+      "salePrice": 17.04,
+      "normalPrice": 27.49,
+      "savings": 38,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
+      "dealURL": "https://store.steampowered.com/app/4715160/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794502819
     },
     {
       "dealID": "steam-1790600",
@@ -88,20 +116,6 @@
       "discountExpiration": 1794333600
     },
     {
-      "dealID": "steam-3527290",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "PEAK",
-      "salePrice": 14.87,
-      "normalPrice": 23.99,
-      "savings": 38,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
-      "dealURL": "https://store.steampowered.com/app/3527290/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794736800
-    },
-    {
       "dealID": "steam-252490",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -114,20 +128,6 @@
       "dealURL": "https://store.steampowered.com/app/252490/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794243600
-    },
-    {
-      "dealID": "steam-4715160",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Finals Week: Descolado",
-      "salePrice": 17.04,
-      "normalPrice": 27.49,
-      "savings": 38,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
-      "dealURL": "https://store.steampowered.com/app/4715160/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794502819
     },
     {
       "dealID": "steam-1345940",
@@ -156,6 +156,34 @@
       "dealURL": "https://store.steampowered.com/app/1272080/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794506400
+    },
+    {
+      "dealID": "steam-5206500",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "DOPA-MATCH3: Cosmic Journey",
+      "salePrice": 9.59,
+      "normalPrice": 11.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5206500/683ca9ff53c73b47958b6826966115f7e24bd7ba/header.jpg?t=1794172761",
+      "dealURL": "https://store.steampowered.com/app/5206500/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795370419
+    },
+    {
+      "dealID": "steam-5312950",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Lightkeeper: Frozen Bay",
+      "salePrice": 6.74,
+      "normalPrice": 7.49,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5312950/d4467595c2913b7b32d55800892ca66d50803111/header.jpg?t=1794166867",
+      "dealURL": "https://store.steampowered.com/app/5312950/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794765606
     },
     {
       "dealID": "steam-5100640",
@@ -198,6 +226,20 @@
       "dealURL": "https://store.steampowered.com/app/4708030/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794765644
+    },
+    {
+      "dealID": "steam-3908970",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Shit Coin Miner",
+      "salePrice": 18.79,
+      "normalPrice": 23.49,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3908970/34a352fea3c75c7359ead58cb48d6f8f0dcb6136/header.jpg?t=1794154076",
+      "dealURL": "https://store.steampowered.com/app/3908970/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794765654
     },
     {
       "dealID": "steam-4961250",
@@ -264,7 +306,7 @@
       "normalPrice": 19.49,
       "savings": 20,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403380/f3e1b115969433db736b1c9ea980435d5f8b9760/header.jpg?t=1794138576",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403380/f3e1b115969433db736b1c9ea980435d5f8b9760/header.jpg?t=1794167162",
       "dealURL": "https://store.steampowered.com/app/5403380/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794765634
@@ -292,7 +334,7 @@
       "normalPrice": 19.49,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5312920/c6b75a9c7200383abcbe8b3741cc9d605cf08602/header.jpg?t=1794134942",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5312920/c6b75a9c7200383abcbe8b3741cc9d605cf08602/header.jpg?t=1794171678",
       "dealURL": "https://store.steampowered.com/app/5312920/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794765600
@@ -334,7 +376,7 @@
       "normalPrice": 33.66,
       "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755250/254923e7e141eb26b800b44364f8f5d558298421/header.jpg?t=1794163664",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755250/254923e7e141eb26b800b44364f8f5d558298421/header.jpg?t=1794171840",
       "dealURL": "https://store.steampowered.com/app/4755250/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794679234
@@ -422,34 +464,6 @@
       "dealURL": "https://store.steampowered.com/app/4763220/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794679222
-    },
-    {
-      "dealID": "steam-5381260",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Terrum DeepDrill",
-      "salePrice": 3.77,
-      "normalPrice": 5.39,
-      "savings": 30,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5381260/75a72803ff24e5c3ba387cb6b197c855d22e3f26/header.jpg?t=1794093996",
-      "dealURL": "https://store.steampowered.com/app/5381260/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794679235
-    },
-    {
-      "dealID": "steam-4982580",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "3 Estrellas",
-      "salePrice": 31.86,
-      "normalPrice": 37.49,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4982580/e08688fb5b76edd6bff72989209d85131173655e/header.jpg?t=1794092834",
-      "dealURL": "https://store.steampowered.com/app/4982580/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284013
     }
   ]
 }
