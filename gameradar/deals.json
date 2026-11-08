@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-08T01:24:30.540977+00:00",
-  "count": 30,
+  "updated_at": "2026-11-08T04:07:48.436465+00:00",
+  "count": 31,
   "deals": [
     {
       "dealID": "steam-3241660",
@@ -18,20 +18,6 @@
       "discountExpiration": 1794243600
     },
     {
-      "dealID": "steam-817628",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "salePrice": 98.96,
-      "normalPrice": 299.9,
-      "savings": 67,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "dealURL": "https://store.steampowered.com/app/817628/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795111200
-    },
-    {
       "dealID": "steam-3527290",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -46,30 +32,16 @@
       "discountExpiration": 1794736800
     },
     {
-      "dealID": "steam-3768760",
+      "dealID": "steam-817628",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "007 First Light",
-      "salePrice": 203.94,
-      "normalPrice": 339.9,
-      "savings": 40,
+      "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "salePrice": 98.96,
+      "normalPrice": 299.9,
+      "savings": 67,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
-      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794247200
-    },
-    {
-      "dealID": "steam-12210",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Grand Theft Auto IV: The Complete Edition",
-      "salePrice": 23.7,
-      "normalPrice": 79.0,
-      "savings": 70,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
-      "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+      "dealURL": "https://store.steampowered.com/app/817628/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795111200
     },
@@ -88,6 +60,20 @@
       "discountExpiration": 1794333600
     },
     {
+      "dealID": "steam-3768760",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "007 First Light",
+      "salePrice": 203.94,
+      "normalPrice": 339.9,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
+      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794247200
+    },
+    {
       "dealID": "steam-4715160",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -102,18 +88,46 @@
       "discountExpiration": 1794502819
     },
     {
-      "dealID": "steam-3669870",
+      "dealID": "steam-12210",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "CONTROL Resonant",
-      "salePrice": 183.99,
-      "normalPrice": 229.99,
-      "savings": 20,
+      "title": "Grand Theft Auto IV: The Complete Edition",
+      "salePrice": 23.7,
+      "normalPrice": 79.0,
+      "savings": 70,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
-      "dealURL": "https://store.steampowered.com/app/3669870/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+      "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794333600
+      "discountExpiration": 1795111200
+    },
+    {
+      "dealID": "steam-4348910",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "salePrice": 40.49,
+      "normalPrice": 44.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793942460",
+      "dealURL": "https://store.steampowered.com/app/4348910/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794416439
+    },
+    {
+      "dealID": "steam-1345940",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Dying Light Essentials Edition",
+      "salePrice": 9.9,
+      "normalPrice": 99.0,
+      "savings": 90,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
+      "dealURL": "https://store.steampowered.com/app/1345940/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794243600
     },
     {
       "dealID": "steam-275850",
@@ -130,18 +144,18 @@
       "discountExpiration": 1794247200
     },
     {
-      "dealID": "steam-4348910",
+      "dealID": "steam-5076430",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "salePrice": 40.49,
-      "normalPrice": 44.99,
-      "savings": 10,
+      "title": "Wandering Bard",
+      "salePrice": 19.49,
+      "normalPrice": 29.99,
+      "savings": 35,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793942460",
-      "dealURL": "https://store.steampowered.com/app/4348910/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076430/462adc3040b5d6843090bcc8e2035f2709df3729/header.jpg?t=1794094116",
+      "dealURL": "https://store.steampowered.com/app/5076430/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794416439
+      "discountExpiration": 1794146400
     },
     {
       "dealID": "steam-5381260",
@@ -170,6 +184,20 @@
       "dealURL": "https://store.steampowered.com/app/4982580/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795284013
+    },
+    {
+      "dealID": "steam-5472000",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Cloverstead",
+      "salePrice": 27.19,
+      "normalPrice": 33.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472000/a7790b392a00fa35b883a23f44c5eca4994f0e54/header.jpg?t=1794082648",
+      "dealURL": "https://store.steampowered.com/app/5472000/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794679227
     },
     {
       "dealID": "steam-5444410",
@@ -340,6 +368,20 @@
       "discountExpiration": 1794679223
     },
     {
+      "dealID": "steam-5308680",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Little Supermarket",
+      "salePrice": 17.19,
+      "normalPrice": 21.49,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308680/95a9939931006fda38518f4499a6257583253119/header.jpg?t=1794065157",
+      "dealURL": "https://store.steampowered.com/app/5308680/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284056
+    },
+    {
       "dealID": "steam-4900110",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -394,34 +436,6 @@
       "dealURL": "https://store.steampowered.com/app/4688280/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795111208
-    },
-    {
-      "dealID": "steam-4631810",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Delveport",
-      "salePrice": 24.74,
-      "normalPrice": 27.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631810/d141ffa34f0be3789c44907df46385bed52d8dcf/header.jpg?t=1794058487",
-      "dealURL": "https://store.steampowered.com/app/4631810/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794679245
-    },
-    {
-      "dealID": "steam-5105000",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Vinland: 1000",
-      "salePrice": 17.54,
-      "normalPrice": 19.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105000/d6b24eea66f5c65325fccd32860ecfd69dd2b74e/header.jpg?t=1794058226",
-      "dealURL": "https://store.steampowered.com/app/5105000/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794679225
     }
   ]
 }
