@@ -1,22 +1,8 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-08T07:20:28.017030+00:00",
-  "count": 32,
+  "updated_at": "2026-11-08T09:59:05.214115+00:00",
+  "count": 31,
   "deals": [
-    {
-      "dealID": "steam-3241660",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "R.E.P.O.",
-      "salePrice": 19.49,
-      "normalPrice": 29.99,
-      "savings": 35,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
-      "dealURL": "https://store.steampowered.com/app/3241660/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794243600
-    },
     {
       "dealID": "steam-817628",
       "storeID": "steam",
@@ -32,18 +18,32 @@
       "discountExpiration": 1795111200
     },
     {
-      "dealID": "steam-3527290",
+      "dealID": "steam-3241660",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "PEAK",
-      "salePrice": 14.87,
-      "normalPrice": 23.99,
-      "savings": 38,
+      "title": "R.E.P.O.",
+      "salePrice": 19.49,
+      "normalPrice": 29.99,
+      "savings": 35,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
-      "dealURL": "https://store.steampowered.com/app/3527290/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
+      "dealURL": "https://store.steampowered.com/app/3241660/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794736800
+      "discountExpiration": 1794243600
+    },
+    {
+      "dealID": "steam-4348910",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "salePrice": 40.49,
+      "normalPrice": 44.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793942460",
+      "dealURL": "https://store.steampowered.com/app/4348910/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794416439
     },
     {
       "dealID": "steam-3768760",
@@ -74,18 +74,18 @@
       "discountExpiration": 1794247200
     },
     {
-      "dealID": "steam-12210",
+      "dealID": "steam-2492040",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Grand Theft Auto IV: The Complete Edition",
-      "salePrice": 23.7,
-      "normalPrice": 79.0,
-      "savings": 70,
+      "title": "FATAL FURY: City of the Wolves",
+      "salePrice": 14.99,
+      "normalPrice": 59.99,
+      "savings": 75,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
-      "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
+      "dealURL": "https://store.steampowered.com/app/2492040/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1795111200
+      "discountExpiration": 1795248000
     },
     {
       "dealID": "steam-1345940",
@@ -102,32 +102,18 @@
       "discountExpiration": 1794243600
     },
     {
-      "dealID": "steam-4348910",
+      "dealID": "steam-12210",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "salePrice": 40.49,
-      "normalPrice": 44.99,
-      "savings": 10,
+      "title": "Grand Theft Auto IV: The Complete Edition",
+      "salePrice": 23.7,
+      "normalPrice": 79.0,
+      "savings": 70,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793942460",
-      "dealURL": "https://store.steampowered.com/app/4348910/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+      "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794416439
-    },
-    {
-      "dealID": "steam-2492040",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "FATAL FURY: City of the Wolves",
-      "salePrice": 14.99,
-      "normalPrice": 59.99,
-      "savings": 75,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
-      "dealURL": "https://store.steampowered.com/app/2492040/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795248000
+      "discountExpiration": 1795111200
     },
     {
       "dealID": "steam-4715160",
@@ -158,20 +144,6 @@
       "discountExpiration": 1794333600
     },
     {
-      "dealID": "steam-1272080",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "PAYDAY 3",
-      "salePrice": 26.99,
-      "normalPrice": 89.99,
-      "savings": 70,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/3d85d86a3d2c792046792b19df83ceca0e6c58d3/header_alt_assets_12.jpg?t=1793958317",
-      "dealURL": "https://store.steampowered.com/app/1272080/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794506400
-    },
-    {
       "dealID": "steam-2399830",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -184,6 +156,20 @@
       "dealURL": "https://store.steampowered.com/app/2399830/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794157200
+    },
+    {
+      "dealID": "steam-4755250",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "ROMUL",
+      "salePrice": 30.29,
+      "normalPrice": 33.66,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755250/254923e7e141eb26b800b44364f8f5d558298421/header.jpg?t=1794119916",
+      "dealURL": "https://store.steampowered.com/app/4755250/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794679234
     },
     {
       "dealID": "steam-3010300",
@@ -212,6 +198,34 @@
       "dealURL": "https://store.steampowered.com/app/2842720/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794762000
+    },
+    {
+      "dealID": "steam-5201710",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "研究生模拟器：毕业倒计时",
+      "salePrice": 21.4,
+      "normalPrice": 26.75,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201710/b5c218260fcc131a4789915e76be6d396eb71cb4/header.jpg?t=1794109227",
+      "dealURL": "https://store.steampowered.com/app/5201710/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794679226
+    },
+    {
+      "dealID": "steam-4763220",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "ONE SKILL - Drive or Fall",
+      "salePrice": 8.69,
+      "normalPrice": 14.49,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763220/0ac26b1ccfd3bf1f785ae2978366f9780d6ccea8/header.jpg?t=1794108324",
+      "dealURL": "https://store.steampowered.com/app/4763220/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794679222
     },
     {
       "dealID": "steam-5076430",
@@ -422,34 +436,6 @@
       "dealURL": "https://store.steampowered.com/app/5259730/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794679237
-    },
-    {
-      "dealID": "steam-5218890",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Go! Go! Shovelcar!",
-      "salePrice": 17.99,
-      "normalPrice": 19.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5218890/5df450ae33fad46c97155a2c96c728d81a1a7f91/header.jpg?t=1794066145",
-      "dealURL": "https://store.steampowered.com/app/5218890/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794679223
-    },
-    {
-      "dealID": "steam-5308680",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Little Supermarket",
-      "salePrice": 17.19,
-      "normalPrice": 21.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308680/95a9939931006fda38518f4499a6257583253119/header.jpg?t=1794065157",
-      "dealURL": "https://store.steampowered.com/app/5308680/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284056
     }
   ]
 }
