@@ -1,36 +1,8 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-09T04:14:51.591563+00:00",
-  "count": 37,
+  "updated_at": "2026-11-09T07:43:39.695332+00:00",
+  "count": 35,
   "deals": [
-    {
-      "dealID": "steam-3241660",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "R.E.P.O.",
-      "salePrice": 19.49,
-      "normalPrice": 29.99,
-      "savings": 35,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
-      "dealURL": "https://store.steampowered.com/app/3241660/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794243600
-    },
-    {
-      "dealID": "steam-3768760",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "007 First Light",
-      "salePrice": 203.94,
-      "normalPrice": 339.9,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
-      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794247200
-    },
     {
       "dealID": "steam-817628",
       "storeID": "steam",
@@ -46,6 +18,20 @@
       "discountExpiration": 1795111200
     },
     {
+      "dealID": "steam-3241660",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "R.E.P.O.",
+      "salePrice": 19.49,
+      "normalPrice": 29.99,
+      "savings": 35,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
+      "dealURL": "https://store.steampowered.com/app/3241660/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794243600
+    },
+    {
       "dealID": "steam-275850",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -58,20 +44,6 @@
       "dealURL": "https://store.steampowered.com/app/275850/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794247200
-    },
-    {
-      "dealID": "steam-3527290",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "PEAK",
-      "salePrice": 14.87,
-      "normalPrice": 23.99,
-      "savings": 38,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
-      "dealURL": "https://store.steampowered.com/app/3527290/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794736800
     },
     {
       "dealID": "steam-12210",
@@ -102,32 +74,18 @@
       "discountExpiration": 1794243600
     },
     {
-      "dealID": "steam-4715160",
+      "dealID": "steam-3527290",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Finals Week: Descolado",
-      "salePrice": 17.04,
-      "normalPrice": 27.49,
+      "title": "PEAK",
+      "salePrice": 14.87,
+      "normalPrice": 23.99,
       "savings": 38,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
-      "dealURL": "https://store.steampowered.com/app/4715160/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
+      "dealURL": "https://store.steampowered.com/app/3527290/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794502819
-    },
-    {
-      "dealID": "steam-1790600",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "DRAGON BALL: Sparking! ZERO",
-      "salePrice": 123.9,
-      "normalPrice": 206.5,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
-      "dealURL": "https://store.steampowered.com/app/1790600/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794333600
+      "discountExpiration": 1794736800
     },
     {
       "dealID": "steam-129576",
@@ -144,6 +102,48 @@
       "discountExpiration": 1794243600
     },
     {
+      "dealID": "steam-252490",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Rust",
+      "salePrice": 59.99,
+      "normalPrice": 119.99,
+      "savings": 50,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+      "dealURL": "https://store.steampowered.com/app/252490/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794243600
+    },
+    {
+      "dealID": "steam-4348910",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "salePrice": 40.49,
+      "normalPrice": 44.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1794162078",
+      "dealURL": "https://store.steampowered.com/app/4348910/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794416439
+    },
+    {
+      "dealID": "steam-1790600",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "DRAGON BALL: Sparking! ZERO",
+      "salePrice": 123.9,
+      "normalPrice": 206.5,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
+      "dealURL": "https://store.steampowered.com/app/1790600/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794333600
+    },
+    {
       "dealID": "steam-1272080",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -158,6 +158,20 @@
       "discountExpiration": 1794506400
     },
     {
+      "dealID": "steam-4184810",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Bullet Meltdown",
+      "salePrice": 19.99,
+      "normalPrice": 24.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184810/e60e9e8b925f16cf71e5fe4e88ebe475be3410fe/header.jpg?t=1794205795",
+      "dealURL": "https://store.steampowered.com/app/4184810/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795370443
+    },
+    {
       "dealID": "steam-4920280",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -170,6 +184,20 @@
       "dealURL": "https://store.steampowered.com/app/4920280/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795370439
+    },
+    {
+      "dealID": "steam-5353720",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "MorphTrail",
+      "salePrice": 16.19,
+      "normalPrice": 17.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5353720/236497aea77c17c85a934d06c88e26b902db2bfa/header.jpg?t=1794190885",
+      "dealURL": "https://store.steampowered.com/app/5353720/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795370424
     },
     {
       "dealID": "steam-4258970",
@@ -334,7 +362,7 @@
       "normalPrice": 33.99,
       "savings": 20,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100640/7f76c1c40e884e6714bb12a6395f84063fa708a4/header.jpg?t=1794156646",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100640/7f76c1c40e884e6714bb12a6395f84063fa708a4/header.jpg?t=1794205681",
       "dealURL": "https://store.steampowered.com/app/5100640/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794765644
@@ -464,62 +492,6 @@
       "dealURL": "https://store.steampowered.com/app/5403380/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794765634
-    },
-    {
-      "dealID": "steam-5465870",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "ゾンビ盛り！",
-      "salePrice": 8.69,
-      "normalPrice": 14.49,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465870/a35bb3a5019567987cb324e2d0a80eecaf655120/header.jpg?t=1794137752",
-      "dealURL": "https://store.steampowered.com/app/5465870/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765651
-    },
-    {
-      "dealID": "steam-5312920",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "TCG Card Market Simulator",
-      "salePrice": 16.56,
-      "normalPrice": 19.49,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5312920/c6b75a9c7200383abcbe8b3741cc9d605cf08602/header.jpg?t=1794171678",
-      "dealURL": "https://store.steampowered.com/app/5312920/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765600
-    },
-    {
-      "dealID": "steam-5087290",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Sexy female neighbor and her wet cucumber",
-      "salePrice": 29.99,
-      "normalPrice": 37.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087290/4b5093a905bcab018bc3eea475614c819d2f0065/header.jpg?t=1794132644",
-      "dealURL": "https://store.steampowered.com/app/5087290/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795370440
-    },
-    {
-      "dealID": "steam-4590950",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "El Shaddai: Zero Nine Reversi",
-      "salePrice": 14.17,
-      "normalPrice": 15.75,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590950/5ee393092d115423260110c54c57249373387257/header.jpg?t=1794133992",
-      "dealURL": "https://store.steampowered.com/app/4590950/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1794765648
     }
   ]
 }
