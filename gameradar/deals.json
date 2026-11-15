@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-15T13:11:25.897361+00:00",
-  "count": 29,
+  "updated_at": "2026-11-15T15:54:17.679520+00:00",
+  "count": 27,
   "deals": [
     {
       "dealID": "steam-2406770",
@@ -88,20 +88,6 @@
       "discountExpiration": 1794852000
     },
     {
-      "dealID": "steam-2536520",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Diablo II: Resurrected – Infernal Edition",
-      "salePrice": 113.68,
-      "normalPrice": 174.9,
-      "savings": 35,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
-      "dealURL": "https://store.steampowered.com/app/2536520/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795024800
-    },
-    {
       "dealID": "steam-2138710",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -130,18 +116,32 @@
       "discountExpiration": 1795456800
     },
     {
-      "dealID": "steam-2784470",
+      "dealID": "steam-266410",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "9 Kings",
-      "salePrice": 19.99,
-      "normalPrice": 39.99,
-      "savings": 50,
+      "title": "iRacing",
+      "salePrice": 14.51,
+      "normalPrice": 36.29,
+      "savings": 60,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/065aca6f45f0f997b35c815b43bcb63c1cb5ff8e/header_alt_assets_0.jpg?t=1794598226",
-      "dealURL": "https://store.steampowered.com/app/2784470/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1793718419",
+      "dealURL": "https://store.steampowered.com/app/266410/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1795719600
+      "discountExpiration": 1794852000
+    },
+    {
+      "dealID": "steam-3175580",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Water Maid",
+      "salePrice": 16.44,
+      "normalPrice": 23.49,
+      "savings": 30,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3175580/header.jpg?t=1794745722",
+      "dealURL": "https://store.steampowered.com/app/3175580/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795975236
     },
     {
       "dealID": "steam-5446440",
@@ -158,6 +158,20 @@
       "discountExpiration": 1795975214
     },
     {
+      "dealID": "steam-5434520",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Little Seed",
+      "salePrice": 191.99,
+      "normalPrice": 319.99,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434520/30afdd1b62fee9fe9e4b0e6f592cfc34a0e9201b/header.jpg?t=1794739514",
+      "dealURL": "https://store.steampowered.com/app/5434520/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795370407
+    },
+    {
       "dealID": "steam-4783310",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -170,6 +184,20 @@
       "dealURL": "https://store.steampowered.com/app/4783310/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795975241
+    },
+    {
+      "dealID": "steam-5024380",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "三國撞撞樂",
+      "salePrice": 30.59,
+      "normalPrice": 33.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5024380/82e7ec50ea598181dd04da24fcae48ecaf33d405/header.jpg?t=1794739406",
+      "dealURL": "https://store.steampowered.com/app/5024380/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795975225
     },
     {
       "dealID": "steam-5462420",
@@ -194,7 +222,7 @@
       "normalPrice": 7.49,
       "savings": 40,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5485210/9f70391b1f2d9434d4ab4893d43ce52c904cbdd0/header.jpg?t=1794733673",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5485210/9f70391b1f2d9434d4ab4893d43ce52c904cbdd0/header.jpg?t=1794756467",
       "dealURL": "https://store.steampowered.com/app/5485210/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795975249
@@ -352,62 +380,6 @@
       "dealURL": "https://store.steampowered.com/app/5275070/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795543211
-    },
-    {
-      "dealID": "steam-5097300",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "PUSH MID",
-      "salePrice": 13.04,
-      "normalPrice": 14.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097300/27fa9eda73076a32447ce896bc3860a962d88f6c/header.jpg?t=1794708920",
-      "dealURL": "https://store.steampowered.com/app/5097300/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284018
-    },
-    {
-      "dealID": "steam-5355990",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "中国球王之路",
-      "salePrice": 26.99,
-      "normalPrice": 29.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5355990/c61988b0f292a04aed191490993b07bf6bab3be1/header.jpg?t=1794721491",
-      "dealURL": "https://store.steampowered.com/app/5355990/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284005
-    },
-    {
-      "dealID": "steam-4538060",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Subsurface",
-      "salePrice": 33.74,
-      "normalPrice": 37.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538060/bfd8d6d373a33bc9696ff214a50a24da28fb9d82/header.jpg?t=1794726806",
-      "dealURL": "https://store.steampowered.com/app/4538060/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284025
-    },
-    {
-      "dealID": "steam-5244680",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Ray Ray Zombies",
-      "salePrice": 54.39,
-      "normalPrice": 63.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5244680/ec169fa0db776bc5587ab122edb0abae1f3b1d25/header.jpg?t=1794705061",
-      "dealURL": "https://store.steampowered.com/app/5244680/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284059
     }
   ]
 }
