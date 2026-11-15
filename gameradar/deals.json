@@ -1,6 +1,6 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-15T15:54:17.679520+00:00",
+  "updated_at": "2026-11-15T19:00:43.321109+00:00",
   "count": 27,
   "deals": [
     {
@@ -32,20 +32,6 @@
       "discountExpiration": 1795111200
     },
     {
-      "dealID": "steam-227300",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Euro Truck Simulator 2",
-      "salePrice": 16.74,
-      "normalPrice": 66.99,
-      "savings": 75,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
-      "dealURL": "https://store.steampowered.com/app/227300/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795539600
-    },
-    {
       "dealID": "steam-489830",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -58,6 +44,20 @@
       "dealURL": "https://store.steampowered.com/app/489830/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795024800
+    },
+    {
+      "dealID": "steam-227300",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Euro Truck Simulator 2",
+      "salePrice": 16.74,
+      "normalPrice": 66.99,
+      "savings": 75,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
+      "dealURL": "https://store.steampowered.com/app/227300/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795539600
     },
     {
       "dealID": "steam-12210",
@@ -102,32 +102,60 @@
       "discountExpiration": 1795888800
     },
     {
-      "dealID": "steam-3629430",
+      "dealID": "steam-2536520",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "DREADMOOR",
-      "salePrice": 61.19,
-      "normalPrice": 67.99,
-      "savings": 10,
+      "title": "Diablo II: Resurrected – Infernal Edition",
+      "salePrice": 113.68,
+      "normalPrice": 174.9,
+      "savings": 35,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
-      "dealURL": "https://store.steampowered.com/app/3629430/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
+      "dealURL": "https://store.steampowered.com/app/2536520/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1795456800
+      "discountExpiration": 1795024800
     },
     {
-      "dealID": "steam-266410",
+      "dealID": "steam-2784470",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "iRacing",
-      "salePrice": 14.51,
-      "normalPrice": 36.29,
-      "savings": 60,
+      "title": "9 Kings",
+      "salePrice": 19.99,
+      "normalPrice": 39.99,
+      "savings": 50,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1793718419",
-      "dealURL": "https://store.steampowered.com/app/266410/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/065aca6f45f0f997b35c815b43bcb63c1cb5ff8e/header_alt_assets_0.jpg?t=1794598226",
+      "dealURL": "https://store.steampowered.com/app/2784470/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794852000
+      "discountExpiration": 1795719600
+    },
+    {
+      "dealID": "steam-460930",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Tom Clancy's Ghost Recon® Wildlands",
+      "salePrice": 49.99,
+      "normalPrice": 249.99,
+      "savings": 80,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1790268185",
+      "dealURL": "https://store.steampowered.com/app/460930/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795543200
+    },
+    {
+      "dealID": "steam-5130370",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Desktop Companion - Asiden",
+      "salePrice": 33.74,
+      "normalPrice": 37.49,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5130370/90585b577c2e81b6dd845ccc7ab532b018df7f25/header.jpg?t=1794756561",
+      "dealURL": "https://store.steampowered.com/app/5130370/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795370406
     },
     {
       "dealID": "steam-3175580",
@@ -352,34 +380,6 @@
       "dealURL": "https://store.steampowered.com/app/5293350/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795888832
-    },
-    {
-      "dealID": "steam-4212960",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Tisuland",
-      "salePrice": 8.79,
-      "normalPrice": 10.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212960/b6b7d004624885a6b91f5a7838d3ee28aa2c553a/header.jpg?t=1794713754",
-      "dealURL": "https://store.steampowered.com/app/4212960/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284053
-    },
-    {
-      "dealID": "steam-5275070",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "I Ching — Tarô Chinês e Sabedoria da Mudança",
-      "salePrice": 12.6,
-      "normalPrice": 15.75,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5275070/475aa35622099f92d38e8f8b07012fa08abafee2/header.jpg?t=1794712692",
-      "dealURL": "https://store.steampowered.com/app/5275070/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795543211
     }
   ]
 }
