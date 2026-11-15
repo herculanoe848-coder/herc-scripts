@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-15T04:08:45.994920+00:00",
-  "count": 25,
+  "updated_at": "2026-11-15T07:23:38.274431+00:00",
+  "count": 28,
   "deals": [
     {
       "dealID": "steam-2406770",
@@ -16,6 +16,20 @@
       "dealURL": "https://store.steampowered.com/app/2406770/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795208400
+    },
+    {
+      "dealID": "steam-227300",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Euro Truck Simulator 2",
+      "salePrice": 16.74,
+      "normalPrice": 66.99,
+      "savings": 75,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
+      "dealURL": "https://store.steampowered.com/app/227300/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795539600
     },
     {
       "dealID": "steam-817628",
@@ -60,20 +74,6 @@
       "discountExpiration": 1794736800
     },
     {
-      "dealID": "steam-227300",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Euro Truck Simulator 2",
-      "salePrice": 16.74,
-      "normalPrice": 66.99,
-      "savings": 75,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
-      "dealURL": "https://store.steampowered.com/app/227300/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795539600
-    },
-    {
       "dealID": "steam-12210",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -86,6 +86,20 @@
       "dealURL": "https://store.steampowered.com/app/12210/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795111200
+    },
+    {
+      "dealID": "steam-2584270",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Mortal Shell II",
+      "salePrice": 119.25,
+      "normalPrice": 159.0,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
+      "dealURL": "https://store.steampowered.com/app/2584270/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1794852000
     },
     {
       "dealID": "steam-2138710",
@@ -116,32 +130,74 @@
       "discountExpiration": 1795024800
     },
     {
-      "dealID": "steam-2584270",
+      "dealID": "steam-4576490",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Mortal Shell II",
-      "salePrice": 119.25,
-      "normalPrice": 159.0,
-      "savings": 25,
+      "title": "Casualties: Unknown",
+      "salePrice": 59.49,
+      "normalPrice": 69.99,
+      "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
-      "dealURL": "https://store.steampowered.com/app/2584270/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1794232782",
+      "dealURL": "https://store.steampowered.com/app/4576490/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1794852000
+      "discountExpiration": 1795456823
     },
     {
-      "dealID": "steam-2784470",
+      "dealID": "steam-5450860",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "9 Kings",
-      "salePrice": 19.99,
-      "normalPrice": 39.99,
-      "savings": 50,
+      "title": "How Many Tickets Does It Take To Win The Lottery?",
+      "salePrice": 6.74,
+      "normalPrice": 7.49,
+      "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/065aca6f45f0f997b35c815b43bcb63c1cb5ff8e/header_alt_assets_0.jpg?t=1794598226",
-      "dealURL": "https://store.steampowered.com/app/2784470/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5450860/bfc07a296f60a316de8c4669f8eb023d0ea7d80d/header.jpg?t=1794722847",
+      "dealURL": "https://store.steampowered.com/app/5450860/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1795719600
+      "discountExpiration": 1795888825
+    },
+    {
+      "dealID": "steam-5445850",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Commander's Dilemma",
+      "salePrice": 30.59,
+      "normalPrice": 33.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5445850/c7ec03f09cee3e38e7cbfbc5da37bf04b7076416/header.jpg?t=1794717801",
+      "dealURL": "https://store.steampowered.com/app/5445850/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284015
+    },
+    {
+      "dealID": "steam-5471970",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Rubber Stamp Legend",
+      "salePrice": 11.59,
+      "normalPrice": 14.49,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5471970/d996f82b882d34539ba5a0011700a0ceeccf54d4/header.jpg?t=1794717313",
+      "dealURL": "https://store.steampowered.com/app/5471970/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795888811
+    },
+    {
+      "dealID": "steam-4212960",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Tisuland",
+      "salePrice": 8.79,
+      "normalPrice": 10.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212960/b6b7d004624885a6b91f5a7838d3ee28aa2c553a/header.jpg?t=1794713754",
+      "dealURL": "https://store.steampowered.com/app/4212960/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284053
     },
     {
       "dealID": "steam-5275070",
@@ -158,6 +214,20 @@
       "discountExpiration": 1795543211
     },
     {
+      "dealID": "steam-5097300",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "PUSH MID",
+      "salePrice": 13.04,
+      "normalPrice": 14.49,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097300/27fa9eda73076a32447ce896bc3860a962d88f6c/header.jpg?t=1794708920",
+      "dealURL": "https://store.steampowered.com/app/5097300/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284018
+    },
+    {
       "dealID": "steam-5355990",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -166,7 +236,7 @@
       "normalPrice": 29.99,
       "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5355990/c61988b0f292a04aed191490993b07bf6bab3be1/header.jpg?t=1794708010",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5355990/c61988b0f292a04aed191490993b07bf6bab3be1/header.jpg?t=1794721491",
       "dealURL": "https://store.steampowered.com/app/5355990/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795284005
@@ -226,6 +296,20 @@
       "dealURL": "https://store.steampowered.com/app/5482710/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795284029
+    },
+    {
+      "dealID": "steam-2677970",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Intergalactic Defenders",
+      "salePrice": 11.72,
+      "normalPrice": 13.79,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677970/header.jpg?t=1794699897",
+      "dealURL": "https://store.steampowered.com/app/2677970/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795888853
     },
     {
       "dealID": "steam-4957240",
@@ -310,48 +394,6 @@
       "dealURL": "https://store.steampowered.com/app/5501760/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795284023
-    },
-    {
-      "dealID": "steam-5393950",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Puzzle Dinosaur Skeletons",
-      "salePrice": 15.66,
-      "normalPrice": 17.4,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5393950/6533f6a565016001c3043d348c430a2ce820e473/header.jpg?t=1794674727",
-      "dealURL": "https://store.steampowered.com/app/5393950/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284020
-    },
-    {
-      "dealID": "steam-4841590",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Dungebra",
-      "salePrice": 12.31,
-      "normalPrice": 14.49,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841590/396b9ef2f64726056729c120881786521c3c9402/header.jpg?t=1794673114",
-      "dealURL": "https://store.steampowered.com/app/4841590/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795888833
-    },
-    {
-      "dealID": "steam-4627220",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Untold Memories: Grandma's House",
-      "salePrice": 11.59,
-      "normalPrice": 14.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627220/c6334bf14fd7a49c76171af54433e630ff3fa127/header.jpg?t=1794674910",
-      "dealURL": "https://store.steampowered.com/app/4627220/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795888801
     }
   ]
 }
