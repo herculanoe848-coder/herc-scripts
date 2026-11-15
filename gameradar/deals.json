@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-15T01:25:50.925184+00:00",
-  "count": 24,
+  "updated_at": "2026-11-15T04:08:45.994920+00:00",
+  "count": 25,
   "deals": [
     {
       "dealID": "steam-2406770",
@@ -18,20 +18,6 @@
       "discountExpiration": 1795208400
     },
     {
-      "dealID": "steam-489830",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "The Elder Scrolls V: Skyrim Special Edition",
-      "salePrice": 29.8,
-      "normalPrice": 149.0,
-      "savings": 80,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
-      "dealURL": "https://store.steampowered.com/app/489830/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795024800
-    },
-    {
       "dealID": "steam-817628",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -46,18 +32,18 @@
       "discountExpiration": 1795111200
     },
     {
-      "dealID": "steam-227300",
+      "dealID": "steam-489830",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Euro Truck Simulator 2",
-      "salePrice": 16.74,
-      "normalPrice": 66.99,
-      "savings": 75,
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "salePrice": 29.8,
+      "normalPrice": 149.0,
+      "savings": 80,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
-      "dealURL": "https://store.steampowered.com/app/227300/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+      "dealURL": "https://store.steampowered.com/app/489830/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1795539600
+      "discountExpiration": 1795024800
     },
     {
       "dealID": "steam-3527290",
@@ -72,6 +58,20 @@
       "dealURL": "https://store.steampowered.com/app/3527290/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1794736800
+    },
+    {
+      "dealID": "steam-227300",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Euro Truck Simulator 2",
+      "salePrice": 16.74,
+      "normalPrice": 66.99,
+      "savings": 75,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
+      "dealURL": "https://store.steampowered.com/app/227300/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795539600
     },
     {
       "dealID": "steam-12210",
@@ -102,6 +102,20 @@
       "discountExpiration": 1795888800
     },
     {
+      "dealID": "steam-2536520",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Diablo II: Resurrected – Infernal Edition",
+      "salePrice": 113.68,
+      "normalPrice": 174.9,
+      "savings": 35,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
+      "dealURL": "https://store.steampowered.com/app/2536520/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795024800
+    },
+    {
       "dealID": "steam-2584270",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -116,20 +130,6 @@
       "discountExpiration": 1794852000
     },
     {
-      "dealID": "steam-4576490",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Casualties: Unknown",
-      "salePrice": 59.49,
-      "normalPrice": 69.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1794232782",
-      "dealURL": "https://store.steampowered.com/app/4576490/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795456823
-    },
-    {
       "dealID": "steam-2784470",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -142,6 +142,76 @@
       "dealURL": "https://store.steampowered.com/app/2784470/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795719600
+    },
+    {
+      "dealID": "steam-5275070",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "I Ching — Tarô Chinês e Sabedoria da Mudança",
+      "salePrice": 12.6,
+      "normalPrice": 15.75,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5275070/475aa35622099f92d38e8f8b07012fa08abafee2/header.jpg?t=1794712692",
+      "dealURL": "https://store.steampowered.com/app/5275070/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795543211
+    },
+    {
+      "dealID": "steam-5355990",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "中国球王之路",
+      "salePrice": 26.99,
+      "normalPrice": 29.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5355990/c61988b0f292a04aed191490993b07bf6bab3be1/header.jpg?t=1794708010",
+      "dealURL": "https://store.steampowered.com/app/5355990/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284005
+    },
+    {
+      "dealID": "steam-5244680",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Ray Ray Zombies",
+      "salePrice": 54.39,
+      "normalPrice": 63.99,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5244680/ec169fa0db776bc5587ab122edb0abae1f3b1d25/header.jpg?t=1794705061",
+      "dealURL": "https://store.steampowered.com/app/5244680/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284059
+    },
+    {
+      "dealID": "steam-5045430",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "宿の掟 / Rules of the Inn",
+      "salePrice": 14.17,
+      "normalPrice": 15.75,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045430/ae86ce9319e19db2e561649d93d9693652d598ce/header.jpg?t=1794705172",
+      "dealURL": "https://store.steampowered.com/app/5045430/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284029
+    },
+    {
+      "dealID": "steam-5122610",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Lust Isles",
+      "salePrice": 27.59,
+      "normalPrice": 45.99,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122610/b60725512df54e906d225c88ec477799c3b6b856/header.jpg?t=1794710733",
+      "dealURL": "https://store.steampowered.com/app/5122610/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795284010
     },
     {
       "dealID": "steam-5482710",
@@ -282,62 +352,6 @@
       "dealURL": "https://store.steampowered.com/app/4627220/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795888801
-    },
-    {
-      "dealID": "steam-5159330",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "YoYo Blade",
-      "salePrice": 15.29,
-      "normalPrice": 17.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5159330/ce673ee16bd3c2bfc6b4d2a55ef7b786c690789d/header.jpg?t=1794672756",
-      "dealURL": "https://store.steampowered.com/app/5159330/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284035
-    },
-    {
-      "dealID": "steam-5443350",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Chisel Me This",
-      "salePrice": 20.61,
-      "normalPrice": 27.49,
-      "savings": 25,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5443350/cfe1291001cfb16db483f96d0669b8005705ba74/header.jpg?t=1794671912",
-      "dealURL": "https://store.steampowered.com/app/5443350/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284031
-    },
-    {
-      "dealID": "steam-4964810",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Minerooms",
-      "salePrice": 9.89,
-      "normalPrice": 10.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964810/1e32c3a8227a1bd6c06005aeb61b1bb70b8e29cb/header.jpg?t=1794669823",
-      "dealURL": "https://store.steampowered.com/app/4964810/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795284042
-    },
-    {
-      "dealID": "steam-5421010",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "피지컬 윷놀이",
-      "salePrice": 8.69,
-      "normalPrice": 14.49,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5421010/025756811d40125b1a8129d1a81204e231cdc5a5/header.jpg?t=1794669160",
-      "dealURL": "https://store.steampowered.com/app/5421010/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795888838
     }
   ]
 }
