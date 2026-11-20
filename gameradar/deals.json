@@ -1,8 +1,22 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-20T01:26:20.269706+00:00",
-  "count": 35,
+  "updated_at": "2026-11-20T04:10:41.655396+00:00",
+  "count": 34,
   "deals": [
+    {
+      "dealID": "steam-1426210",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "It Takes Two",
+      "salePrice": 39.8,
+      "normalPrice": 199.0,
+      "savings": 80,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_brazilian.jpg?t=1777395376",
+      "dealURL": "https://store.steampowered.com/app/1426210/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320800
+    },
     {
       "dealID": "steam-2215430",
       "storeID": "steam",
@@ -18,18 +32,18 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-2909400",
+      "dealID": "steam-1817070",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "FINAL FANTASY VII REBIRTH",
-      "salePrice": 32.98,
-      "normalPrice": 219.9,
-      "savings": 85,
+      "title": "Marvel’s Spider-Man Remastered",
+      "salePrice": 99.96,
+      "normalPrice": 249.9,
+      "savings": 60,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
-      "dealURL": "https://store.steampowered.com/app/2909400/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+      "dealURL": "https://store.steampowered.com/app/1817070/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796234400
+      "discountExpiration": 1796148000
     },
     {
       "dealID": "steam-1593500",
@@ -46,32 +60,18 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-1426210",
+      "dealID": "steam-2909400",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "It Takes Two",
-      "salePrice": 39.8,
-      "normalPrice": 199.0,
-      "savings": 80,
+      "title": "FINAL FANTASY VII REBIRTH",
+      "salePrice": 32.98,
+      "normalPrice": 219.9,
+      "savings": 85,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_brazilian.jpg?t=1777395376",
-      "dealURL": "https://store.steampowered.com/app/1426210/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
+      "dealURL": "https://store.steampowered.com/app/2909400/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796320800
-    },
-    {
-      "dealID": "steam-1817070",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Marvel’s Spider-Man Remastered",
-      "salePrice": 99.96,
-      "normalPrice": 249.9,
-      "savings": 60,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
-      "dealURL": "https://store.steampowered.com/app/1817070/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
+      "discountExpiration": 1796234400
     },
     {
       "dealID": "steam-1462040",
@@ -102,30 +102,16 @@
       "discountExpiration": 1795543218
     },
     {
-      "dealID": "steam-2406770",
+      "dealID": "steam-2531310",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Bodycam",
-      "salePrice": 81.59,
-      "normalPrice": 101.99,
-      "savings": 20,
+      "title": "The Last of Us™ Parte II Remastered",
+      "salePrice": 133.93,
+      "normalPrice": 199.9,
+      "savings": 33,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg?t=1794951323",
-      "dealURL": "https://store.steampowered.com/app/2406770/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795208400
-    },
-    {
-      "dealID": "steam-1259420",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Days Gone",
-      "salePrice": 65.83,
-      "normalPrice": 199.5,
-      "savings": 67,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
-      "dealURL": "https://store.steampowered.com/app/1259420/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
+      "dealURL": "https://store.steampowered.com/app/2531310/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
     },
@@ -144,6 +130,20 @@
       "discountExpiration": 1796148000
     },
     {
+      "dealID": "steam-2406770",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Bodycam",
+      "salePrice": 81.59,
+      "normalPrice": 101.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg?t=1794951323",
+      "dealURL": "https://store.steampowered.com/app/2406770/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795208400
+    },
+    {
       "dealID": "steam-4080220",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -158,18 +158,46 @@
       "discountExpiration": 1796320800
     },
     {
-      "dealID": "steam-3280350",
+      "dealID": "steam-5403190",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "DEATH STRANDING 2: ON THE BEACH",
-      "salePrice": 267.93,
-      "normalPrice": 399.9,
-      "savings": 33,
+      "title": "Project Babel",
+      "salePrice": 27.19,
+      "normalPrice": 33.99,
+      "savings": 20,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1774022345",
-      "dealURL": "https://store.steampowered.com/app/3280350/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403190/a4029a6447a4a1e694ff2bdf0684aa4a7713cf42/header.jpg?t=1795144798",
+      "dealURL": "https://store.steampowered.com/app/5403190/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796148000
+      "discountExpiration": 1796320810
+    },
+    {
+      "dealID": "steam-4552580",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "整活玩家 / Gimmick Survivors",
+      "salePrice": 14.44,
+      "normalPrice": 16.99,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4552580/7d9bac07a6743a8567503959a77113dd102df1fd/header.jpg?t=1795137775",
+      "dealURL": "https://store.steampowered.com/app/4552580/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795716039
+    },
+    {
+      "dealID": "steam-5165430",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "PomoIdle Arena",
+      "salePrice": 8.99,
+      "normalPrice": 11.99,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165430/3c6e3230397c33c1def61294698c1bc7685cc40c/header.jpg?t=1795137461",
+      "dealURL": "https://store.steampowered.com/app/5165430/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320839
     },
     {
       "dealID": "steam-4603990",
@@ -204,11 +232,11 @@
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
       "title": "人像摄影大师",
-      "salePrice": 28.89,
-      "normalPrice": 33.99,
+      "salePrice": 15.29,
+      "normalPrice": 17.99,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5500470/ab0df1eaceb78e401a021c02466eaa4cc7588fc7/header.jpg?t=1795133030",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5500470/ab0df1eaceb78e401a021c02466eaa4cc7588fc7/header.jpg?t=1795147254",
       "dealURL": "https://store.steampowered.com/app/5500470/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795716049
@@ -450,48 +478,6 @@
       "dealURL": "https://store.steampowered.com/app/2292800/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796320800
-    },
-    {
-      "dealID": "steam-5399320",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Bamboo Ronin: The Last Cut",
-      "salePrice": 19.59,
-      "normalPrice": 24.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5399320/61ef3311a82e0f171c5d281f1e368701fd0dfda4/header.jpg?t=1795111240",
-      "dealURL": "https://store.steampowered.com/app/5399320/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796320837
-    },
-    {
-      "dealID": "steam-5390220",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Vaatar",
-      "salePrice": 22.04,
-      "normalPrice": 24.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5390220/e10b6b57f16ea5cdc4ea6f431ef927dae87eea9f/header.jpg?t=1795111237",
-      "dealURL": "https://store.steampowered.com/app/5390220/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795716036
-    },
-    {
-      "dealID": "steam-4727800",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Dyna-Brix",
-      "salePrice": 13.7,
-      "normalPrice": 15.75,
-      "savings": 13,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727800/3f105fb57034e7eecb6a210b422f394aff76c5af/header.jpg?t=1795111042",
-      "dealURL": "https://store.steampowered.com/app/4727800/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795716020
     }
   ]
 }
