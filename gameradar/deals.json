@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-21T10:02:26.604086+00:00",
-  "count": 27,
+  "updated_at": "2026-11-21T13:15:52.052979+00:00",
+  "count": 26,
   "deals": [
     {
       "dealID": "steam-1426210",
@@ -60,6 +60,34 @@
       "discountExpiration": 1796148000
     },
     {
+      "dealID": "steam-1259420",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Days Gone",
+      "salePrice": 65.83,
+      "normalPrice": 199.5,
+      "savings": 67,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
+      "dealURL": "https://store.steampowered.com/app/1259420/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
+    },
+    {
+      "dealID": "steam-2483190",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Forza Horizon 6",
+      "salePrice": 224.25,
+      "normalPrice": 299.0,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
+      "dealURL": "https://store.steampowered.com/app/2483190/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320800
+    },
+    {
       "dealID": "steam-2909400",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -84,20 +112,6 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
       "dealURL": "https://store.steampowered.com/app/2531310/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
-    },
-    {
-      "dealID": "steam-1259420",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Days Gone",
-      "salePrice": 65.83,
-      "normalPrice": 199.5,
-      "savings": 67,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
-      "dealURL": "https://store.steampowered.com/app/1259420/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
     },
@@ -130,20 +144,6 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-5037200",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "just volleyball",
-      "salePrice": 17.04,
-      "normalPrice": 27.49,
-      "savings": 38,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-      "dealURL": "https://store.steampowered.com/app/5037200/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795543218
-    },
-    {
       "dealID": "steam-4080220",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -172,6 +172,20 @@
       "discountExpiration": 1795888817
     },
     {
+      "dealID": "steam-5002090",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Loamlets",
+      "salePrice": 17.54,
+      "normalPrice": 19.49,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002090/b5ec1e579d8857a7bc7f6979389a8d672dbef256/header.jpg?t=1795246759",
+      "dealURL": "https://store.steampowered.com/app/5002090/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796407218
+    },
+    {
       "dealID": "steam-4118150",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -198,6 +212,20 @@
       "dealURL": "https://store.steampowered.com/app/5455670/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795802420
+    },
+    {
+      "dealID": "steam-5193560",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "The Idle Witch and Her Tower of BOOOOM!",
+      "salePrice": 22.27,
+      "normalPrice": 24.75,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5193560/76d604140625fb7d546b02339ceb7395ef28fe40/header.jpg?t=1795233956",
+      "dealURL": "https://store.steampowered.com/app/5193560/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796407255
     },
     {
       "dealID": "steam-5535690",
@@ -320,7 +348,7 @@
       "normalPrice": 28.82,
       "savings": 20,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5526200/6774c246969531ec6a1543680b6531b31775105d/header.jpg?t=1795228917",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5526200/6774c246969531ec6a1543680b6531b31775105d/header.jpg?t=1795262124",
       "dealURL": "https://store.steampowered.com/app/5526200/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796407212
@@ -338,48 +366,6 @@
       "dealURL": "https://store.steampowered.com/app/4492400/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796407212
-    },
-    {
-      "dealID": "steam-4974650",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Streetwalker Life!",
-      "salePrice": 42.79,
-      "normalPrice": 53.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4974650/c599bb185840569633808b9fe740b5d0b1687f12/header.jpg?t=1795224570",
-      "dealURL": "https://store.steampowered.com/app/4974650/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407228
-    },
-    {
-      "dealID": "steam-4596440",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "【パパたび】パパさ、旅系インフルエンサーで食っていこうと思っているんだ。",
-      "salePrice": 29.99,
-      "normalPrice": 37.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596440/61125575c87b65dd10e0e6c57f1e02d7d6ece8ac/header.jpg?t=1795223366",
-      "dealURL": "https://store.steampowered.com/app/4596440/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407219
-    },
-    {
-      "dealID": "steam-5540180",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Black Hole to Infinity",
-      "salePrice": 5.99,
-      "normalPrice": 7.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5540180/3056bbb07d092bf4e31c74802b4c6481523cb6f9/header.jpg?t=1795222063",
-      "dealURL": "https://store.steampowered.com/app/5540180/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407241
     }
   ]
 }
