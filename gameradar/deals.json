@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-21T07:28:54.427955+00:00",
-  "count": 28,
+  "updated_at": "2026-11-21T10:02:26.604086+00:00",
+  "count": 27,
   "deals": [
     {
       "dealID": "steam-1426210",
@@ -16,6 +16,20 @@
       "dealURL": "https://store.steampowered.com/app/1426210/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796320800
+    },
+    {
+      "dealID": "steam-2215430",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Ghost of Tsushima VERSÃO DO DIRETOR",
+      "salePrice": 124.95,
+      "normalPrice": 249.9,
+      "savings": 50,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+      "dealURL": "https://store.steampowered.com/app/2215430/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
     },
     {
       "dealID": "steam-1817070",
@@ -46,20 +60,6 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-2215430",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Ghost of Tsushima VERSÃO DO DIRETOR",
-      "salePrice": 124.95,
-      "normalPrice": 249.9,
-      "savings": 50,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
-      "dealURL": "https://store.steampowered.com/app/2215430/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
-    },
-    {
       "dealID": "steam-2909400",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -70,20 +70,6 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
       "dealURL": "https://store.steampowered.com/app/2909400/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796234400
-    },
-    {
-      "dealID": "steam-1462040",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "salePrice": 31.48,
-      "normalPrice": 174.9,
-      "savings": 82,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-      "dealURL": "https://store.steampowered.com/app/1462040/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796234400
     },
@@ -102,20 +88,6 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-5037200",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "just volleyball",
-      "salePrice": 17.04,
-      "normalPrice": 27.49,
-      "savings": 38,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-      "dealURL": "https://store.steampowered.com/app/5037200/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795543218
-    },
-    {
       "dealID": "steam-1259420",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -130,18 +102,46 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-1817190",
+      "dealID": "steam-1462040",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Marvel’s Spider-Man: Miles Morales",
-      "salePrice": 79.96,
-      "normalPrice": 199.9,
-      "savings": 60,
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "salePrice": 31.48,
+      "normalPrice": 174.9,
+      "savings": 82,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1787838710",
-      "dealURL": "https://store.steampowered.com/app/1817190/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+      "dealURL": "https://store.steampowered.com/app/1462040/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796234400
+    },
+    {
+      "dealID": "steam-2322010",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "God of War Ragnarök",
+      "salePrice": 167.43,
+      "normalPrice": 249.9,
+      "savings": 33,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
+      "dealURL": "https://store.steampowered.com/app/2322010/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
+    },
+    {
+      "dealID": "steam-5037200",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "just volleyball",
+      "salePrice": 17.04,
+      "normalPrice": 27.49,
+      "savings": 38,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+      "dealURL": "https://store.steampowered.com/app/5037200/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795543218
     },
     {
       "dealID": "steam-4080220",
@@ -156,6 +156,34 @@
       "dealURL": "https://store.steampowered.com/app/4080220/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796320800
+    },
+    {
+      "dealID": "steam-5490920",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "无限数独",
+      "salePrice": 11.19,
+      "normalPrice": 13.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490920/cbd803801eb5a633ad77d64b8e8eb4eaf65bfb1b/header.jpg?t=1795248318",
+      "dealURL": "https://store.steampowered.com/app/5490920/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795888817
+    },
+    {
+      "dealID": "steam-4118150",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Recast:DeathOps",
+      "salePrice": 20.39,
+      "normalPrice": 33.99,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118150/59bda6d9268cec890dd9faeb7c96cda2ad43b4ce/header.jpg?t=1795243471",
+      "dealURL": "https://store.steampowered.com/app/4118150/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795802429
     },
     {
       "dealID": "steam-5455670",
@@ -222,7 +250,7 @@
       "normalPrice": 27.49,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140150/e9b21de15c501244c4e775361640406da05d3e17/header.jpg?t=1795231091",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140150/e9b21de15c501244c4e775361640406da05d3e17/header.jpg?t=1795250919",
       "dealURL": "https://store.steampowered.com/app/5140150/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796407210
@@ -352,48 +380,6 @@
       "dealURL": "https://store.steampowered.com/app/5540180/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796407241
-    },
-    {
-      "dealID": "steam-3358400",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "夜班护士模拟器",
-      "salePrice": 30.59,
-      "normalPrice": 33.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3358400/header.jpg?t=1795221450",
-      "dealURL": "https://store.steampowered.com/app/3358400/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795802428
-    },
-    {
-      "dealID": "steam-3155390",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Project Berserk",
-      "salePrice": 39.14,
-      "normalPrice": 43.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3155390/fd2669e1ce4d8de110d34ba1bfe3b419fa31690a/header.jpg?t=1795221090",
-      "dealURL": "https://store.steampowered.com/app/3155390/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795802425
-    },
-    {
-      "dealID": "steam-5439180",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Stable Champs",
-      "salePrice": 69.11,
-      "normalPrice": 76.79,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5439180/05095788bd6ad47a67a798777f935d995ebc4c93/header.jpg?t=1795216427",
-      "dealURL": "https://store.steampowered.com/app/5439180/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795802446
     }
   ]
 }
