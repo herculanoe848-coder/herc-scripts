@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-21T13:15:52.052979+00:00",
-  "count": 26,
+  "updated_at": "2026-11-21T15:59:33.488652+00:00",
+  "count": 24,
   "deals": [
     {
       "dealID": "steam-1426210",
@@ -32,6 +32,20 @@
       "discountExpiration": 1796148000
     },
     {
+      "dealID": "steam-1593500",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "God of War",
+      "salePrice": 79.96,
+      "normalPrice": 199.9,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+      "dealURL": "https://store.steampowered.com/app/1593500/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
+    },
+    {
       "dealID": "steam-1817070",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -46,18 +60,32 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-1593500",
+      "dealID": "steam-2909400",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "God of War",
-      "salePrice": 79.96,
-      "normalPrice": 199.9,
+      "title": "FINAL FANTASY VII REBIRTH",
+      "salePrice": 32.98,
+      "normalPrice": 219.9,
+      "savings": 85,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
+      "dealURL": "https://store.steampowered.com/app/2909400/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796234400
+    },
+    {
+      "dealID": "steam-1551360",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Forza Horizon 5",
+      "salePrice": 99.6,
+      "normalPrice": 249.0,
       "savings": 60,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-      "dealURL": "https://store.steampowered.com/app/1593500/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
+      "dealURL": "https://store.steampowered.com/app/1551360/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796148000
+      "discountExpiration": 1796320800
     },
     {
       "dealID": "steam-1259420",
@@ -88,20 +116,6 @@
       "discountExpiration": 1796320800
     },
     {
-      "dealID": "steam-2909400",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "FINAL FANTASY VII REBIRTH",
-      "salePrice": 32.98,
-      "normalPrice": 219.9,
-      "savings": 85,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
-      "dealURL": "https://store.steampowered.com/app/2909400/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796234400
-    },
-    {
       "dealID": "steam-2531310",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -114,20 +128,6 @@
       "dealURL": "https://store.steampowered.com/app/2531310/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
-    },
-    {
-      "dealID": "steam-1462040",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "salePrice": 31.48,
-      "normalPrice": 174.9,
-      "savings": 82,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-      "dealURL": "https://store.steampowered.com/app/1462040/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796234400
     },
     {
       "dealID": "steam-2322010",
@@ -156,6 +156,34 @@
       "dealURL": "https://store.steampowered.com/app/4080220/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796320800
+    },
+    {
+      "dealID": "steam-5359980",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Chill Summoners",
+      "salePrice": 24.21,
+      "normalPrice": 26.9,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5359980/43ae0729a0b180df51fb7b843ddc4ae5a87b2210/header.jpg?t=1795273254",
+      "dealURL": "https://store.steampowered.com/app/5359980/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796493652
+    },
+    {
+      "dealID": "steam-5307180",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Fuck Everything 👉👌💦",
+      "salePrice": 53.1,
+      "normalPrice": 88.5,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307180/d0a4af9120342e7f75ad32a91d288a9514a03d6a/header.jpg?t=1795272763",
+      "dealURL": "https://store.steampowered.com/app/5307180/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796493649
     },
     {
       "dealID": "steam-5490920",
@@ -264,7 +292,7 @@
       "normalPrice": 17.99,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542430/0b174843cf1e00b84e327c859a3eca2e6ee46306/header.jpg?t=1795239577",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542430/0b174843cf1e00b84e327c859a3eca2e6ee46306/header.jpg?t=1795273764",
       "dealURL": "https://store.steampowered.com/app/5542430/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796407214
@@ -310,62 +338,6 @@
       "dealURL": "https://store.steampowered.com/app/5527840/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795802424
-    },
-    {
-      "dealID": "steam-4762560",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Etranger In the City of Doom",
-      "salePrice": 48.14,
-      "normalPrice": 53.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4762560/01f5a6ef92cb3bc483a85f362d9d6034e6e63fb4/header.jpg?t=1795230041",
-      "dealURL": "https://store.steampowered.com/app/4762560/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407233
-    },
-    {
-      "dealID": "steam-5276600",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "猛鬼搬家公司",
-      "salePrice": 33.74,
-      "normalPrice": 37.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5276600/6e3b9bcae27b0917cee756a1692355ee60924500/header.jpg?t=1795228830",
-      "dealURL": "https://store.steampowered.com/app/5276600/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407229
-    },
-    {
-      "dealID": "steam-5526200",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Let's Build a Naughty Toy Factory!",
-      "salePrice": 23.05,
-      "normalPrice": 28.82,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5526200/6774c246969531ec6a1543680b6531b31775105d/header.jpg?t=1795262124",
-      "dealURL": "https://store.steampowered.com/app/5526200/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407212
-    },
-    {
-      "dealID": "steam-4492400",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Click Flip",
-      "salePrice": 14.54,
-      "normalPrice": 17.11,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492400/8db823a07113fc97796e9dabf49876da5776e6d4/header.jpg?t=1795225574",
-      "dealURL": "https://store.steampowered.com/app/4492400/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407212
     }
   ]
 }
