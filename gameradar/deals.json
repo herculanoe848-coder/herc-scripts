@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-21T19:04:39.895891+00:00",
-  "count": 25,
+  "updated_at": "2026-11-21T21:55:38.044821+00:00",
+  "count": 26,
   "deals": [
     {
       "dealID": "steam-1426210",
@@ -60,18 +60,18 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-1259420",
+      "dealID": "steam-2909400",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Days Gone",
-      "salePrice": 65.83,
-      "normalPrice": 199.5,
-      "savings": 67,
+      "title": "FINAL FANTASY VII REBIRTH",
+      "salePrice": 32.98,
+      "normalPrice": 219.9,
+      "savings": 85,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
-      "dealURL": "https://store.steampowered.com/app/1259420/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
+      "dealURL": "https://store.steampowered.com/app/2909400/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796148000
+      "discountExpiration": 1796234400
     },
     {
       "dealID": "steam-2531310",
@@ -88,46 +88,18 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-1551360",
+      "dealID": "steam-1259420",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Forza Horizon 5",
-      "salePrice": 99.6,
-      "normalPrice": 249.0,
-      "savings": 60,
+      "title": "Days Gone",
+      "salePrice": 65.83,
+      "normalPrice": 199.5,
+      "savings": 67,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
-      "dealURL": "https://store.steampowered.com/app/1551360/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
+      "dealURL": "https://store.steampowered.com/app/1259420/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796320800
-    },
-    {
-      "dealID": "steam-2483190",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Forza Horizon 6",
-      "salePrice": 224.25,
-      "normalPrice": 299.0,
-      "savings": 25,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
-      "dealURL": "https://store.steampowered.com/app/2483190/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796320800
-    },
-    {
-      "dealID": "steam-2909400",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "FINAL FANTASY VII REBIRTH",
-      "salePrice": 32.98,
-      "normalPrice": 219.9,
-      "savings": 85,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
-      "dealURL": "https://store.steampowered.com/app/2909400/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796234400
+      "discountExpiration": 1796148000
     },
     {
       "dealID": "steam-5037200",
@@ -144,6 +116,34 @@
       "discountExpiration": 1795543218
     },
     {
+      "dealID": "steam-2483190",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Forza Horizon 6",
+      "salePrice": 224.25,
+      "normalPrice": 299.0,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
+      "dealURL": "https://store.steampowered.com/app/2483190/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320800
+    },
+    {
+      "dealID": "steam-1551360",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Forza Horizon 5",
+      "salePrice": 99.6,
+      "normalPrice": 249.0,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
+      "dealURL": "https://store.steampowered.com/app/1551360/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320800
+    },
+    {
       "dealID": "steam-4080220",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -156,6 +156,34 @@
       "dealURL": "https://store.steampowered.com/app/4080220/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796320800
+    },
+    {
+      "dealID": "steam-5371390",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Finnigan's Magical Puppets",
+      "salePrice": 17.99,
+      "normalPrice": 29.99,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371390/843d51d76c2d0bebb61674f8bd1e65a349e668f1/header.jpg?t=1795288440",
+      "dealURL": "https://store.steampowered.com/app/5371390/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796407259
+    },
+    {
+      "dealID": "steam-5442160",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Sil-Morë — Shining Darkness",
+      "salePrice": 18.26,
+      "normalPrice": 21.49,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442160/a6af423220b0b4554a54fa7328915c6bdf1a9634/header.jpg?t=1795284030",
+      "dealURL": "https://store.steampowered.com/app/5442160/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795888828
     },
     {
       "dealID": "steam-5550890",
@@ -198,6 +226,20 @@
       "dealURL": "https://store.steampowered.com/app/4288310/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796493603
+    },
+    {
+      "dealID": "steam-5474720",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Gym Tidy: Re-rack Your Weights",
+      "salePrice": 9.89,
+      "normalPrice": 10.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5474720/9280fdea46f7907c95b776622d68fc8a2cc6648f/header.jpg?t=1795276664",
+      "dealURL": "https://store.steampowered.com/app/5474720/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795888843
     },
     {
       "dealID": "steam-4623890",
@@ -324,34 +366,6 @@
       "dealURL": "https://store.steampowered.com/app/5002090/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796407218
-    },
-    {
-      "dealID": "steam-4118150",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Recast:DeathOps",
-      "salePrice": 20.39,
-      "normalPrice": 33.99,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118150/59bda6d9268cec890dd9faeb7c96cda2ad43b4ce/header.jpg?t=1795243471",
-      "dealURL": "https://store.steampowered.com/app/4118150/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795802429
-    },
-    {
-      "dealID": "steam-5455670",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Gripspeak",
-      "salePrice": 28.89,
-      "normalPrice": 33.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455670/0ace797c7a81df28b4c982384bd780a37d9a8385/header.jpg?t=1795237761",
-      "dealURL": "https://store.steampowered.com/app/5455670/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795802420
     }
   ]
 }
