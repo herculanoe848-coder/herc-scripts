@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-22T07:29:01.565454+00:00",
-  "count": 28,
+  "updated_at": "2026-11-22T10:01:15.771171+00:00",
+  "count": 31,
   "deals": [
     {
       "dealID": "steam-1426210",
@@ -18,20 +18,6 @@
       "discountExpiration": 1796320800
     },
     {
-      "dealID": "steam-1593500",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "God of War",
-      "salePrice": 79.96,
-      "normalPrice": 199.9,
-      "savings": 60,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-      "dealURL": "https://store.steampowered.com/app/1593500/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
-    },
-    {
       "dealID": "steam-1817070",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -42,6 +28,20 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
       "dealURL": "https://store.steampowered.com/app/1817070/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
+    },
+    {
+      "dealID": "steam-1593500",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "God of War",
+      "salePrice": 79.96,
+      "normalPrice": 199.9,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+      "dealURL": "https://store.steampowered.com/app/1593500/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
     },
@@ -60,20 +60,6 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-5037200",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "just volleyball",
-      "salePrice": 17.04,
-      "normalPrice": 27.49,
-      "savings": 38,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-      "dealURL": "https://store.steampowered.com/app/5037200/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795543218
-    },
-    {
       "dealID": "steam-2909400",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -86,6 +72,20 @@
       "dealURL": "https://store.steampowered.com/app/2909400/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796234400
+    },
+    {
+      "dealID": "steam-2483190",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Forza Horizon 6",
+      "salePrice": 224.25,
+      "normalPrice": 299.0,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
+      "dealURL": "https://store.steampowered.com/app/2483190/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320800
     },
     {
       "dealID": "steam-1462040",
@@ -102,16 +102,30 @@
       "discountExpiration": 1796234400
     },
     {
-      "dealID": "steam-2531310",
+      "dealID": "steam-1551360",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "The Last of Us™ Parte II Remastered",
-      "salePrice": 133.93,
-      "normalPrice": 199.9,
+      "title": "Forza Horizon 5",
+      "salePrice": 99.6,
+      "normalPrice": 249.0,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
+      "dealURL": "https://store.steampowered.com/app/1551360/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320800
+    },
+    {
+      "dealID": "steam-2322010",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "God of War Ragnarök",
+      "salePrice": 167.43,
+      "normalPrice": 249.9,
       "savings": 33,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
-      "dealURL": "https://store.steampowered.com/app/2531310/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
+      "dealURL": "https://store.steampowered.com/app/2322010/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
     },
@@ -128,20 +142,6 @@
       "dealURL": "https://store.steampowered.com/app/1259420/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
-    },
-    {
-      "dealID": "steam-2483190",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Forza Horizon 6",
-      "salePrice": 224.25,
-      "normalPrice": 299.0,
-      "savings": 25,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
-      "dealURL": "https://store.steampowered.com/app/2483190/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796320800
     },
     {
       "dealID": "steam-4080220",
@@ -170,6 +170,62 @@
       "dealURL": "https://store.steampowered.com/app/1172620/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796234400
+    },
+    {
+      "dealID": "steam-5037200",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "just volleyball",
+      "salePrice": 17.04,
+      "normalPrice": 27.49,
+      "savings": 38,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+      "dealURL": "https://store.steampowered.com/app/5037200/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795543218
+    },
+    {
+      "dealID": "steam-5191120",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "PERI.CO",
+      "salePrice": 17.14,
+      "normalPrice": 24.49,
+      "savings": 30,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191120/05716b623368b0b4aa263373181d18a04225e722/header.jpg?t=1795337421",
+      "dealURL": "https://store.steampowered.com/app/5191120/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796580019
+    },
+    {
+      "dealID": "steam-5208650",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Eko36 and the gang",
+      "salePrice": 32.99,
+      "normalPrice": 43.99,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208650/06ba1ae3955e51957cdea0a20751c0eb8c37cb70/header.jpg?t=1795334788",
+      "dealURL": "https://store.steampowered.com/app/5208650/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795975214
+    },
+    {
+      "dealID": "steam-5029710",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "mechakucha pakurion",
+      "salePrice": 16.17,
+      "normalPrice": 19.49,
+      "savings": 17,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029710/abcdc3fc88d1d49e431b59799809f16d5a1b1373/header.jpg?t=1795320809",
+      "dealURL": "https://store.steampowered.com/app/5029710/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796407228
     },
     {
       "dealID": "steam-5463810",
@@ -380,20 +436,6 @@
       "dealURL": "https://store.steampowered.com/app/5533720/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796493620
-    },
-    {
-      "dealID": "steam-5307180",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Fuck Everything 👉👌💦",
-      "salePrice": 53.1,
-      "normalPrice": 88.5,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307180/d0a4af9120342e7f75ad32a91d288a9514a03d6a/header.jpg?t=1795272763",
-      "dealURL": "https://store.steampowered.com/app/5307180/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796493649
     }
   ]
 }
