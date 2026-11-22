@@ -1,6 +1,6 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-22T19:06:44.265017+00:00",
+  "updated_at": "2026-11-22T21:57:43.122996+00:00",
   "count": 32,
   "deals": [
     {
@@ -32,20 +32,6 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-1817070",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Marvel’s Spider-Man Remastered",
-      "salePrice": 99.96,
-      "normalPrice": 249.9,
-      "savings": 60,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
-      "dealURL": "https://store.steampowered.com/app/1817070/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
-    },
-    {
       "dealID": "steam-2215430",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -56,6 +42,20 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
       "dealURL": "https://store.steampowered.com/app/2215430/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
+    },
+    {
+      "dealID": "steam-1817070",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Marvel’s Spider-Man Remastered",
+      "salePrice": 99.96,
+      "normalPrice": 249.9,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+      "dealURL": "https://store.steampowered.com/app/1817070/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
     },
@@ -74,48 +74,6 @@
       "discountExpiration": 1795543218
     },
     {
-      "dealID": "steam-1259420",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Days Gone",
-      "salePrice": 65.83,
-      "normalPrice": 199.5,
-      "savings": 67,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
-      "dealURL": "https://store.steampowered.com/app/1259420/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
-    },
-    {
-      "dealID": "steam-2531310",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "The Last of Us™ Parte II Remastered",
-      "salePrice": 133.93,
-      "normalPrice": 199.9,
-      "savings": 33,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
-      "dealURL": "https://store.steampowered.com/app/2531310/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
-    },
-    {
-      "dealID": "steam-2483190",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Forza Horizon 6",
-      "salePrice": 224.25,
-      "normalPrice": 299.0,
-      "savings": 25,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
-      "dealURL": "https://store.steampowered.com/app/2483190/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796320800
-    },
-    {
       "dealID": "steam-2909400",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -130,16 +88,58 @@
       "discountExpiration": 1796234400
     },
     {
-      "dealID": "steam-2322010",
+      "dealID": "steam-1259420",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "God of War Ragnarök",
-      "salePrice": 167.43,
-      "normalPrice": 249.9,
+      "title": "Days Gone",
+      "salePrice": 65.83,
+      "normalPrice": 199.5,
+      "savings": 67,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
+      "dealURL": "https://store.steampowered.com/app/1259420/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
+    },
+    {
+      "dealID": "steam-1172620",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Sea of Thieves: 2026 Edition",
+      "salePrice": 38.49,
+      "normalPrice": 109.99,
+      "savings": 65,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1793617680",
+      "dealURL": "https://store.steampowered.com/app/1172620/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796234400
+    },
+    {
+      "dealID": "steam-3321460",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Crimson Desert Enhanced",
+      "salePrice": 279.99,
+      "normalPrice": 349.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1794478066",
+      "dealURL": "https://store.steampowered.com/app/3321460/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796025600
+    },
+    {
+      "dealID": "steam-2531310",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "The Last of Us™ Parte II Remastered",
+      "salePrice": 133.93,
+      "normalPrice": 199.9,
       "savings": 33,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
-      "dealURL": "https://store.steampowered.com/app/2322010/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
+      "dealURL": "https://store.steampowered.com/app/2531310/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
     },
@@ -158,18 +158,18 @@
       "discountExpiration": 1796320800
     },
     {
-      "dealID": "steam-1172620",
+      "dealID": "steam-5537490",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Sea of Thieves: 2026 Edition",
-      "salePrice": 38.49,
-      "normalPrice": 109.99,
-      "savings": 65,
+      "title": "Darts Player Simulator",
+      "salePrice": 57.59,
+      "normalPrice": 63.99,
+      "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1793617680",
-      "dealURL": "https://store.steampowered.com/app/1172620/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537490/8ee8837cb41cb951e96940749bfb0a1278697ad0/header.jpg?t=1795372496",
+      "dealURL": "https://store.steampowered.com/app/5537490/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796234400
+      "discountExpiration": 1796580055
     },
     {
       "dealID": "steam-5492690",
@@ -186,6 +186,20 @@
       "discountExpiration": 1796580028
     },
     {
+      "dealID": "steam-5394410",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Titheborn",
+      "salePrice": 41.21,
+      "normalPrice": 48.49,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5394410/bbd0a089c4b38d2b00b5330ab3d0b5e8b24e8473/header.jpg?t=1795370084",
+      "dealURL": "https://store.steampowered.com/app/5394410/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795975244
+    },
+    {
       "dealID": "steam-4761730",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -194,7 +208,7 @@
       "normalPrice": 14.49,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761730/e1c2f3e1fce383ffbcc7a2739a6ddbe61b281de7/header.jpg?t=1795368907",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761730/05f83c5335558fc4c82bf0433464b6e8d9b985a0/header_alt_assets_0.jpg?t=1795375865",
       "dealURL": "https://store.steampowered.com/app/4761730/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796580006
@@ -240,20 +254,6 @@
       "dealURL": "https://store.steampowered.com/app/4873240/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796580014
-    },
-    {
-      "dealID": "steam-5403220",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "How to grow a man · 7-Character Epilogue DLC",
-      "salePrice": 36.96,
-      "normalPrice": 43.49,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403220/14f9c5625a3ac2f9f57625c3bf892f8b4fecf787/header.jpg?t=1795359713",
-      "dealURL": "https://store.steampowered.com/app/5403220/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795975251
     },
     {
       "dealID": "steam-5001650",
@@ -396,6 +396,34 @@
       "discountExpiration": 1796580027
     },
     {
+      "dealID": "steam-5550020",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Chains of Three Kingdoms",
+      "salePrice": 33.29,
+      "normalPrice": 36.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5550020/af38b062e8a930fa4d684addd795b5a2c1d8a728/header.jpg?t=1795342730",
+      "dealURL": "https://store.steampowered.com/app/5550020/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795975246
+    },
+    {
+      "dealID": "steam-4859890",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Beyond the Masque of the Red Death",
+      "salePrice": 18.92,
+      "normalPrice": 21.03,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859890/3b7b4d30caba4613b099c56bff648060239b94f3/header.jpg?t=1795342156",
+      "dealURL": "https://store.steampowered.com/app/4859890/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795975215
+    },
+    {
       "dealID": "steam-5191120",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -422,34 +450,6 @@
       "dealURL": "https://store.steampowered.com/app/5208650/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795975214
-    },
-    {
-      "dealID": "steam-5029710",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "mechakucha pakurion",
-      "salePrice": 16.17,
-      "normalPrice": 19.49,
-      "savings": 17,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029710/abcdc3fc88d1d49e431b59799809f16d5a1b1373/header.jpg?t=1795320809",
-      "dealURL": "https://store.steampowered.com/app/5029710/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407228
-    },
-    {
-      "dealID": "steam-3360160",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "TheDeskFishTank",
-      "salePrice": 26.1,
-      "normalPrice": 29.0,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3360160/32e224ad4d04f3b386ee9c0d7934b9648618f83d/header.jpg?t=1795309975",
-      "dealURL": "https://store.steampowered.com/app/3360160/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1795888853
     }
   ]
 }
