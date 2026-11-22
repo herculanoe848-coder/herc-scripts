@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-22T01:27:17.999313+00:00",
-  "count": 26,
+  "updated_at": "2026-11-22T04:10:37.118645+00:00",
+  "count": 30,
   "deals": [
     {
       "dealID": "steam-1426210",
@@ -18,20 +18,6 @@
       "discountExpiration": 1796320800
     },
     {
-      "dealID": "steam-1593500",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "God of War",
-      "salePrice": 79.96,
-      "normalPrice": 199.9,
-      "savings": 60,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-      "dealURL": "https://store.steampowered.com/app/1593500/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
-    },
-    {
       "dealID": "steam-1817070",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -42,6 +28,20 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
       "dealURL": "https://store.steampowered.com/app/1817070/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
+    },
+    {
+      "dealID": "steam-1593500",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "God of War",
+      "salePrice": 79.96,
+      "normalPrice": 199.9,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+      "dealURL": "https://store.steampowered.com/app/1593500/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
     },
@@ -88,6 +88,20 @@
       "discountExpiration": 1796234400
     },
     {
+      "dealID": "steam-1462040",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "salePrice": 31.48,
+      "normalPrice": 174.9,
+      "savings": 82,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+      "dealURL": "https://store.steampowered.com/app/1462040/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796234400
+    },
+    {
       "dealID": "steam-2531310",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -98,20 +112,6 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
       "dealURL": "https://store.steampowered.com/app/2531310/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
-    },
-    {
-      "dealID": "steam-1259420",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Days Gone",
-      "salePrice": 65.83,
-      "normalPrice": 199.5,
-      "savings": 67,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
-      "dealURL": "https://store.steampowered.com/app/1259420/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
     },
@@ -158,6 +158,48 @@
       "discountExpiration": 1796320800
     },
     {
+      "dealID": "steam-1259420",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Days Gone",
+      "salePrice": 65.83,
+      "normalPrice": 199.5,
+      "savings": 67,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
+      "dealURL": "https://store.steampowered.com/app/1259420/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
+    },
+    {
+      "dealID": "steam-1172620",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Sea of Thieves: 2026 Edition",
+      "salePrice": 38.49,
+      "normalPrice": 109.99,
+      "savings": 65,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1793617680",
+      "dealURL": "https://store.steampowered.com/app/1172620/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796234400
+    },
+    {
+      "dealID": "steam-5463810",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Wall Punch: Escape The Walls Simulator",
+      "salePrice": 13.49,
+      "normalPrice": 17.99,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5463810/cf8f98b9ce6e63374eb35f99c9552c71ea75091e/header.jpg?t=1795302694",
+      "dealURL": "https://store.steampowered.com/app/5463810/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796493633
+    },
+    {
       "dealID": "steam-5049210",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -184,6 +226,20 @@
       "dealURL": "https://store.steampowered.com/app/5305100/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795888813
+    },
+    {
+      "dealID": "steam-5534460",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Motherloader",
+      "salePrice": 14.39,
+      "normalPrice": 17.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5534460/dcfe71caf5286b486e4cbe797e1fc36e7c3ef318/header.jpg?t=1795296819",
+      "dealURL": "https://store.steampowered.com/app/5534460/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795888837
     },
     {
       "dealID": "steam-5371390",
@@ -362,7 +418,7 @@
       "normalPrice": 14.49,
       "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5467080/c1058c695ce0c073911201ddcc53d2212c2899a4/header.jpg?t=1795267613",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5467080/c1058c695ce0c073911201ddcc53d2212c2899a4/header.jpg?t=1795317669",
       "dealURL": "https://store.steampowered.com/app/5467080/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1795888852
