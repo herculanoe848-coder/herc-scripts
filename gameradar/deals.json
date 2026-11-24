@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-24T04:17:41.194261+00:00",
-  "count": 24,
+  "updated_at": "2026-11-24T07:40:03.551305+00:00",
+  "count": 25,
   "deals": [
     {
       "dealID": "steam-1174180",
@@ -60,20 +60,6 @@
       "discountExpiration": 1796061600
     },
     {
-      "dealID": "steam-1426210",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "It Takes Two",
-      "salePrice": 39.8,
-      "normalPrice": 199.0,
-      "savings": 80,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_brazilian.jpg?t=1777395376",
-      "dealURL": "https://store.steampowered.com/app/1426210/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796320800
-    },
-    {
       "dealID": "steam-3768760",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -88,18 +74,18 @@
       "discountExpiration": 1796666400
     },
     {
-      "dealID": "steam-5037200",
+      "dealID": "steam-1426210",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "just volleyball",
-      "salePrice": 17.04,
-      "normalPrice": 27.49,
-      "savings": 38,
+      "title": "It Takes Two",
+      "salePrice": 39.8,
+      "normalPrice": 199.0,
+      "savings": 80,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-      "dealURL": "https://store.steampowered.com/app/5037200/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_brazilian.jpg?t=1777395376",
+      "dealURL": "https://store.steampowered.com/app/1426210/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1795543218
+      "discountExpiration": 1796320800
     },
     {
       "dealID": "steam-2215430",
@@ -112,20 +98,6 @@
       "dealRating": 0,
       "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
       "dealURL": "https://store.steampowered.com/app/2215430/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
-    },
-    {
-      "dealID": "steam-1593500",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "God of War",
-      "salePrice": 79.96,
-      "normalPrice": 199.9,
-      "savings": 60,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-      "dealURL": "https://store.steampowered.com/app/1593500/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796148000
     },
@@ -144,6 +116,34 @@
       "discountExpiration": 1796234400
     },
     {
+      "dealID": "steam-5037200",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "just volleyball",
+      "salePrice": 17.04,
+      "normalPrice": 27.49,
+      "savings": 38,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+      "dealURL": "https://store.steampowered.com/app/5037200/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1795543218
+    },
+    {
+      "dealID": "steam-1593500",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "God of War",
+      "salePrice": 79.96,
+      "normalPrice": 199.9,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+      "dealURL": "https://store.steampowered.com/app/1593500/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
+    },
+    {
       "dealID": "steam-4080220",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -158,18 +158,60 @@
       "discountExpiration": 1796320800
     },
     {
-      "dealID": "steam-4435490",
+      "dealID": "steam-3084560",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Call of Duty®: Modern Warfare® 4",
-      "salePrice": 254.15,
-      "normalPrice": 299.0,
+      "title": "TWIN FLAMES",
+      "salePrice": 27.19,
+      "normalPrice": 33.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084560/c144d7115c4bcd6479b1c2e0c8d708cf67014ffd/header.jpg?t=1795505011",
+      "dealURL": "https://store.steampowered.com/app/3084560/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796061604
+    },
+    {
+      "dealID": "steam-4609470",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Your party died again",
+      "salePrice": 19.34,
+      "normalPrice": 21.49,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609470/daf74ba0b99d7cbc0a6698d5a53ca65ba2a8b11d/header.jpg?t=1795501805",
+      "dealURL": "https://store.steampowered.com/app/4609470/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796666403
+    },
+    {
+      "dealID": "steam-4498140",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "天坑追匪",
+      "salePrice": 36.79,
+      "normalPrice": 45.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498140/ec79fc90eecd157f34cec0fda4baf79ffe242cba/header.jpg?t=1795500201",
+      "dealURL": "https://store.steampowered.com/app/4498140/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796666419
+    },
+    {
+      "dealID": "steam-4256130",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Late Night Duty",
+      "salePrice": 18.26,
+      "normalPrice": 21.49,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794873974",
-      "dealURL": "https://store.steampowered.com/app/4435490/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256130/31e37cfc1ac7775bf5e69d58fe8de47fcf5f3e83/header.jpg?t=1795496171",
+      "dealURL": "https://store.steampowered.com/app/4256130/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796148000
+      "discountExpiration": 1796666409
     },
     {
       "dealID": "steam-5247980",
@@ -208,7 +250,7 @@
       "normalPrice": 17.99,
       "savings": 30,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5508060/93c70056a9354aa34c1fd198e54fff54816f7f27/header.jpg?t=1795491838",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5508060/93c70056a9354aa34c1fd198e54fff54816f7f27/header.jpg?t=1795505963",
       "dealURL": "https://store.steampowered.com/app/5508060/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796666422
@@ -310,34 +352,6 @@
       "dealURL": "https://store.steampowered.com/app/3024120/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796061608
-    },
-    {
-      "dealID": "steam-5088910",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "DecoGear Dimensions",
-      "salePrice": 33.99,
-      "normalPrice": 39.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088910/8b442e42695429aee5853ca6e94fe20cdd35d4ff/header.jpg?t=1795466314",
-      "dealURL": "https://store.steampowered.com/app/5088910/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796061628
-    },
-    {
-      "dealID": "steam-2888810",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "MEATRASH",
-      "salePrice": 21.14,
-      "normalPrice": 23.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2888810/ba78d8acea003767b284dd36aa5198510ec78102/header.jpg?t=1795474437",
-      "dealURL": "https://store.steampowered.com/app/2888810/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796320809
     }
   ]
 }
