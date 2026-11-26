@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-26T04:21:59.118280+00:00",
-  "count": 28,
+  "updated_at": "2026-11-26T07:41:24.576494+00:00",
+  "count": 31,
   "deals": [
     {
       "dealID": "steam-1174180",
@@ -60,20 +60,6 @@
       "discountExpiration": 1796061600
     },
     {
-      "dealID": "steam-1412913",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "SILENT HILL 2 & SILENT HILL f Standard Dual Pack",
-      "salePrice": 187.21,
-      "normalPrice": 534.9,
-      "savings": 65,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1412913/7a18bda5c6ec6a6a53a880ec4451349ab4da1bfe/header_ratio.jpg?t=1764007149",
-      "dealURL": "https://store.steampowered.com/app/1412913/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796839200
-    },
-    {
       "dealID": "steam-1086940",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -102,32 +88,32 @@
       "discountExpiration": 1796320800
     },
     {
-      "dealID": "steam-4019220",
+      "dealID": "steam-1412913",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Dressmaker",
-      "salePrice": 42.77,
-      "normalPrice": 53.47,
-      "savings": 20,
+      "title": "SILENT HILL 2 & SILENT HILL f Standard Dual Pack",
+      "salePrice": 187.21,
+      "normalPrice": 534.9,
+      "savings": 65,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1794041965",
-      "dealURL": "https://store.steampowered.com/app/4019220/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1412913/7a18bda5c6ec6a6a53a880ec4451349ab4da1bfe/header_ratio.jpg?t=1764007149",
+      "dealURL": "https://store.steampowered.com/app/1412913/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796839200
     },
     {
-      "dealID": "steam-3768760",
+      "dealID": "steam-1817070",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "007 First Light",
-      "salePrice": 149.5,
-      "normalPrice": 299.0,
-      "savings": 50,
+      "title": "Marvel’s Spider-Man Remastered",
+      "salePrice": 99.96,
+      "normalPrice": 249.9,
+      "savings": 60,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795019577",
-      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+      "dealURL": "https://store.steampowered.com/app/1817070/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796666400
+      "discountExpiration": 1796148000
     },
     {
       "dealID": "steam-2215430",
@@ -144,6 +130,20 @@
       "discountExpiration": 1796148000
     },
     {
+      "dealID": "steam-3768760",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "007 First Light",
+      "salePrice": 149.5,
+      "normalPrice": 299.0,
+      "savings": 50,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795019577",
+      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796666400
+    },
+    {
       "dealID": "steam-4080220",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -158,6 +158,48 @@
       "discountExpiration": 1796320800
     },
     {
+      "dealID": "steam-4356430",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "NBA 2K27",
+      "salePrice": 157.05,
+      "normalPrice": 349.0,
+      "savings": 55,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1792163139",
+      "dealURL": "https://store.steampowered.com/app/4356430/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796407200
+    },
+    {
+      "dealID": "steam-5351940",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Triads",
+      "salePrice": 28.89,
+      "normalPrice": 33.99,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5351940/af7fd0a2fd1717c27ddcebf1cafec752fbaf126b/header.jpg?t=1795675181",
+      "dealURL": "https://store.steampowered.com/app/5351940/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796234439
+    },
+    {
+      "dealID": "steam-4738220",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "NGL Biathlon 2027",
+      "salePrice": 56.79,
+      "normalPrice": 70.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738220/3528807cb701b9b6f2930950cf14ba1ecd7d48af/header.jpg?t=1795676379",
+      "dealURL": "https://store.steampowered.com/app/4738220/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796839201
+    },
+    {
       "dealID": "steam-5423300",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -166,7 +208,7 @@
       "normalPrice": 17.99,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423300/e47621716c70cb93ade7e52a22c827df183d5509/header.jpg?t=1795663565",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423300/e47621716c70cb93ade7e52a22c827df183d5509/header.jpg?t=1795666709",
       "dealURL": "https://store.steampowered.com/app/5423300/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796839204
@@ -270,6 +312,20 @@
       "discountExpiration": 1796234410
     },
     {
+      "dealID": "steam-5103180",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Nib Unleashed",
+      "salePrice": 19.59,
+      "normalPrice": 24.49,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103180/b768f34d60f4af526de58f31ed027fd8fd8aeada/header.jpg?t=1795651806",
+      "dealURL": "https://store.steampowered.com/app/5103180/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796234404
+    },
+    {
       "dealID": "steam-5572050",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -348,7 +404,7 @@
       "normalPrice": 17.99,
       "savings": 15,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136620/ba41f1c170bf7c8ac4687be396676ea386bf9750/header.jpg?t=1795644248",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136620/ba41f1c170bf7c8ac4687be396676ea386bf9750/header.jpg?t=1795678635",
       "dealURL": "https://store.steampowered.com/app/5136620/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796839207
@@ -380,20 +436,6 @@
       "dealURL": "https://store.steampowered.com/app/4959410/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796234433
-    },
-    {
-      "dealID": "steam-5378450",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Goblin Hoarder",
-      "salePrice": 19.34,
-      "normalPrice": 21.49,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378450/2ff2a2b08cc5a21fa6c107d72dca6606ce8bd1c6/header.jpg?t=1795663828",
-      "dealURL": "https://store.steampowered.com/app/5378450/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796839237
     }
   ]
 }
