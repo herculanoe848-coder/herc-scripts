@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-27T04:24:21.211808+00:00",
-  "count": 38,
+  "updated_at": "2026-11-27T07:39:45.505201+00:00",
+  "count": 37,
   "deals": [
     {
       "dealID": "steam-1174180",
@@ -60,20 +60,6 @@
       "discountExpiration": 1796839200
     },
     {
-      "dealID": "steam-2138330",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Cyberpunk 2077: Phantom Liberty",
-      "salePrice": 59.99,
-      "normalPrice": 99.99,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1794474915",
-      "dealURL": "https://store.steampowered.com/app/2138330/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796950800
-    },
-    {
       "dealID": "steam-1222140",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -88,18 +74,18 @@
       "discountExpiration": 1796061600
     },
     {
-      "dealID": "steam-1086940",
+      "dealID": "steam-2138330",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Baldur's Gate 3",
-      "salePrice": 139.99,
-      "normalPrice": 199.99,
-      "savings": 30,
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "salePrice": 59.99,
+      "normalPrice": 99.99,
+      "savings": 40,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-      "dealURL": "https://store.steampowered.com/app/1086940/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1794474915",
+      "dealURL": "https://store.steampowered.com/app/2138330/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796061600
+      "discountExpiration": 1796950800
     },
     {
       "dealID": "steam-1412913",
@@ -116,6 +102,20 @@
       "discountExpiration": 1796839200
     },
     {
+      "dealID": "steam-1086940",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Baldur's Gate 3",
+      "salePrice": 139.99,
+      "normalPrice": 199.99,
+      "savings": 30,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "dealURL": "https://store.steampowered.com/app/1086940/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796061600
+    },
+    {
       "dealID": "steam-1426210",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -130,18 +130,18 @@
       "discountExpiration": 1796320800
     },
     {
-      "dealID": "steam-3768760",
+      "dealID": "steam-1593500",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "007 First Light",
-      "salePrice": 149.5,
-      "normalPrice": 299.0,
-      "savings": 50,
+      "title": "God of War",
+      "salePrice": 79.96,
+      "normalPrice": 199.9,
+      "savings": 60,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795703859",
-      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+      "dealURL": "https://store.steampowered.com/app/1593500/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796666400
+      "discountExpiration": 1796148000
     },
     {
       "dealID": "steam-32470",
@@ -172,18 +172,74 @@
       "discountExpiration": 1796320800
     },
     {
-      "dealID": "steam-1593500",
+      "dealID": "steam-5178240",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "God of War",
-      "salePrice": 79.96,
-      "normalPrice": 199.9,
-      "savings": 60,
+      "title": "Just Weeding",
+      "salePrice": 15.29,
+      "normalPrice": 16.99,
+      "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-      "dealURL": "https://store.steampowered.com/app/1593500/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5178240/b9fcb376c82b081496ccf92d349c5e4c584852f7/header.jpg?t=1795758345",
+      "dealURL": "https://store.steampowered.com/app/5178240/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796148000
+      "discountExpiration": 1796320844
+    },
+    {
+      "dealID": "steam-5013410",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "TIDE OR HIDE",
+      "salePrice": 11.59,
+      "normalPrice": 14.49,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013410/7a01da1c7ece7bc7727aa0b1c8fa99927c5883ea/header.jpg?t=1795756448",
+      "dealURL": "https://store.steampowered.com/app/5013410/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796925604
+    },
+    {
+      "dealID": "steam-5077430",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Dead Man's Clock",
+      "salePrice": 15.59,
+      "normalPrice": 19.49,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077430/7437bd428ea2f446d50905921780ef953f15e801/header.jpg?t=1795753526",
+      "dealURL": "https://store.steampowered.com/app/5077430/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796925625
+    },
+    {
+      "dealID": "steam-2533700",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Love, in Debt!?",
+      "salePrice": 24.07,
+      "normalPrice": 26.75,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2533700/f0271b33fb10144807723e7e99cdb6252ddfe317/header.jpg?t=1795752016",
+      "dealURL": "https://store.steampowered.com/app/2533700/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320814
+    },
+    {
+      "dealID": "steam-5417370",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "东方自走棋",
+      "salePrice": 9.89,
+      "normalPrice": 10.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417370/a1bf506edef690f76e8dfbdb883b9ecaa3234817/header.jpg?t=1795751923",
+      "dealURL": "https://store.steampowered.com/app/5417370/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320841
     },
     {
       "dealID": "steam-4613550",
@@ -194,21 +250,35 @@
       "normalPrice": 37.49,
       "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613550/209398abb1683dab0c540dd12678d091c7d37370/header.jpg?t=1795752893",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613550/209398abb1683dab0c540dd12678d091c7d37370/header.jpg?t=1795763540",
       "dealURL": "https://store.steampowered.com/app/4613550/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796320828
+    },
+    {
+      "dealID": "steam-4138760",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "The Adventure of Subject 41",
+      "salePrice": 14.39,
+      "normalPrice": 17.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4138760/7788b98773ca275840734d4ec3a8633eb0ce8fe6/header.jpg?t=1795754853",
+      "dealURL": "https://store.steampowered.com/app/4138760/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320851
     },
     {
       "dealID": "steam-5044750",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
       "title": "Mole & Ore",
-      "salePrice": 19.59,
-      "normalPrice": 24.49,
+      "salePrice": 17.19,
+      "normalPrice": 21.49,
       "savings": 20,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044750/86ed108666be2e98570a74cf1df5adb33e3b832e/header.jpg?t=1795753156",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044750/86ed108666be2e98570a74cf1df5adb33e3b832e/header.jpg?t=1795759129",
       "dealURL": "https://store.steampowered.com/app/5044750/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796925604
@@ -242,6 +312,20 @@
       "discountExpiration": 1796320853
     },
     {
+      "dealID": "steam-4986500",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Lineup, Dark Lord! : Auto Battler",
+      "salePrice": 33.74,
+      "normalPrice": 37.49,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986500/91bef391e65ca735dbc945bb40fbdfee818e60fb/header.jpg?t=1795748591",
+      "dealURL": "https://store.steampowered.com/app/4986500/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320810
+    },
+    {
       "dealID": "steam-4793980",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -254,6 +338,20 @@
       "dealURL": "https://store.steampowered.com/app/4793980/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796925612
+    },
+    {
+      "dealID": "steam-5521810",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Just a Villager MMORPG",
+      "salePrice": 26.34,
+      "normalPrice": 30.99,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5521810/54e13c5cb0db4c60941e7810711da76080f7a37a/header.jpg?t=1795747858",
+      "dealURL": "https://store.steampowered.com/app/5521810/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796320846
     },
     {
       "dealID": "steam-4308270",
@@ -296,6 +394,20 @@
       "dealURL": "https://store.steampowered.com/app/5520280/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796925611
+    },
+    {
+      "dealID": "steam-5370360",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Digging In The Desert",
+      "salePrice": 15.04,
+      "normalPrice": 21.49,
+      "savings": 30,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370360/6dc98d743773c16010e04ce5876f12f6f6a539ef/header.jpg?t=1795743463",
+      "dealURL": "https://store.steampowered.com/app/5370360/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796925642
     },
     {
       "dealID": "steam-2965060",
@@ -376,7 +488,7 @@
       "normalPrice": 17.99,
       "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5427620/fdf2346b3ed6e79aab1fd289fc5618b0d272cbdc/header.jpg?t=1795740500",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5427620/fdf2346b3ed6e79aab1fd289fc5618b0d272cbdc/header.jpg?t=1795759503",
       "dealURL": "https://store.steampowered.com/app/5427620/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796320817
@@ -408,132 +520,6 @@
       "dealURL": "https://store.steampowered.com/app/5417420/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796925608
-    },
-    {
-      "dealID": "steam-5417190",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Oops! All Mimics",
-      "salePrice": 14.39,
-      "normalPrice": 17.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417190/7474ab7c9008953d1ed079db0c26a0248a2f158c/header.jpg?t=1795736859",
-      "dealURL": "https://store.steampowered.com/app/5417190/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796320837
-    },
-    {
-      "dealID": "steam-5161950",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "HauntedHouseNO14",
-      "salePrice": 17.19,
-      "normalPrice": 21.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5161950/c774df2c3679927c3bd2fec7320ba04e3754aa2d/header.jpg?t=1795736267",
-      "dealURL": "https://store.steampowered.com/app/5161950/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796925645
-    },
-    {
-      "dealID": "steam-3926400",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Dados Estelares",
-      "salePrice": 7.15,
-      "normalPrice": 7.95,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926400/c2dbe68c7103ac9e207ed29ba4648f6940ec4f5b/header_brazilian.jpg?t=1795735585",
-      "dealURL": "https://store.steampowered.com/app/3926400/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796925624
-    },
-    {
-      "dealID": "steam-5056880",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Fired",
-      "salePrice": 21.99,
-      "normalPrice": 27.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5056880/4cb6ad025149752f3295f0b3a006d40660087242/header.jpg?t=1795734857",
-      "dealURL": "https://store.steampowered.com/app/5056880/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796580009
-    },
-    {
-      "dealID": "steam-4303120",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Blank Slate",
-      "salePrice": 20.81,
-      "normalPrice": 24.49,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303120/dfa98e698f606199aa9f1e417bf2748d32de9357/header.jpg?t=1795734133",
-      "dealURL": "https://store.steampowered.com/app/4303120/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796925649
-    },
-    {
-      "dealID": "steam-2981290",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "1 AM MOSCOW TIME",
-      "salePrice": 30.59,
-      "normalPrice": 33.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981290/c75fcea5d3bb992945770e7c2cc6ce3b0227a189/header.jpg?t=1795730420",
-      "dealURL": "https://store.steampowered.com/app/2981290/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796320818
-    },
-    {
-      "dealID": "steam-3636060",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "RogueDiceR",
-      "salePrice": 27.25,
-      "normalPrice": 46.99,
-      "savings": 42,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636060/ffe90f2037c885fe1a2754ed9bc7d90ba4dc5d39/header.jpg?t=1795729223",
-      "dealURL": "https://store.steampowered.com/app/3636060/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796936400
-    },
-    {
-      "dealID": "steam-4769590",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Gorgo: Mother of sparta",
-      "salePrice": 9.59,
-      "normalPrice": 11.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769590/df6a928bc5879f430842ad96ad70d889f8ea5b0a/header.jpg?t=1795728472",
-      "dealURL": "https://store.steampowered.com/app/4769590/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796320850
-    },
-    {
-      "dealID": "steam-3483920",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "SixteenPetals",
-      "salePrice": 21.15,
-      "normalPrice": 23.5,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483920/5d3c17e1a4152f6c56a00f6f61bb847068ed192a/header.jpg?t=1795728316",
-      "dealURL": "https://store.steampowered.com/app/3483920/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796320814
     }
   ]
 }
