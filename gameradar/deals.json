@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-28T07:33:23.302630+00:00",
-  "count": 30,
+  "updated_at": "2026-11-28T10:06:53.843052+00:00",
+  "count": 32,
   "deals": [
     {
       "dealID": "steam-1091500",
@@ -46,6 +46,20 @@
       "discountExpiration": 1796666400
     },
     {
+      "dealID": "steam-1086940",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Baldur's Gate 3",
+      "salePrice": 139.99,
+      "normalPrice": 199.99,
+      "savings": 30,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "dealURL": "https://store.steampowered.com/app/1086940/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796061600
+    },
+    {
       "dealID": "steam-2138330",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -58,6 +72,20 @@
       "dealURL": "https://store.steampowered.com/app/2138330/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796950800
+    },
+    {
+      "dealID": "steam-3768760",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "007 First Light",
+      "salePrice": 149.5,
+      "normalPrice": 299.0,
+      "savings": 50,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795703859",
+      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796666400
     },
     {
       "dealID": "steam-2947440",
@@ -74,34 +102,6 @@
       "discountExpiration": 1796839200
     },
     {
-      "dealID": "steam-1086940",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Baldur's Gate 3",
-      "salePrice": 139.99,
-      "normalPrice": 199.99,
-      "savings": 30,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-      "dealURL": "https://store.steampowered.com/app/1086940/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796061600
-    },
-    {
-      "dealID": "steam-1222140",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Detroit: Become Human",
-      "salePrice": 19.99,
-      "normalPrice": 199.99,
-      "savings": 90,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
-      "dealURL": "https://store.steampowered.com/app/1222140/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796061600
-    },
-    {
       "dealID": "steam-1593500",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -116,6 +116,20 @@
       "discountExpiration": 1796148000
     },
     {
+      "dealID": "steam-2909400",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "FINAL FANTASY VII REBIRTH",
+      "salePrice": 32.98,
+      "normalPrice": 219.9,
+      "savings": 85,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
+      "dealURL": "https://store.steampowered.com/app/2909400/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796234400
+    },
+    {
       "dealID": "steam-1426210",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -128,20 +142,6 @@
       "dealURL": "https://store.steampowered.com/app/1426210/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796320800
-    },
-    {
-      "dealID": "steam-1817070",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Marvel’s Spider-Man Remastered",
-      "salePrice": 99.96,
-      "normalPrice": 249.9,
-      "savings": 60,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
-      "dealURL": "https://store.steampowered.com/app/1817070/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796148000
     },
     {
       "dealID": "steam-32470",
@@ -170,6 +170,34 @@
       "dealURL": "https://store.steampowered.com/app/4080220/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796320800
+    },
+    {
+      "dealID": "steam-5545050",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "CLT Supermarket",
+      "salePrice": 16.14,
+      "normalPrice": 17.94,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545050/5b83b36a9bbc82e9df48bbb05748ab34a501fdbd/header.jpg?t=1795853155",
+      "dealURL": "https://store.steampowered.com/app/5545050/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796493651
+    },
+    {
+      "dealID": "steam-5568040",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Deep Clean",
+      "salePrice": 24.74,
+      "normalPrice": 27.49,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568040/e9e3222e58f9845e6f48d950523eaa9ec5790e1f/header.jpg?t=1795852497",
+      "dealURL": "https://store.steampowered.com/app/5568040/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796407219
     },
     {
       "dealID": "steam-4213770",
@@ -212,6 +240,20 @@
       "dealURL": "https://store.steampowered.com/app/5489160/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796407227
+    },
+    {
+      "dealID": "steam-5530840",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Spreadcube",
+      "salePrice": 30.59,
+      "normalPrice": 33.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5530840/8fd1e3d4e6426cacdb42d0c5e6f41644dfb0dff7/header.jpg?t=1795843090",
+      "dealURL": "https://store.steampowered.com/app/5530840/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796580008
     },
     {
       "dealID": "steam-5317930",
@@ -326,6 +368,20 @@
       "discountExpiration": 1797012001
     },
     {
+      "dealID": "steam-5039070",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Jester's Dungeon",
+      "salePrice": 15.04,
+      "normalPrice": 21.49,
+      "savings": 30,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039070/5d4022665860e899690085f4224105f4074fb5c6/header.jpg?t=1795825082",
+      "dealURL": "https://store.steampowered.com/app/5039070/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796839242
+    },
+    {
       "dealID": "steam-1972940",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -394,34 +450,6 @@
       "dealURL": "https://store.steampowered.com/app/5507430/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796407243
-    },
-    {
-      "dealID": "steam-5044910",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Destined Dungeon Quest",
-      "salePrice": 30.59,
-      "normalPrice": 33.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044910/4737b8a866bc1a664137120642dfd4ee47eeb9df/header.jpg?t=1795848042",
-      "dealURL": "https://store.steampowered.com/app/5044910/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1797012008
-    },
-    {
-      "dealID": "steam-5489800",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Necromante: O Despertar dos Mortos",
-      "salePrice": 15.29,
-      "normalPrice": 17.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5489800/41855cc38976691bebb83b1cb75ae7569bbf247d/header.jpg?t=1795819422",
-      "dealURL": "https://store.steampowered.com/app/5489800/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1797012040
     }
   ]
 }
