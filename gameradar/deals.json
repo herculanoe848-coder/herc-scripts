@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-28T13:18:59.943124+00:00",
-  "count": 34,
+  "updated_at": "2026-11-28T16:02:02.341898+00:00",
+  "count": 33,
   "deals": [
     {
       "dealID": "steam-1174180",
@@ -88,6 +88,20 @@
       "discountExpiration": 1796839200
     },
     {
+      "dealID": "steam-2215430",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Ghost of Tsushima VERSÃO DO DIRETOR",
+      "salePrice": 124.95,
+      "normalPrice": 249.9,
+      "savings": 50,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+      "dealURL": "https://store.steampowered.com/app/2215430/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
+    },
+    {
       "dealID": "steam-1593500",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -102,32 +116,18 @@
       "discountExpiration": 1796148000
     },
     {
-      "dealID": "steam-2909400",
+      "dealID": "steam-1426210",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "FINAL FANTASY VII REBIRTH",
-      "salePrice": 32.98,
-      "normalPrice": 219.9,
-      "savings": 85,
+      "title": "It Takes Two",
+      "salePrice": 39.8,
+      "normalPrice": 199.0,
+      "savings": 80,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
-      "dealURL": "https://store.steampowered.com/app/2909400/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_brazilian.jpg?t=1777395376",
+      "dealURL": "https://store.steampowered.com/app/1426210/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796234400
-    },
-    {
-      "dealID": "steam-3768760",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "007 First Light",
-      "salePrice": 149.5,
-      "normalPrice": 299.0,
-      "savings": 50,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795703859",
-      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796666400
+      "discountExpiration": 1796320800
     },
     {
       "dealID": "steam-1222140",
@@ -172,18 +172,60 @@
       "discountExpiration": null
     },
     {
-      "dealID": "steam-4435490",
+      "dealID": "steam-1651240",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "Call of Duty®: Modern Warfare® 4",
-      "salePrice": 254.15,
-      "normalPrice": 299.0,
-      "savings": 15,
+      "title": "Por favor não chame de jogo lixo streamer: HAPPY NANARU",
+      "salePrice": 9.0,
+      "normalPrice": 10.0,
+      "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794873974",
-      "dealURL": "https://store.steampowered.com/app/4435490/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1651240/cbdb4cee8913d2f9144be0cb139266c21c9d4c90/header_brazilian.jpg?t=1795878958",
+      "dealURL": "https://store.steampowered.com/app/1651240/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796148000
+      "discountExpiration": 1797098454
+    },
+    {
+      "dealID": "steam-5100200",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Horny Orc Alchemist 🧪🔞",
+      "salePrice": 53.1,
+      "normalPrice": 88.5,
+      "savings": 40,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100200/f39e3fcec451ad1cdb4f334e2cbaee3799a08fd6/header.jpg?t=1795876851",
+      "dealURL": "https://store.steampowered.com/app/5100200/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1797098425
+    },
+    {
+      "dealID": "steam-5298300",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Football Ambition 27",
+      "salePrice": 36.36,
+      "normalPrice": 48.49,
+      "savings": 25,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5298300/6fa2390b074aa6e10f1d9d4211a9d982707dc7a7/header.jpg?t=1795874172",
+      "dealURL": "https://store.steampowered.com/app/5298300/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1797098409
+    },
+    {
+      "dealID": "steam-5596460",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "The Old Circle: Ecos da Masmorra",
+      "salePrice": 16.19,
+      "normalPrice": 17.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596460/2c03f81599344583a205c27c9deffd0676c0d983/header.jpg?t=1795870189",
+      "dealURL": "https://store.steampowered.com/app/5596460/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796493646
     },
     {
       "dealID": "steam-4733430",
@@ -222,10 +264,24 @@
       "normalPrice": 17.99,
       "savings": 20,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5594590/71d9db50d77206e942c1d3a2e95b1655c911c18a/header.jpg?t=1795861233",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5594590/71d9db50d77206e942c1d3a2e95b1655c911c18a/header.jpg?t=1795879171",
       "dealURL": "https://store.steampowered.com/app/5594590/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796752831
+    },
+    {
+      "dealID": "steam-4795890",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Yokai Art 2: The Lost Relics DLC",
+      "salePrice": 10.07,
+      "normalPrice": 11.85,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4795890/f4378982b0bfa91ca335c73ed47cf9bb34f60bc7/header.jpg?t=1795858853",
+      "dealURL": "https://store.steampowered.com/app/4795890/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1797098451
     },
     {
       "dealID": "steam-5356280",
@@ -348,7 +404,7 @@
       "normalPrice": 33.99,
       "savings": 10,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5530840/8fd1e3d4e6426cacdb42d0c5e6f41644dfb0dff7/header.jpg?t=1795843090",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5530840/8fd1e3d4e6426cacdb42d0c5e6f41644dfb0dff7/header.jpg?t=1795874087",
       "dealURL": "https://store.steampowered.com/app/5530840/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1796580008
@@ -408,76 +464,6 @@
       "dealURL": "https://store.steampowered.com/app/4535780/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1797012041
-    },
-    {
-      "dealID": "steam-5052710",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "lucky me",
-      "salePrice": 31.99,
-      "normalPrice": 39.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052710/d4716158fa20176c0281dfb592a3913529aebbb7/header.jpg?t=1795835683",
-      "dealURL": "https://store.steampowered.com/app/5052710/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1797012012
-    },
-    {
-      "dealID": "steam-5045300",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Spin of the Demon Realm",
-      "salePrice": 26.34,
-      "normalPrice": 30.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045300/2595a76bf6ab3f64acf0fdf330567a0de0ab78df/header.jpg?t=1795830122",
-      "dealURL": "https://store.steampowered.com/app/5045300/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1797012051
-    },
-    {
-      "dealID": "steam-4512860",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "NEKO-NIN exHeart SPIN! 2",
-      "salePrice": 75.59,
-      "normalPrice": 83.99,
-      "savings": 10,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512860/e3728ab47b022b02f2f5bb16fe9c98ca42db8a30/header.jpg?t=1795827436",
-      "dealURL": "https://store.steampowered.com/app/4512860/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1797012015
-    },
-    {
-      "dealID": "steam-5251450",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Hentai Tales: Tanned Childhood Hidden Tits",
-      "salePrice": 3.27,
-      "normalPrice": 5.45,
-      "savings": 40,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5251450/7c6a98aeaccf93a94682725a90c91f0283d89c19/header.jpg?t=1795824968",
-      "dealURL": "https://store.steampowered.com/app/5251450/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1797012001
-    },
-    {
-      "dealID": "steam-5039070",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Jester's Dungeon",
-      "salePrice": 15.04,
-      "normalPrice": 21.49,
-      "savings": 30,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039070/5d4022665860e899690085f4224105f4074fb5c6/header.jpg?t=1795825082",
-      "dealURL": "https://store.steampowered.com/app/5039070/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796839242
     }
   ]
 }
