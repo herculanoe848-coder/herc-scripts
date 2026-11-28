@@ -1,7 +1,7 @@
 {
   "source": "https://store.steampowered.com/api/featuredcategories/?cc=br&l=brazilian",
-  "updated_at": "2026-11-28T01:34:07.657440+00:00",
-  "count": 33,
+  "updated_at": "2026-11-28T04:15:27.920527+00:00",
+  "count": 32,
   "deals": [
     {
       "dealID": "steam-1091500",
@@ -60,20 +60,6 @@
       "discountExpiration": 1796950800
     },
     {
-      "dealID": "steam-2947440",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "SILENT HILL f",
-      "salePrice": 97.97,
-      "normalPrice": 349.9,
-      "savings": 72,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
-      "dealURL": "https://store.steampowered.com/app/2947440/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796839200
-    },
-    {
       "dealID": "steam-1086940",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -88,18 +74,18 @@
       "discountExpiration": 1796061600
     },
     {
-      "dealID": "steam-3768760",
+      "dealID": "steam-2947440",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
-      "title": "007 First Light",
-      "salePrice": 149.5,
-      "normalPrice": 299.0,
-      "savings": 50,
+      "title": "SILENT HILL f",
+      "salePrice": 97.97,
+      "normalPrice": 349.9,
+      "savings": 72,
       "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795703859",
-      "dealURL": "https://store.steampowered.com/app/3768760/?l=brazilian&cc=br",
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
+      "dealURL": "https://store.steampowered.com/app/2947440/?l=brazilian&cc=br",
       "currency": "BRL",
-      "discountExpiration": 1796666400
+      "discountExpiration": 1796839200
     },
     {
       "dealID": "steam-1222140",
@@ -144,6 +130,20 @@
       "discountExpiration": 1796320800
     },
     {
+      "dealID": "steam-1817070",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Marvel’s Spider-Man Remastered",
+      "salePrice": 99.96,
+      "normalPrice": 249.9,
+      "savings": 60,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+      "dealURL": "https://store.steampowered.com/app/1817070/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796148000
+    },
+    {
       "dealID": "steam-4080220",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -170,6 +170,48 @@
       "dealURL": "https://store.steampowered.com/app/32470/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": null
+    },
+    {
+      "dealID": "steam-4356430",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "NBA 2K27",
+      "salePrice": 157.05,
+      "normalPrice": 349.0,
+      "savings": 55,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1795798696",
+      "dealURL": "https://store.steampowered.com/app/4356430/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796407200
+    },
+    {
+      "dealID": "steam-4135050",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Kameko: Cosplay Love Story",
+      "salePrice": 54.89,
+      "normalPrice": 60.99,
+      "savings": 10,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135050/548114fbb003375644cc117b20e114cf50b0f4ca/header_alt_assets_0.jpg?t=1795834820",
+      "dealURL": "https://store.steampowered.com/app/4135050/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1797012018
+    },
+    {
+      "dealID": "steam-5052710",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "lucky me",
+      "salePrice": 31.99,
+      "normalPrice": 39.99,
+      "savings": 20,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052710/d4716158fa20176c0281dfb592a3913529aebbb7/header.jpg?t=1795835683",
+      "dealURL": "https://store.steampowered.com/app/5052710/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1797012012
     },
     {
       "dealID": "steam-5477010",
@@ -200,20 +242,6 @@
       "discountExpiration": 1796407239
     },
     {
-      "dealID": "steam-5507430",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Survivors",
-      "salePrice": 26.34,
-      "normalPrice": 30.99,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507430/f76eff3215f5066c585d01e4db39f701eb45db71/header.jpg?t=1795821345",
-      "dealURL": "https://store.steampowered.com/app/5507430/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407243
-    },
-    {
       "dealID": "steam-5044910",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -226,6 +254,34 @@
       "dealURL": "https://store.steampowered.com/app/5044910/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1797012008
+    },
+    {
+      "dealID": "steam-5489800",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "Necromante: O Despertar dos Mortos",
+      "salePrice": 15.29,
+      "normalPrice": 17.99,
+      "savings": 15,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5489800/41855cc38976691bebb83b1cb75ae7569bbf247d/header.jpg?t=1795819422",
+      "dealURL": "https://store.steampowered.com/app/5489800/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1797012040
+    },
+    {
+      "dealID": "steam-5434690",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "How Smart Are You",
+      "salePrice": 7.14,
+      "normalPrice": 10.99,
+      "savings": 35,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434690/aa6315869b1c78885659bff5461df244c529cc52/header.jpg?t=1795818692",
+      "dealURL": "https://store.steampowered.com/app/5434690/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1796407230
     },
     {
       "dealID": "steam-4476390",
@@ -326,6 +382,20 @@
       "discountExpiration": 1796407242
     },
     {
+      "dealID": "steam-5007670",
+      "storeID": "steam",
+      "storeName": "Steam (Brasil)",
+      "title": "SUCCUBUS MONSTER CARDS 2",
+      "salePrice": 28.59,
+      "normalPrice": 43.99,
+      "savings": 35,
+      "dealRating": 0,
+      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007670/f04ab225a8206ec13925a63fc6294ff629e6e1f0/header.jpg?t=1795808569",
+      "dealURL": "https://store.steampowered.com/app/5007670/?l=brazilian&cc=br",
+      "currency": "BRL",
+      "discountExpiration": 1797012047
+    },
+    {
       "dealID": "steam-5165650",
       "storeID": "steam",
       "storeName": "Steam (Brasil)",
@@ -380,90 +450,6 @@
       "dealURL": "https://store.steampowered.com/app/5564710/?l=brazilian&cc=br",
       "currency": "BRL",
       "discountExpiration": 1797012015
-    },
-    {
-      "dealID": "steam-3957870",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "A Dream You Had Before the Dream You Had Before the Dream",
-      "salePrice": 17.19,
-      "normalPrice": 21.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957870/41bbc5d6ea7438c02ff71bd01d4297d8f002b2de/header.jpg?t=1795819841",
-      "dealURL": "https://store.steampowered.com/app/3957870/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1797012035
-    },
-    {
-      "dealID": "steam-5019070",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Dusky's Nook",
-      "salePrice": 14.39,
-      "normalPrice": 17.99,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019070/2ea821b6e321e6ca64f4971c4e9d8348de977b93/header.jpg?t=1795804873",
-      "dealURL": "https://store.steampowered.com/app/5019070/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407212
-    },
-    {
-      "dealID": "steam-5537480",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "SUFA: Strike Fighter",
-      "salePrice": 41.21,
-      "normalPrice": 48.49,
-      "savings": 15,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537480/6057750c1415f9e0cc70f8c3cbc79ccb3e68ec5f/header.jpg?t=1795804326",
-      "dealURL": "https://store.steampowered.com/app/5537480/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407205
-    },
-    {
-      "dealID": "steam-4459990",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "Screen Survivors",
-      "salePrice": 10.14,
-      "normalPrice": 14.49,
-      "savings": 30,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459990/c319b335377e4921763af03b01c61540e01e1a23/header.jpg?t=1795803862",
-      "dealURL": "https://store.steampowered.com/app/4459990/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1797012020
-    },
-    {
-      "dealID": "steam-4366900",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "I Opened an Idle Bar So I Can GOON to HOT GIRLS",
-      "salePrice": 19.59,
-      "normalPrice": 24.49,
-      "savings": 20,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366900/0a027f9a63a885a10b71cba062e21d202da3dfd5/header.jpg?t=1795812596",
-      "dealURL": "https://store.steampowered.com/app/4366900/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1796407221
-    },
-    {
-      "dealID": "steam-4915180",
-      "storeID": "steam",
-      "storeName": "Steam (Brasil)",
-      "title": "EXORCISMUS: Vade Retro Satana",
-      "salePrice": 20.06,
-      "normalPrice": 26.75,
-      "savings": 25,
-      "dealRating": 0,
-      "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915180/ec3a61cd5015f25e582ab04830412c4a2475357f/header.jpg?t=1795802926",
-      "dealURL": "https://store.steampowered.com/app/4915180/?l=brazilian&cc=br",
-      "currency": "BRL",
-      "discountExpiration": 1797012051
     }
   ]
 }
